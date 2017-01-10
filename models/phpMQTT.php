@@ -203,6 +203,8 @@ class phpMQTT {
 		
 		$bytes = ord(substr($string,1,1));
 		$string = $this->read($bytes);
+
+
 	}
 
 	/* ping: sends a keep alive ping */
