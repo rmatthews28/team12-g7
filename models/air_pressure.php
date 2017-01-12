@@ -6,6 +6,7 @@
  * Date: 11/01/17
  * Time: 11:12
  */
+require('../models/phpMQTT.php');
 class air_pressure
 {
     private $data;
@@ -24,7 +25,7 @@ class air_pressure
      */
     public function getData()
     {
-        return $this->data;
+        $topics['/air_pressure'] = array("qos"=>0, "function"=>"procmsg");
     }
 
     /**

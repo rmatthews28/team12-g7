@@ -7,7 +7,9 @@
  * Time: 11:11
  */
 class humidity
+
 {
+    require('../phpMQTT.php');
     private $data;
     private $timestamp;
 

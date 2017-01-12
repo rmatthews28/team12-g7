@@ -1,0 +1,58 @@
+<<<<<<< Updated upstream
+<?php ?>
+    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+        <?php
+        $host = "146.87.2.99";
+        $port = "1883";
+        date_default_timezone_set('Europe/London');
+        $date_timezone = date_default_timezone_get();
+
+
+        $mqtt = new phpMQTT($host, $port, "ClientID" . rand());
+
+        if (!$mqtt->connect()) {
+            exit(1);
+        }
+
+        $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+
+        foreach ($weather_factors as $factor) {
+            $topics['/' . $factor] = array("qos" => 0, "function" => "procmsg");
+        }
+
+        $mqtt->subscribe($topics,0);
+        while($mqtt->proc()){
+
+        }
+        $mqtt->close();
+        function procmsg($topic,$msg){
+            echo "Msg Recieved: ".date("h:i:sa")."\nTopic:{$topic}\n$msg\n";
+        }
+        ?>
+    </form>
+<?php ?>
+=======
+<?php
+/**
+ * Created by PhpStorm.
+ * User: CameronCampbell
+ * Date: 12/01/2017
+ * Time: 13:40
+ */
+
+//<!DOCTYPE html>
+//<html lang="en">
+//  <head>
+//    <title>Campbell Co.</title>
+//    <meta charset="utf-8">
+//    <meta name="viewport" content="width=device-width, initial-scale=1">
+//    <link rel="shortcut icon" href="">
+//    <link rel="stylesheet" href="assets/css/main.css">
+//    <link rel="stylesheet" href="assets/css/icomoon32816/style.css">
+//    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
+//  </head>
+//  <body>
+//
+//  </body>
+//</html>
+>>>>>>> Stashed changes
