@@ -50,7 +50,7 @@ function procmsg($topic, $msg)
     $date = date("h:i:sa");
 
     $myfile = fopen(__DIR__ . "/".$topic.".txt", "w") or die("Unable to open file!");
-
+    //
     //$weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
     $id_for_data = 1;
     $check_new_line = "New Line";
