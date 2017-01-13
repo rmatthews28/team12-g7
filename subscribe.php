@@ -19,11 +19,18 @@ if(!$mqtt->connect()){
     exit(1);
 }
 
-$weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+//while(true) {
+    $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+    foreach ($weather_factors as $factor) {
+        $topics['/' . $factor] = array("qos" => 0, "function" => "procmsg");
+    }
+  //  sleep(1);
 
-foreach ($weather_factors as $factor) {
-    $topics['/' . $factor] = array("qos" => 0, "function" => "procmsg");
-}
+//}
+
+
+
+
 
 
 /*$topics['/temp'] = array("qos"=>0, "function"=>"procmsg");
@@ -49,12 +56,11 @@ function procmsg($topic, $msg)
     echo "Msg Recieved: " . date("h:i:sa") . "\nTopic:{$topic}\n$msg\n";
     $date = date("h:i:sa");
 
-    $myfile = fopen(__DIR__ . "/".$topic.".txt", "w") or die("Unable to open file!");
+    $myfile = fopen(__DIR__ . "/".$topic.".txt", "a") or die("Unable to open file!");
     //
     //$weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
-    $id_for_data = 1;
-    $check_new_line = "New Line";
-    $weather_data = $id_for_data . " | " . $topic . " | " . $msg . " | " . $date . PHP_EOL . $check_new_line;
+    //$check_new_line = "New Line";
+    $weather_data =$topic . " | " . $msg . " | " . $date /*. PHP_EOL*/;
         //$id_for_data++;
 
 
@@ -63,6 +69,7 @@ function procmsg($topic, $msg)
     //$myfile = fopen(__DIR__ . "/weatherdata.txt", "w") or die("Unable to open file!");
 
     //Showing where to locate files for data to be imported
+
 
     fwrite($myfile, $weather_data."\n");
 
