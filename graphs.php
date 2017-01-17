@@ -1,31 +1,16 @@
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
-<script src="http://code.highcharts.com/highcharts.src.js"></script>
-<script src="http://code.highcharts.com/highcharts-more.src.js"></script>
-<div id="temp_div"></div>
-<div id="humidity_div"></div>
-<div id="airpressure_div"></div>
-<div id="rain_div"></div>
-<div id="winds_div"></div>
-<div id="windd_div"></div>
-<div id="solar_div"></div>
-<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>
-<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>
-<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>
-
-
 <?php
-//main fucntion used for line graphs
+
 function getLineGraphData($filepath)
 {
     $handle = fopen($filepath, "r");
     if ($handle) {
         $i = 0;
-        while($i < 2500) {
+        while($i < 250) {
             /*while ((*/
             $line = fgets($handle);/*)) !== false) {*/
             // process the line read.
             $array = (explode("|", $line));
+
             $value = $array[1];
             $time = $array[2];
             $timeexplode = (explode(":", $time));
@@ -39,7 +24,7 @@ function getLineGraphData($filepath)
         //Error handling
     }
 }
-//gets the last line of the file, explodes into array, pulls the correct data
+
 function getLastLine($filename)
 {
     $line = trim(implode("", array_slice(file($filename), -1)));
@@ -47,35 +32,27 @@ function getLastLine($filename)
     $value = $array[1];
     return $value;
 }
-echo getLastLine("wind_d.txt");
-//testing function
-function getData2()
-{
-    $handle = file_get_contents("datatest.txt");
-    $array = (explode("|", $handle));
-    $value = $array[1];
-    $time = $array[2];
-    $timeexplode = (explode(":", $time));
-    echo "[".$timeexplode[0].", ".$timeexplode[1].", ".substr($timeexplode[2], 0, 2)."]";
-    //print_r($timeexplode);
-}
-//echo getData2();
-/*foreach(getData(datatest) as $data)
-{
-    echo "[".$data[1], $data[0]."]";
-}*/
-//echo "[[ 8, 30, 45 ], 4.7]";
-//echo getData(datatest)[4][0];
-//getData2();
-//echo file_get_contents("datatest.txt");
-$dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
-/*foreach ($dataArray as $value)
-{
-    echo "google.charts.setOnLoadCallback(draw".$value."Chart);";
-}*/
+
+
 ?>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.src.js"></script>
+<script src="http://code.highcharts.com/highcharts-more.src.js"></script>
+<div id="temp_div"></div>
+<div id="humidity_div"></div>
+<div id="airpressure_div"></div>
+<div id="rain_div"></div>
+<div id="winds_div"></div>
+<div id="windd_div"></div>
+<div id="solar_div"></div>
+<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>
+<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>.
+<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>
+
 
 <script>
+
     google.charts.load('current', {packages: ['corechart', 'line', 'gauge']});
     google.charts.setOnLoadCallback(drawTempChart);
     google.charts.setOnLoadCallback(drawHumidityChart);
@@ -86,15 +63,13 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
     google.charts.setOnLoadCallback(drawSolarChart);
     google.charts.setOnLoadCallback(drawWindspeedGauge);
     google.charts.setOnLoadCallback(drawAirpressureGauge);
+
+
     function drawTempChart() {
         var data = new google.visualization.DataTable();
         data.addColumn('timeofday', 'Time');
         data.addColumn('number', 'Temp');
-        var a = $.ajax({
-            url: "temp.txt",
-            dataType:"html",
-            async: false
-        }).responseText;
+
         //console.log(a);
         /*setInterval( function () {
          window.alert(a);
@@ -242,6 +217,7 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         var tempChart = new google.visualization.LineChart(document.getElementById('solar_div'));
         tempChart.draw(data, options);
     }
+
     function drawWindspeedGauge() {
         var data = google.visualization.arrayToDataTable([
             ['Label', 'Value'],
@@ -268,6 +244,7 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         data.setValue(0, 1, <?php echo getLastLine("air_pressure.txt") ?> );
         windspeedChart.draw(data, options);
     }
+
 </script>
 
 <script>
