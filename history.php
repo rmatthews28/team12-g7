@@ -7,28 +7,32 @@ if (isset($_POST["passengers"])) {
     Echo "Please slide the Slider Bar and Press Submit.";
 }
 
+
 function getData($topic)
 {
     $handle = fopen($topic . ".txt", "r");
     if ($handle) {
-        $i = 0;
+        $line = fgets($handle);
 
-            $line = fgets($handle);
-            // process the line read.
-
+        $last_line = '';
         $range = $_POST['passengers'];
 
-//            $trimmedLine = (implode("", array_slice(file($topic.".txt"), -1)));
-            $array = (explode("|", $line));
 
-            $file = escapeshellarg($topic . ".txt");
+        $array = (explode("", array_slice(file($topic . ".txt"), 1)));
+//            $array = (explode("|", $line));
+
+        $file = escapeshellarg($topic . ".txt");
+        if (isset($_POST['topLines'])) {
+            $last_line = `head -n $range $file`;
+        }
+
+        if (isset($_POST['lastLines'])) {
             $last_line = `tail -n $range $file`;
+        }
 
-
-            echo $last_line;
-            $value = $array[1];
-            echo $value;
-            $i++;
+        echo $last_line;
+        $value = $array[1];
+        echo $value;
         fclose($handle);
     } else
         echo 'No data found';

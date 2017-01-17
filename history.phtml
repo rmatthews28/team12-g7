@@ -33,13 +33,13 @@
             <input type="range" min="1" max="20" step="1" value="1" id="foo" name="passengers" onchange='document.getElementById("bar").value = "Slider Value = " + document.getElementById("foo").value;'/>
             <input type="text" name="bar" id="bar" value="Slider Value = 1" disabled />
             <br />
-            <input type=submit value=Submit />
-            <input type="radio" name="gender"
-                <?php if (isset($gender) && $gender=="female") echo "checked";?>
-                   value="female">Top Lines
-            <input type="radio" name="gender"
-                <?php if (isset($gender) && $gender=="male") echo "checked";?>
-                       value="male">Last Lines
+            <input type=submit name="topLines" value=Top Lines />
+            <input type=submit name="lastLines" value=Last Lines />
+
+            <!--            <select name="Order" class="btn btn-default dropdown-toggle" data-toggle="dropdown">-->
+<!--                <option value="top_Lines">Top Lines</option>-->
+<!--                <option value="last_Lines">Last Lines</option>-->
+<!--            </select>-->
         </form>
 
         <div class="history_data">
