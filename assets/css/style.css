@@ -456,12 +456,17 @@ section {
 
 header {
   width: 100vw;
-  display: block;
+  position: relative;
   background-color: #ddd;
   align-content: center;
   display: flex;
   align-items: center;
   padding-left: 2em; }
+  header img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer; }
 
 .body-container {
   max-width: 1200px;
@@ -588,7 +593,7 @@ button {
   margin-right: auto;
   display: flex;
   flex-wrap: wrap;
-  margin-top: -8em; }
+  margin-top: -5em; }
   #weather_wrapper::after {
     clear: both;
     content: "";
@@ -599,7 +604,6 @@ button {
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
-  background-color: #aaa;
   margin: 5em auto 0 auto; }
   .weather_data:last-child {
     margin-right: 0; }
@@ -651,6 +655,7 @@ button {
       display: inline-block;
       position: absolute;
       top: 10px;
-      right: 20px; }
+      right: 20px;
+      cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
