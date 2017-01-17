@@ -7,6 +7,7 @@ function getData($topic)
     if ($handle) {
         /*while ((*/$line = fgets($handle);/*)) !== false) {*/
             // process the line read.
+            //$line = `tail -n 1 $handle`;
             $array = (explode("|", $line));
             $value = $array[1];
             echo $value;
@@ -15,6 +16,13 @@ function getData($topic)
     } else {
         //Error handling
     }
+
+
+
+
+
+
+
 }
 
 

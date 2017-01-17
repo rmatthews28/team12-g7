@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0566028d-c5fd-4497-89dd-aa04f299abc3" name="Default" comment="Completed File System up and running with data coming in to all files">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/air_pressure.txt" afterPath="$PROJECT_DIR$/air_pressure.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/4-pages/main.sass" afterPath="$PROJECT_DIR$/assets/css/4-pages/main.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css.map" afterPath="$PROJECT_DIR$/assets/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphs.php" afterPath="$PROJECT_DIR$/graphs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/humidity.txt" afterPath="$PROJECT_DIR$/humidity.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.phtml" afterPath="$PROJECT_DIR$/index.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rain.txt" afterPath="$PROJECT_DIR$/rain.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solar.txt" afterPath="$PROJECT_DIR$/solar.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
@@ -107,7 +101,7 @@
       <file leaf-file-name="subscribe.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subscribe.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="465">
               <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding />
             </state>
@@ -370,7 +364,7 @@
       <workItem from="1484220885990" duration="11348000" />
       <workItem from="1484302791007" duration="27579000" />
       <workItem from="1484646807315" duration="419000" />
-      <workItem from="1484652955258" duration="17551000" />
+      <workItem from="1484652955258" duration="17614000" />
     </task>
     <task id="LOCAL-00001" summary="Change so that data goes onto file&#10;&#10;// Needs updating because only shows solar (Looks like its overwriting other data) //">
       <created>1484303731587</created>
@@ -397,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56897000" />
+    <option name="totallyTimeSpent" value="56960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -410,7 +404,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23975904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -842,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="465">
           <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
           <folding />
         </state>
