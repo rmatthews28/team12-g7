@@ -19,41 +19,61 @@ if(!$mqtt->connect()){
     exit(1);
 }
 
-$weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+//while(true) {
+    $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+    foreach ($weather_factors as $factor) {
+        $topics['/' . $factor] = array("qos" => 0, "function" => "procmsg");
+    }
+  //  sleep(1);
 
-foreach ($weather_factors as $factor) {
-    $topics['/'.$factor] = array("qos"=>0, "function"=>"procmsg");
+//}
 
 
-}
 
 
-//$topics['/temp'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/humidity'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/air_pressure'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/rain'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/wind_s'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/wind_d'] = array("qos"=>0, "function"=>"procmsg");
-//$topics['/solar'] = array("qos"=>0, "function"=>"procmsg");
+
+
+/*$topics['/temp'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/humidity'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/air_pressure'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/rain'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/wind_s'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/wind_d'] = array("qos"=>0, "function"=>"procmsg");
+$topics['/solar'] = array("qos"=>0, "function"=>"procmsg");*/
 
 $mqtt->subscribe($topics,0);
 while($mqtt->proc()){
 
 }
 $mqtt->close();
-function procmsg($topic,$msg)
+/**
+ * @param $topic this is the type of weather data e.g "solar"
+ * @param $msg this is the type of weather data value e.g "5.6"
+ */
+function procmsg($topic, $msg)
 {
 
     echo "Msg Recieved: " . date("h:i:sa") . "\nTopic:{$topic}\n$msg\n";
     $date = date("h:i:sa");
 
-    $weather_data = $topic . " " . $msg . " " . $date . " ";
-    $myfile = fopen(__DIR__ . "/weatherdata.txt", "w") or die("Unable to open file!");
-    $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
-    foreach($weather_factors as $factor) {
-        fwrite($myfile, $weather_data."\n");
+    $myfile = fopen(__DIR__ . "/".$topic.".txt", "a") or die("Unable to open file!");
+    //
+    //$weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+    //$check_new_line = "New Line";
+    $weather_data =$topic . " | " . $msg . " | " . $date /*. PHP_EOL*/;
+        //$id_for_data++;
 
-    }
+
+
+
+    //$myfile = fopen(__DIR__ . "/weatherdata.txt", "w") or die("Unable to open file!");
+
+    //Showing where to locate files for data to be imported
+
+
+    fwrite($myfile, $weather_data."\n");
+
+
     fclose($myfile);
 
 

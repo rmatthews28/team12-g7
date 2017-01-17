@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - stb927_energy_house@helios.csesalford.com">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="stb927_energy_house">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="information_schema"/>
+    <schema id="3" name="stb927_mydatabase"/>
+    <schema id="4" name="stb927_myshop"/>
+    <table id="5" parent="1" name="WeatherFactors"/>
+    <column id="6" parent="5" name="name">
+      <data-type>varchar(25)|0</data-type>
+    </column>
+    <column id="7" parent="5" name="value">
+      <data-type>float|0</data-type>
+    </column>
+    <column id="8" parent="5" name="timestamp">
+      <mandatory>1</mandatory>
+      <data-type>timestamp|0</data-type>
+      <default-expression>CURRENT_TIMESTAMP</default-expression>
+    </column>
+  </database-model>
+</dataSource>

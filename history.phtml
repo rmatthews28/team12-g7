@@ -1,0 +1,114 @@
+<?php
+//require("history.php");
+
+?>
+
+<html lang="eng">
+
+<head>
+    <title>Energy House</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>Energy House</h1>
+
+</header>
+
+<section>
+
+    <div id="history_wrapper">
+
+
+        <div class="history_data">
+            <h3>Temp</h3>
+            <?php
+            //require("history.php");
+            getData(temp);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Air Pressure</h3>
+            <?php
+            //require("history.php");
+            getData(air_pressure);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Wind Direction</h3>
+            <?php
+            //require("history.php");
+            getData(wind_d);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Wind Speed</h3>
+            <?php
+            //require("history.php");
+            getData(wind_s);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Solar</h3>
+            <?php
+            //require("history.php");
+            getData(solar);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Humidity</h3>
+            <?php
+            //require("history.php");
+            getData(humidity);
+            ?>
+
+        </div>
+
+        <div class="history_data">
+            <h3>Rain</h3>
+            <?php
+            //require("history.php");
+            getData(rain);
+            ?>
+
+        </div>
+
+    </div>
+
+    <button><a href="index.php">Current Weather Factors</a></button>
+
+
+</section>
+
+
+<footer>
+
+
+</footer>
+<script src="assets/js/functions.js">
+
+
+
+</script>
+</body>
+
+</html>
+

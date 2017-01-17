@@ -1,58 +1,106 @@
-<<<<<<< Updated upstream
-<?php ?>
-    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-        <?php
-        $host = "146.87.2.99";
-        $port = "1883";
-        date_default_timezone_set('Europe/London');
-        $date_timezone = date_default_timezone_get();
-
-
-        $mqtt = new phpMQTT($host, $port, "ClientID" . rand());
-
-        if (!$mqtt->connect()) {
-            exit(1);
-        }
-
-        $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
-
-        foreach ($weather_factors as $factor) {
-            $topics['/' . $factor] = array("qos" => 0, "function" => "procmsg");
-        }
-
-        $mqtt->subscribe($topics,0);
-        while($mqtt->proc()){
-
-        }
-        $mqtt->close();
-        function procmsg($topic,$msg){
-            echo "Msg Recieved: ".date("h:i:sa")."\nTopic:{$topic}\n$msg\n";
-        }
-        ?>
-    </form>
-<?php ?>
-=======
 <?php
-/**
- * Created by PhpStorm.
- * User: CameronCampbell
- * Date: 12/01/2017
- * Time: 13:40
- */
+//require("index.php");
 
-//<!DOCTYPE html>
-//<html lang="en">
-//  <head>
-//    <title>Campbell Co.</title>
-//    <meta charset="utf-8">
-//    <meta name="viewport" content="width=device-width, initial-scale=1">
-//    <link rel="shortcut icon" href="">
-//    <link rel="stylesheet" href="assets/css/main.css">
-//    <link rel="stylesheet" href="assets/css/icomoon32816/style.css">
-//    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
-//  </head>
-//  <body>
-//
-//  </body>
-//</html>
->>>>>>> Stashed changes
+?>
+
+<html lang="eng">
+
+    <head>
+        <title>Energy House</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <header>
+
+            <h1>Energy House</h1>
+
+        </header>
+
+        <section>
+
+        <div id="weather_wrapper">
+
+            <div class="weather_data">
+                <h3>Temp</h3>
+                <?php
+                //require("index.php")
+                getData(temp);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Air Pressure</h3>
+                <?php
+                //require("index.php");
+                getData(air_pressure);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Humidity</h3>
+                <?php
+                //require("index.php");
+                getData(humidity);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Wind Speed</h3>
+                <?php
+                //require("index.php");
+                getData(wind_s);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Wind Direction</h3>
+                <?php
+                //require("index.php");
+                getData(wind_d);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Rain</h3>
+                <?php
+                //require("index.php");
+                getData(rain);
+                ?>
+            </div>
+
+            <div class="weather_data">
+                <h3>Solar</h3>
+                <?php
+                //require("index.php");
+                getData(solar);
+                ?>
+            </div>
+
+        </div>
+
+        <button><a href="history.php">History</a></button>
+
+
+        </section>
+
+
+        <footer>
+
+
+        </footer>
+        <script src="assets/js/functions.js">
+
+
+
+        </script>
+    </body>
+
+</html>
+
