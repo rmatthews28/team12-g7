@@ -1,27 +1,15 @@
 /humidity | 64.1 | 02:40:08pm
-
 /humidity | 64.1 | 02:40:16pm
-
 /humidity | 64.1 | 02:40:22pm
-
 /humidity | 64.2 | 02:40:26pm
-
 /humidity | 64.2 | 02:40:36pm
-
 /humidity | 64.2 | 02:40:37pm
-
 /humidity | 64.2 | 02:40:46pm
-
 /humidity | 64.2 | 02:40:52pm
-
 /humidity | 64.3 | 02:40:56pm
-
 /humidity | 64.3 | 02:41:06pm
-
 /humidity | 64.3 | 02:41:07pm
-
 /humidity | 64.3 | 02:41:16pm
-
 /humidity | 64.2 | 02:41:35pm
 /humidity | 64.2 | 02:41:36pm
 /humidity | 64.2 | 02:41:46pm
