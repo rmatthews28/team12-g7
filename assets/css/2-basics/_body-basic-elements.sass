@@ -1,0 +1,77 @@
+body
+  margin: 0
+  width: 100vw
+  overflow-x: hidden
+  background-color: white
+  font-size: 14px
+  line-height: 1.5
+  color: $dark-grey
+  font-family: 'Fira Sans', sans-serif
+i
+  font-size: 40px
+  display: block
+  +size(100px)
+  text-align: center
+
+*
+  padding: 0
+  margin: 0
+
+section
+  margin: 5% 0
+  padding-top: 1em
+
+.half-space
+  display: flex
+  +span-columns(6)
+
+//elements spans 4
+
+.three-col-wrapper
+  display: flex
+  .three-col-item
+    +span-columns(3)
+    +shift(0.75)
+
+//header
+
+header
+  width: 100vw
+  display: block
+  background-color: $silver
+  align-content: center
+  display: flex
+  align-items: center
+
+
+
+
+.body-container
+  +outer-container
+
+footer
+  background-color: $silver
+  display: flex
+  flex-wrap: wrap
+  flex-direction: row
+  padding-bottom: 6em
+  width: 100vw
+  clear: both
+
+  #footer_title
+    +span-columns(12)
+    margin-top: 1em
+  #footer_links
+    +span-columns(5)
+    margin: 3em 0 3em 0
+    +shift(1)
+    li
+      +span-columns(1)
+      +shift(1)
+      a
+
+
+  .t_and_c
+    +span-columns(12)
+    text-align: center
+    margin-top: 3em
