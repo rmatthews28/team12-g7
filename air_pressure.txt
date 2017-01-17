@@ -1,27 +1,15 @@
- /air_pressure | 350.7 | 02:40:08pm
-
+/air_pressure | 350.7 | 02:40:08pm
 /air_pressure | 350.7 | 02:40:16pm
-
 /air_pressure | 350.7 | 02:40:22pm
-
 /air_pressure | 350.8 | 02:40:26pm
-
 /air_pressure | 350.8 | 02:40:36pm
-
 /air_pressure | 350.8 | 02:40:37pm
-
 /air_pressure | 350.8 | 02:40:46pm
-
 /air_pressure | 350.8 | 02:40:52pm
-
 /air_pressure | 350.8 | 02:40:56pm
-
 /air_pressure | 350.7 | 02:41:06pm
-
 /air_pressure | 350.7 | 02:41:07pm
-
 /air_pressure | 350.7 | 02:41:16pm
-
 /air_pressure | 350.7 | 02:41:35pm
 /air_pressure | 350.8 | 02:41:36pm
 /air_pressure | 350.8 | 02:41:46pm
