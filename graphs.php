@@ -2,16 +2,16 @@
 <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
 <script src="http://code.highcharts.com/highcharts.src.js"></script>
 <script src="http://code.highcharts.com/highcharts-more.src.js"></script>
-<div id="temp_div"></div>
-<div id="humidity_div"></div>
-<div id="airpressure_div"></div>
-<div id="rain_div"></div>
-<div id="winds_div"></div>
-<div id="windd_div"></div>
-<div id="solar_div"></div>
-<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>
-<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>
-<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>
+<!--<div id="temp_div"></div>-->
+<!--<div id="humidity_div"></div>-->
+<!--<div id="airpressure_div"></div>-->
+<!--<div id="rain_div"></div>-->
+<!--<div id="winds_div"></div>-->
+<!--<div id="windd_div"></div>-->
+<!--<div id="solar_div"></div>-->
+<!--<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>-->
+<!--<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>-->
+<!--<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>-->
 
 
 <?php
@@ -47,7 +47,7 @@ function getLastLine($filename)
     $value = $array[1];
     return $value;
 }
-echo getLastLine("wind_d.txt");
+//echo getLastLine("wind_d.txt");
 //testing function
 function getData2()
 {
@@ -115,6 +115,7 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('temp_div'));
         tempChart.draw(data, options);
+        //document.getElementById('temp_graph').innerHTML = '<div id="temp_div"></div>';
     }
     function drawHumidityChart() {
         var data = new google.visualization.DataTable();

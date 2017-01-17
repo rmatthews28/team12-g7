@@ -593,7 +593,7 @@ button {
   margin-right: auto;
   display: flex;
   flex-wrap: wrap;
-  margin-top: -5em; }
+  margin-top: -2em; }
   #weather_wrapper::after {
     clear: both;
     content: "";
@@ -604,11 +604,12 @@ button {
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
-  margin: 5em auto 0 auto; }
+  margin: 2em auto 0 auto; }
   .weather_data:last-child {
     margin-right: 0; }
   .weather_data .factor_graph {
-    background-color: #eeeeee; }
+    background-color: #eeeeee;
+    height: 20em; }
   .weather_data .current_factor {
     background-color: transparent;
     position: relative;
