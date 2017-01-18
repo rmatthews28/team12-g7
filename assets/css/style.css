@@ -412,7 +412,6 @@ body {
   margin: 0;
   width: 100vw;
   overflow-x: hidden;
-  background-color: white;
   font-size: 14px;
   line-height: 1.5;
   color: #666;
@@ -467,15 +466,6 @@ header {
     top: 20px;
     right: 20px;
     cursor: pointer; }
-
-.body-container {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto; }
-  .body-container::after {
-    clear: both;
-    content: "";
-    display: block; }
 
 footer {
   background-color: #ddd;
@@ -587,6 +577,34 @@ button {
     box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);
     transform: translate(0, -10px); }
 
+@media screen and (max-width: 768px) {
+  #weather_wrapper {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -2em; }
+    #weather_wrapper::after {
+      clear: both;
+      content: "";
+      display: block; }
+    #weather_wrapper .weather_data {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 100%;
+      margin-left: 3.23683%; }
+      #weather_wrapper .weather_data:last-child {
+        margin-right: 0; }
+      #weather_wrapper .weather_data .current_factor .factor_meaning .factor_name {
+        bottom: 0;
+        margin-bottom: 10px;
+        background-color: darkred; }
+      #weather_wrapper .weather_data .current_factor .factor_meaning .factor_measure {
+        background-color: #01FF70; }
+      #weather_wrapper .weather_data .current_factor p {
+        background-color: #eeeeee; } }
 #weather_wrapper {
   max-width: 1200px;
   margin-left: auto;
