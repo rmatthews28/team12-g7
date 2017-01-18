@@ -674,4 +674,42 @@ button {
       right: 20px;
       cursor: pointer; }
 
+nav {
+  background-color: #d7d7d8;
+  width: 100vw;
+  display: block;
+  height: 75px; }
+  nav ul {
+    display: flex;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    height: 75px; }
+    nav ul::after {
+      clear: both;
+      content: "";
+      display: block; }
+    nav ul li {
+      display: block;
+      font-size: 25px; }
+      nav ul li a {
+        color: white; }
+
+.collection_wrapper {
+  display: none; }
+  .collection_wrapper#active {
+    display: block; }
+
+.filter {
+  margin: 0;
+  padding: 15px 0;
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: center; }
+
 /*# sourceMappingURL=style.css.map */

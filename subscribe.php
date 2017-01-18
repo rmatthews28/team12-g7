@@ -35,7 +35,7 @@ function procmsg($factor, $value)
     $date = date("d m Y H:i:sa");
 
     $myfile = fopen(__DIR__ . $factor . ".txt", "a") or die("Unable to open file!");
-    $weather_data = $factor . " | " . $value . " | " . $date /*. PHP_EOL*/;
+    $weather_data = $factor . " , " . $value . " , " . $date /*. PHP_EOL*/;
     fwrite($myfile, $weather_data . "\n");
     fclose($myfile);
 }

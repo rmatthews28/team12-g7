@@ -1,5 +1,7 @@
 <?php
 require("graphs.php");
+require("download.php")
+
 
 ?>
 
@@ -18,7 +20,7 @@ require("graphs.php");
     <body>
 
         <header>
-
+            <meta http-equiv="refresh" content="10">
             <h1>Energy House</h1>
             <img src="/assets/img/icons/SVG/cloud-download.svg"/>
 
@@ -43,6 +45,7 @@ require("graphs.php");
 
                     <div class="download">
                         <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <?php downloadData(temp) ?>
                     </div>
 
                 </div>
@@ -224,6 +227,7 @@ require("graphs.php");
 
                     <div class="download">
                         <img src="assets/img/icons/SVG/cloud-download.svg"/>
+
                     </div>
 
                 </div>
@@ -294,24 +298,6 @@ require("graphs.php");
 
         <footer>
 
-            <p id="demo"></p>
-
-            <script>
-                var xhttp = new XMLHttpRequest();
-                xhttp.onreadystatechange = function() {
-                    if (this.readyState == 4 && this.status == 200) {
-                        document.getElementById("demo").innerHTML =
-                            this.getAllResponseHeaders();
-                    }
-                };
-                xhttp.open("POST", "../../temp.txt", true);
-                //xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-                $filearr = file("../../temp.txt");
-                $lastlines = array_slice($filearr,-1);
-                xhttp.send();
-
-                //$( "#demo" ).load( "../../temp.txt");
-            </script>
 
 
         </footer>

@@ -4,18 +4,26 @@
 $(document).ready(function(){
 
 
+    $(function() {
+        activeProduct();
+    });
 
-    function loadDoc() {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-                document.getElementById("f_d").innerHTML =
-                    this.responseText;
-            }
-        };
 
-        xhttp.open("POST", "../../temp.txt", true);
-        xhttp.send();
+
+    function activeProduct() {
+
+        $('.collection_title').first().addClass('active');
+        $('.collection_wrapper').first().attr('id', 'active');
+
+        $('.collection_title').click(function(){
+            var $this = $(this),
+                $siblings = $this.parent().children(),
+                position = $siblings.index($this);
+
+            $('.collection_wrapper').removeAttr('id', 'active').eq(position).attr('id', 'active');
+            $('.collection_title').removeClass('active').eq(position).addClass('active');
+        });
+
     }
 
 });

@@ -25,7 +25,7 @@ function getData($topic)
         $file = escapeshellarg($topic . ".txt");
         $last_line = `tail -n 1 $file`;
         //$array = (implode("", array_slice(file($topic . ".txt"), 1)));
-        $array = (explode("|", $last_line));
+        $array = (explode(",", $last_line));
 
         $value = $array[1];
         echo $value;

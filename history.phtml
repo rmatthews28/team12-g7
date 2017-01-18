@@ -25,22 +25,154 @@
 
 </header>
 
+<nav>
+
+    <ul>
+        <li class="collection_title"><a href="">Temp</a></li>
+        <li class="collection_title"><a href="">Humidity</a></li>
+        <li class="collection_title"><a href="">Air Pressure</a></li>
+        <li class="collection_title"><a href="">Rain</a></li>
+        <li class="collection_title"><a href="">Wind_S</a></li>
+        <li class="collection_title"><a href="">wind_D</a></li>
+        <li class="collection_title"><a href="">Solar</a></li>
+    </ul>
+
+</nav>
+
+<section class="filter">
+
+    <form action="" method="POST">
+        <input type="range" min="1" max="20" step="1" value="1" id="foo" name="passengers" onchange='document.getElementById("bar").value = "Slider Value = " + document.getElementById("foo").value;'/>
+        <input type="text" name="bar" id="bar" value="Slider Value = 1" disabled />
+        <br />
+        <input type=submit name="topLines" value=Top Lines />
+        <input type=submit name="lastLines" value=Last Lines />
+
+        <!--            <select name="Order" class="btn btn-default dropdown-toggle" data-toggle="dropdown">-->
+        <!--                <option value="top_Lines">Top Lines</option>-->
+        <!--                <option value="last_Lines">Last Lines</option>-->
+        <!--            </select>-->
+    </form>
+
+</section>
+
+
+<section class="container">
+
+
+    <div class="temp_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>Temp</h3>
+
+                <?php  getData(temp);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="humidity_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>Humidity</h3>
+
+                <?php  getData(humidity);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="a_p_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>A P</h3>
+
+                <?php  getData(air_pressure);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="rain_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>rain</h3>
+
+                <?php  getData(rain);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="wind_d_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>Wind D</h3>
+
+                <?php  getData(wind_d);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="wind_s_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+                <h3>wind S</h3>
+
+                <?php  getData(wind_s);?>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="solar_wrapper collection_wrapper">
+
+        <div id="product_items_wrapper" class="three-col-wrapper">
+
+            <div id="product_wrapper" class="three-col-item">
+
+
+                <h3>Solar</h3>
+                <?php  getData(solar);?>
+
+            </div>
+
+        </div>
+    </div>
+
+
+</section>
+
 <section>
 
     <div id="history_wrapper">
 
-        <form action="" method="POST">
-            <input type="range" min="1" max="20" step="1" value="1" id="foo" name="passengers" onchange='document.getElementById("bar").value = "Slider Value = " + document.getElementById("foo").value;'/>
-            <input type="text" name="bar" id="bar" value="Slider Value = 1" disabled />
-            <br />
-            <input type=submit name="topLines" value=Top Lines />
-            <input type=submit name="lastLines" value=Last Lines />
 
-            <!--            <select name="Order" class="btn btn-default dropdown-toggle" data-toggle="dropdown">-->
-<!--                <option value="top_Lines">Top Lines</option>-->
-<!--                <option value="last_Lines">Last Lines</option>-->
-<!--            </select>-->
-        </form>
 
         <div class="history_data">
             <h3>Temp</h3>

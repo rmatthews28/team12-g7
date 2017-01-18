@@ -10,6 +10,7 @@ if (isset($_POST["passengers"])) {
 
 function getData($topic)
 {
+
     $handle = fopen($topic . ".txt", "r");
     if ($handle) {
 
@@ -36,6 +37,7 @@ function getData($topic)
             {
                 $array1 = (explode("/", $value));
                 echo $array1[0] . ",";
+
             }
             else{
                 echo $value;
