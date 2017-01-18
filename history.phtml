@@ -42,67 +42,33 @@
 <!--            </select>-->
         </form>
 
-        <div class="history_data">
-            <h3>Temp</h3>
-            <?php
-            //require("history.php");
-            getData(temp);
-            ?>
+        <table>
+            <thread>
+                <tr>
+                    <th>Temperature</th><th>Air Pressure</th><th>Wind Direction</th><th>Wind Speed</th><th>Solar</th><th>Humidity</th><th>Rain</th>
+                </tr>
+            </thread>
 
-        </div>
+            <style type="text/css">
+                td
+                {
+                    padding:0 15px 0 15px;
+                }
+            </style>
 
-        <div class="history_data">
-            <h3>Air Pressure</h3>
-            <?php
-            //require("history.php");
-            getData(air_pressure);
-            ?>
-        </div>
+            <tr>
+                <td><?php getData(temp); ?></td>
+                <td><?php getData(air_pressure); ?></td>
+                <td><?php getData(wind_d); ?></td>
+                <td><?php getData(wind_s); ?></td>
+                <td><?php getData(solar); ?></td>
+                <td><?php getData(humidity); ?></td>
+                <td><?php getData(rain); ?></td>
+            </tr>
 
-        <div class="history_data">
-            <h3>Wind Direction</h3>
-            <?php
-            //require("history.php");
-            getData(wind_d);
-            ?>
+        </table>
 
-        </div>
 
-        <div class="history_data">
-            <h3>Wind Speed</h3>
-            <?php
-            //require("history.php");
-            getData(wind_s);
-            ?>
-
-        </div>
-
-        <div class="history_data">
-            <h3>Solar</h3>
-            <?php
-            //require("history.php");
-            getData(solar);
-            ?>
-
-        </div>
-
-        <div class="history_data">
-            <h3>Humidity</h3>
-            <?php
-            //require("history.php");
-            getData(humidity);
-            ?>
-
-        </div>
-
-        <div class="history_data">
-            <h3>Rain</h3>
-            <?php
-            //require("history.php");
-            getData(rain);
-            ?>
-
-        </div>
 
     </div>
 

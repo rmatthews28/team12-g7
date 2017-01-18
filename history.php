@@ -35,14 +35,8 @@ function getData($topic)
             elseif ($i%2==0)
             {
                 $array1 = (explode("/", $value));
-
-                if($range == 1) {
-                    echo $array1[0];
-                }
-                else {
-                    echo $array1[0] . ",";
-                    echo '<br>';
-                }
+                echo $array1[0];
+                echo '<br>';
             }
             else{
                 echo $value;
