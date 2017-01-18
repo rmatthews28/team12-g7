@@ -599,12 +599,9 @@ button {
         margin-right: 0; }
       #weather_wrapper .weather_data .current_factor .factor_meaning .factor_name {
         bottom: 0;
-        margin-bottom: 10px;
-        background-color: darkred; }
+        margin-bottom: 10px; }
       #weather_wrapper .weather_data .current_factor .factor_meaning .factor_measure {
-        background-color: #01FF70; }
-      #weather_wrapper .weather_data .current_factor p {
-        background-color: #eeeeee; } }
+        background-color: none; } }
 #weather_wrapper {
   max-width: 1200px;
   margin-left: auto;

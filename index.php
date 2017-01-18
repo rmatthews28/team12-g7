@@ -17,21 +17,16 @@
 //}
 
 
-
-
-
-
 function getData($topic)
 {
     $handle = fopen($topic . ".txt", "r");
     if ($handle) {
         $line = fgets($handle);
-        $array = (explode("", array_slice(file($topic . ".txt"), 1)));
-
         $file = escapeshellarg($topic . ".txt");
         $last_line = `tail -n 1 $file`;
+        //$array = (implode("", array_slice(file($topic . ".txt"), 1)));
+        $array = (explode("|", $last_line));
 
-        echo $last_line;
         $value = $array[1];
         echo $value;
         fclose($handle);
@@ -39,8 +34,6 @@ function getData($topic)
         echo 'No data found';
 
 }
-
-
 
 
 
