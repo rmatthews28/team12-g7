@@ -12,14 +12,10 @@ function getData($topic)
 {
     $handle = fopen($topic . ".txt", "r");
     if ($handle) {
-        $line = fgets($handle);
+
 
         $last_line = '';
         $range = $_POST['passengers'];
-
-
-        $array = (explode("", array_slice(file($topic . ".txt"), 1)));
-//            $array = (explode("|", $line));
 
         $file = escapeshellarg($topic . ".txt");
         if (isset($_POST['topLines'])) {
@@ -30,11 +26,24 @@ function getData($topic)
             $last_line = `tail -n $range $file`;
         }
 
-        echo $last_line;
-        $value = $array[1];
-        echo $value;
+        $array = (explode("|", $last_line));
+        $i=0;
+        foreach($array as $value) {
+            if($i==0){
+
+            }
+            elseif ($i%2==0)
+            {
+                $array1 = (explode("/", $value));
+                echo $array1[0] . ",";
+            }
+            else{
+                echo $value;
+            }
+            $i++;
+        }
         fclose($handle);
-    } else
+    }else
         echo 'No data found';
 }
 
