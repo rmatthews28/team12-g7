@@ -106,12 +106,20 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         } ?>
         ]);
         var options = {
+
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Temp'
-            }
+            },
+            curveType: 'function',
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('temp_div'));
         tempChart.draw(data, options);
@@ -129,9 +137,15 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Humidity'
             }
         };
@@ -150,9 +164,16 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
+
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Air Pressure'
             }
         };
@@ -171,9 +192,15 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Rain MM'
             }
         };
@@ -192,9 +219,15 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Wind Speed MPH'
             }
         };
@@ -213,9 +246,15 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Wind Direction oC'
             }
         };
@@ -234,11 +273,18 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Solar'
             }
+
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('solar_div'));
         tempChart.draw(data, options);
@@ -279,7 +325,7 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
             /* return langWindDir[Math.floor(((parseInt($winddir) + 11) / 22.5) % 16 )];*/
             return langWindDir[Math.floor(((parseInt($winddir,10) + 11.25) / 22.5))];
         }
-        var chart = new Highcharts.Chart({
+        var chart = new google.charts.Line({
                 chart: {
                     renderTo: 'windDirection_div',
                     type: 'gauge',

@@ -4277,3 +4277,540 @@
 /air_pressure | 373.0 | 05:30:22pm
 /air_pressure | 373.0 | 05:30:26pm
 /air_pressure | 373.0 | 05:30:32pm
+/air_pressure | 373.2 | 05:43:40pm
+/air_pressure | 373.1 | 05:43:45pm
+/air_pressure | 373.1 | 05:43:55pm
+/air_pressure | 373.2 | 05:43:55pm
+/air_pressure | 373.2 | 05:44:05pm
+/air_pressure | 373.2 | 05:44:10pm
+/air_pressure | 373.2 | 05:44:15pm
+/air_pressure | 373.2 | 05:44:24pm
+/air_pressure | 373.1 | 05:44:25pm
+/air_pressure | 373.2 | 05:44:35pm
+/air_pressure | 373.2 | 05:44:40pm
+/air_pressure | 373.2 | 05:44:45pm
+/air_pressure | 373.2 | 05:44:55pm
+/air_pressure | 373.2 | 05:44:55pm
+/air_pressure | 375.8 | 11:01:46am
+/air_pressure | 375.8 | 11:01:54am
+/air_pressure | 375.8 | 11:02:00am
+/air_pressure | 375.8 | 11:02:04am
+/air_pressure | 375.8 | 11:02:14am
+/air_pressure | 375.8 | 11:02:15am
+/air_pressure | 375.8 | 11:02:24am
+/air_pressure | 375.8 | 11:02:30am
+/air_pressure | 375.8 | 11:02:34am
+/air_pressure | 375.8 | 11:02:44am
+/air_pressure | 375.8 | 11:02:45am
+/air_pressure | 375.8 | 11:02:54am
+/air_pressure | 375.8 | 11:03:00am
+/air_pressure | 375.8 | 11:03:04am
+/air_pressure | 375.8 | 11:03:14am
+/air_pressure | 375.8 | 11:03:15am
+/air_pressure | 375.8 | 11:03:24am
+/air_pressure | 375.8 | 11:03:30am
+/air_pressure | 375.8 | 11:03:34am
+/air_pressure | 375.8 | 11:03:44am
+/air_pressure | 375.8 | 11:03:45am
+/air_pressure | 375.8 | 11:03:54am
+/air_pressure | 375.8 | 11:04:00am
+/air_pressure | 375.8 | 11:04:04am
+/air_pressure | 375.8 | 11:04:14am
+/air_pressure | 375.8 | 11:04:15am
+/air_pressure | 375.8 | 11:04:24am
+/air_pressure | 375.8 | 11:04:30am
+/air_pressure | 375.8 | 11:04:34am
+/air_pressure | 375.8 | 11:04:44am
+/air_pressure | 375.8 | 11:04:45am
+/air_pressure | 375.8 | 11:04:54am
+/air_pressure | 375.8 | 11:05:00am
+/air_pressure | 375.8 | 11:05:05am
+/air_pressure | 375.8 | 11:05:15am
+/air_pressure | 375.8 | 11:05:15am
+/air_pressure | 375.8 | 11:05:25am
+/air_pressure | 375.8 | 11:05:30am
+/air_pressure | 375.8 | 11:05:35am
+/air_pressure | 375.8 | 11:05:45am
+/air_pressure | 375.8 | 11:05:45am
+/air_pressure | 375.8 | 11:05:55am
+/air_pressure | 375.8 | 11:06:00am
+/air_pressure | 375.8 | 11:06:05am
+/air_pressure | 375.8 | 11:06:15am
+/air_pressure | 375.8 | 11:06:15am
+/air_pressure | 375.8 | 11:06:25am
+/air_pressure | 375.8 | 11:06:30am
+/air_pressure | 375.8 | 11:06:35am
+/air_pressure | 375.8 | 11:06:45am
+/air_pressure | 375.8 | 11:06:45am
+/air_pressure | 375.8 | 11:06:55am
+/air_pressure | 375.8 | 11:07:00am
+/air_pressure | 375.8 | 11:07:05am
+/air_pressure | 375.8 | 11:07:15am
+/air_pressure | 375.8 | 11:07:15am
+/air_pressure | 375.8 | 11:07:25am
+/air_pressure | 375.8 | 11:07:30am
+/air_pressure | 375.8 | 11:07:35am
+/air_pressure | 375.8 | 11:07:45am
+/air_pressure | 375.8 | 11:07:55am
+/air_pressure | 375.8 | 11:08:00am
+/air_pressure | 375.8 | 11:08:05am
+/air_pressure | 375.8 | 11:08:15am
+/air_pressure | 375.8 | 11:08:15am
+/air_pressure | 375.8 | 11:08:25am
+/air_pressure | 375.8 | 11:08:30am
+/air_pressure | 375.8 | 11:08:35am
+/air_pressure | 375.8 | 11:09:26am
+/air_pressure | 375.8 | 11:09:36am
+/air_pressure | 375.8 | 11:09:40am
+/air_pressure | 375.8 | 11:09:45am
+/air_pressure | 375.8 | 11:09:55am
+/air_pressure | 375.8 | 11:09:56am
+/air_pressure | 375.8 | 11:10:06am
+/air_pressure | 375.8 | 11:10:10am
+/air_pressure | 375.8 | 11:10:16am
+/air_pressure | 375.8 | 11:10:25am
+/air_pressure | 375.8 | 11:10:26am
+/air_pressure | 375.8 | 11:10:36am
+/air_pressure | 375.8 | 11:10:40am
+/air_pressure | 375.8 | 11:10:46am
+/air_pressure | 375.8 | 11:10:55am
+/air_pressure | 375.8 | 11:10:56am
+/air_pressure | 375.8 | 11:11:06am
+/air_pressure | 375.8 | 11:11:10am
+/air_pressure | 375.7 | 11:11:16am
+/air_pressure | 375.7 | 11:11:25am
+/air_pressure | 375.8 | 11:11:26am
+/air_pressure | 375.7 | 11:11:36am
+/air_pressure | 375.7 | 11:11:40am
+/air_pressure | 375.7 | 11:11:46am
+/air_pressure | 375.7 | 11:11:55am
+/air_pressure | 375.8 | 11:11:56am
+/air_pressure | 375.7 | 11:12:06am
+/air_pressure | 375.7 | 11:12:10am
+/air_pressure | 375.7 | 11:12:16am
+/air_pressure | 375.7 | 11:12:25am
+/air_pressure | 375.7 | 11:12:26am
+/air_pressure | 375.7 | 11:12:36am
+/air_pressure | 375.7 | 11:12:40am
+/air_pressure | 375.8 | 11:12:46am
+/air_pressure | 375.8 | 11:12:55am
+/air_pressure | 375.7 | 11:12:56am
+/air_pressure | 375.7 | 11:13:06am
+/air_pressure | 375.7 | 11:13:10am
+/air_pressure | 375.7 | 11:13:16am
+/air_pressure | 375.7 | 11:13:27am
+/air_pressure | 375.8 | 11:13:27am
+/air_pressure | 375.7 | 11:13:37am
+/air_pressure | 375.7 | 11:13:41am
+/air_pressure | 375.7 | 11:13:47am
+/air_pressure | 375.7 | 11:13:57am
+/air_pressure | 375.7 | 11:13:57am
+/air_pressure | 375.7 | 11:14:07am
+/air_pressure | 375.7 | 11:14:12am
+/air_pressure | 375.7 | 11:14:17am
+/air_pressure | 375.7 | 11:14:27am
+/air_pressure | 375.7 | 11:14:27am
+/air_pressure | 375.7 | 11:14:38am
+/air_pressure | 375.7 | 11:14:40am
+/air_pressure | 375.7 | 11:14:47am
+/air_pressure | 375.7 | 11:14:55am
+/air_pressure | 375.7 | 11:14:58am
+/air_pressure | 375.7 | 11:15:08am
+/air_pressure | 375.7 | 11:15:10am
+/air_pressure | 375.8 | 11:15:18am
+/air_pressure | 375.8 | 11:15:25am
+/air_pressure | 375.7 | 11:15:27am
+/air_pressure | 375.7 | 11:15:38am
+/air_pressure | 375.7 | 11:15:48am
+/air_pressure | 375.7 | 11:15:53am
+/air_pressure | 375.7 | 11:15:58am
+/air_pressure | 375.7 | 11:16:07am
+/air_pressure | 375.7 | 11:16:08am
+/air_pressure | 375.7 | 11:16:18am
+/air_pressure | 375.7 | 11:16:22am
+/air_pressure | 375.7 | 11:16:28am
+/air_pressure | 375.7 | 11:16:38am
+/air_pressure | 375.7 | 11:16:38am
+/air_pressure | 375.7 | 11:16:48am
+/air_pressure | 375.7 | 11:16:52am
+/air_pressure | 375.7 | 11:16:58am
+/air_pressure | 375.7 | 11:17:08am
+/air_pressure | 375.7 | 11:17:08am
+/air_pressure | 375.7 | 11:17:18am
+/air_pressure | 375.7 | 11:17:22am
+/air_pressure | 375.7 | 11:17:28am
+/air_pressure | 375.7 | 11:17:38am
+/air_pressure | 375.7 | 11:17:38am
+/air_pressure | 375.7 | 11:17:48am
+/air_pressure | 375.7 | 11:17:53am
+/air_pressure | 375.7 | 11:17:58am
+/air_pressure | 375.7 | 11:18:08am
+/air_pressure | 375.7 | 11:18:08am
+/air_pressure | 375.7 | 11:18:18am
+/air_pressure | 375.7 | 11:18:22am
+/air_pressure | 375.7 | 11:18:28am
+/air_pressure | 375.7 | 11:18:37am
+/air_pressure | 375.7 | 11:18:38am
+/air_pressure | 375.7 | 11:18:48am
+/air_pressure | 375.7 | 11:18:52am
+/air_pressure | 375.7 | 11:18:58am
+/air_pressure | 375.7 | 11:19:08am
+/air_pressure | 375.7 | 11:19:08am
+/air_pressure | 375.7 | 11:19:18am
+/air_pressure | 375.7 | 11:19:22am
+/air_pressure | 375.7 | 11:19:28am
+/air_pressure | 375.7 | 18 01 2017 11:19:42am
+/air_pressure | 375.7 | 18 01 2017 11:19:48am
+/air_pressure | 375.7 | 18 01 2017 11:19:58am
+/air_pressure | 375.7 | 18 01 2017 11:19:58am
+/air_pressure | 375.7 | 18 01 2017 11:20:08am
+/air_pressure | 375.7 | 18 01 2017 11:20:13am
+/air_pressure | 375.7 | 18 01 2017 11:20:18am
+/air_pressure | 375.7 | 18 01 2017 11:20:27am
+/air_pressure | 375.7 | 18 01 2017 11:20:28am
+/air_pressure | 375.7 | 18 01 2017 11:20:38am
+/air_pressure | 375.7 | 18 01 2017 11:20:43am
+/air_pressure | 375.7 | 18 01 2017 11:20:48am
+/air_pressure | 375.7 | 18 01 2017 11:20:58am
+/air_pressure | 375.7 | 18 01 2017 11:20:58am
+/air_pressure | 375.7 | 18 01 2017 11:21:08am
+/air_pressure | 375.7 | 18 01 2017 11:21:12am
+/air_pressure | 375.7 | 18 01 2017 11:21:18am
+/air_pressure | 375.7 | 18 01 2017 11:21:27am
+/air_pressure | 375.7 | 18 01 2017 11:21:28am
+/air_pressure | 375.7 | 18 01 2017 11:21:38am
+/air_pressure | 375.7 | 18 01 2017 11:21:43am
+/air_pressure | 375.7 | 18 01 2017 11:21:48am
+/air_pressure | 375.7 | 18 01 2017 11:21:58am
+/air_pressure | 375.7 | 18 01 2017 11:21:58am
+/air_pressure | 375.7 | 18 01 2017 11:22:09am
+/air_pressure | 375.7 | 18 01 2017 11:22:19am
+/air_pressure | 375.7 | 18 01 2017 11:22:24am
+/air_pressure | 375.7 | 18 01 2017 11:22:29am
+/air_pressure | 375.7 | 18 01 2017 11:22:39am
+/air_pressure | 375.7 | 18 01 2017 11:22:39am
+/air_pressure | 375.7 | 18 01 2017 11:22:49am
+/air_pressure | 375.7 | 18 01 2017 11:22:53am
+/air_pressure | 375.6 | 18 01 2017 11:22:59am
+/air_pressure | 375.6 | 18 01 2017 11:23:09am
+/air_pressure | 375.7 | 18 01 2017 11:23:09am
+/air_pressure | 375.7 | 18 01 2017 11:23:19am
+/air_pressure | 375.7 | 18 01 2017 11:23:23am
+/air_pressure | 375.7 | 18 01 2017 11:23:29am
+/air_pressure | 375.7 | 18 01 2017 11:23:39am
+/air_pressure | 375.7 | 18 01 2017 11:23:39am
+/air_pressure | 375.6 | 18 01 2017 11:23:49am
+/air_pressure | 375.6 | 18 01 2017 11:23:54am
+/air_pressure | 375.7 | 18 01 2017 11:23:59am
+/air_pressure | 375.7 | 18 01 2017 11:24:08am
+/air_pressure | 375.7 | 18 01 2017 11:24:09am
+/air_pressure | 375.7 | 18 01 2017 11:24:19am
+/air_pressure | 375.7 | 18 01 2017 11:24:24am
+/air_pressure | 375.7 | 18 01 2017 11:24:29am
+/air_pressure | 375.7 | 18 01 2017 11:24:38am
+/air_pressure | 375.7 | 18 01 2017 11:24:39am
+/air_pressure | 375.7 | 18 01 2017 11:24:49am
+/air_pressure | 375.7 | 18 01 2017 11:24:53am
+/air_pressure | 375.7 | 18 01 2017 11:24:59am
+/air_pressure | 375.7 | 18 01 2017 11:25:09am
+/air_pressure | 375.6 | 18 01 2017 11:25:09am
+/air_pressure | 375.6 | 18 01 2017 11:25:19am
+/air_pressure | 375.6 | 18 01 2017 11:25:23am
+/air_pressure | 375.6 | 18 01 2017 11:25:29am
+/air_pressure | 375.6 | 18 01 2017 11:25:39am
+/air_pressure | 375.7 | 18 01 2017 11:25:39am
+/air_pressure | 375.7 | 18 01 2017 11:25:49am
+/air_pressure | 375.7 | 18 01 2017 11:25:54am
+/air_pressure | 375.6 | 18 01 2017 11:25:59am
+/air_pressure | 375.6 | 18 01 2017 11:26:08am
+/air_pressure | 375.7 | 18 01 2017 11:26:09am
+/air_pressure | 375.7 | 18 01 2017 11:26:19am
+/air_pressure | 375.7 | 18 01 2017 11:26:24am
+/air_pressure | 375.7 | 18 01 2017 11:26:29am
+/air_pressure | 375.7 | 18 01 2017 11:26:38am
+/air_pressure | 375.7 | 18 01 2017 11:26:39am
+/air_pressure | 375.6 | 18 01 2017 11:26:49am
+/air_pressure | 375.6 | 18 01 2017 11:26:54am
+/air_pressure | 375.7 | 18 01 2017 11:26:59am
+/air_pressure | 375.7 | 18 01 2017 11:27:09am
+/air_pressure | 375.6 | 18 01 2017 11:27:09am
+/air_pressure | 375.6 | 18 01 2017 11:27:19am
+/air_pressure | 375.6 | 18 01 2017 11:27:23am
+/air_pressure | 375.7 | 18 01 2017 11:27:29am
+/air_pressure | 375.7 | 18 01 2017 11:27:39am
+/air_pressure | 375.6 | 18 01 2017 11:27:39am
+/air_pressure | 375.6 | 18 01 2017 11:27:49am
+/air_pressure | 375.6 | 18 01 2017 11:27:53am
+/air_pressure | 375.7 | 18 01 2017 11:27:59am
+/air_pressure | 375.7 | 18 01 2017 11:28:09am
+/air_pressure | 375.7 | 18 01 2017 11:28:09am
+/air_pressure | 375.7 | 18 01 2017 11:28:19am
+/air_pressure | 375.7 | 18 01 2017 11:28:23am
+/air_pressure | 375.6 | 18 01 2017 11:28:29am
+/air_pressure | 375.6 | 18 01 2017 11:28:39am
+/air_pressure | 375.6 | 18 01 2017 11:28:39am
+/air_pressure | 375.6 | 18 01 2017 11:28:49am
+/air_pressure | 375.6 | 18 01 2017 11:28:54am
+/air_pressure | 375.6 | 18 01 2017 11:28:59am
+/air_pressure | 375.6 | 18 01 2017 11:29:08am
+/air_pressure | 375.6 | 18 01 2017 11:29:09am
+/air_pressure | 375.7 | 18 01 2017 11:29:20am
+/air_pressure | 375.6 | 18 01 2017 11:29:29am
+/air_pressure | 375.6 | 18 01 2017 11:29:34am
+/air_pressure | 375.6 | 18 01 2017 11:29:40am
+/air_pressure | 375.6 | 18 01 2017 11:29:50am
+/air_pressure | 375.6 | 18 01 2017 11:30:00am
+/air_pressure | 375.6 | 18 01 2017 11:30:05am
+/air_pressure | 375.6 | 18 01 2017 11:30:10am
+/air_pressure | 375.6 | 18 01 2017 11:30:19am
+/air_pressure | 375.6 | 18 01 2017 11:30:20am
+/air_pressure | 375.6 | 18 01 2017 11:30:30am
+/air_pressure | 375.6 | 18 01 2017 11:30:34am
+/air_pressure | 375.6 | 18 01 2017 11:30:40am
+/air_pressure | 375.6 | 18 01 2017 11:30:50am
+/air_pressure | 375.7 | 18 01 2017 11:30:50am
+/air_pressure | 375.6 | 18 01 2017 11:31:00am
+/air_pressure | 375.6 | 18 01 2017 11:31:05am
+/air_pressure | 375.6 | 18 01 2017 11:31:10am
+/air_pressure | 375.6 | 18 01 2017 11:31:20am
+/air_pressure | 375.6 | 18 01 2017 11:31:20am
+/air_pressure | 375.6 | 18 01 2017 11:31:30am
+/air_pressure | 375.6 | 18 01 2017 11:31:35am
+/air_pressure | 375.6 | 18 01 2017 11:31:40am
+/air_pressure | 375.6 | 18 01 2017 11:31:50am
+/air_pressure | 375.6 | 18 01 2017 11:31:50am
+/air_pressure | 375.6 | 18 01 2017 11:32:00am
+/air_pressure | 375.6 | 18 01 2017 11:32:05am
+/air_pressure | 375.6 | 18 01 2017 11:32:10am
+/air_pressure | 375.6 | 18 01 2017 11:32:19am
+/air_pressure | 375.6 | 18 01 2017 11:32:20am
+/air_pressure | 375.6 | 18 01 2017 11:32:30am
+/air_pressure | 375.6 | 18 01 2017 11:32:35am
+/air_pressure | 375.6 | 18 01 2017 11:32:40am
+/air_pressure | 375.6 | 18 01 2017 11:32:49am
+/air_pressure | 375.6 | 18 01 2017 11:32:50am
+/air_pressure | 375.6 | 18 01 2017 11:33:00am
+/air_pressure | 375.6 | 18 01 2017 11:33:05am
+/air_pressure | 375.6 | 18 01 2017 11:33:10am
+/air_pressure | 375.6 | 18 01 2017 11:33:20am
+/air_pressure | 375.6 | 18 01 2017 11:33:20am
+/air_pressure | 375.7 | 18 01 2017 11:33:30am
+/air_pressure | 375.7 | 18 01 2017 11:33:35am
+/air_pressure | 375.6 | 18 01 2017 11:33:40am
+/air_pressure | 375.6 | 18 01 2017 11:33:50am
+/air_pressure | 375.6 | 18 01 2017 11:33:50am
+/air_pressure | 375.6 | 18 01 2017 11:34:00am
+/air_pressure | 375.6 | 18 01 2017 11:34:04am
+/air_pressure | 375.6 | 18 01 2017 11:34:10am
+/air_pressure | 375.6 | 18 01 2017 11:34:20am
+/air_pressure | 375.6 | 18 01 2017 11:34:20am
+/air_pressure | 375.6 | 18 01 2017 11:34:30am
+/air_pressure | 375.6 | 18 01 2017 11:34:34am
+/air_pressure | 375.7 | 18 01 2017 11:34:40am
+/air_pressure | 375.7 | 18 01 2017 11:34:49am
+/air_pressure | 375.6 | 18 01 2017 11:34:50am
+/air_pressure | 375.6 | 18 01 2017 11:35:00am
+/air_pressure | 375.6 | 18 01 2017 11:35:04am
+/air_pressure | 375.7 | 18 01 2017 11:35:10am
+/air_pressure | 375.7 | 18 01 2017 11:35:20am
+/air_pressure | 375.6 | 18 01 2017 11:35:20am
+/air_pressure | 375.6 | 18 01 2017 11:35:30am
+/air_pressure | 375.6 | 18 01 2017 11:35:35am
+/air_pressure | 375.6 | 18 01 2017 11:35:40am
+/air_pressure | 375.6 | 18 01 2017 11:35:50am
+/air_pressure | 375.6 | 18 01 2017 11:35:51am
+/air_pressure | 375.6 | 18 01 2017 11:36:01am
+/air_pressure | 375.6 | 18 01 2017 11:36:05am
+/air_pressure | 375.6 | 18 01 2017 11:36:11am
+/air_pressure | 375.6 | 18 01 2017 11:36:20am
+/air_pressure | 375.6 | 18 01 2017 11:36:21am
+/air_pressure | 375.6 | 18 01 2017 11:36:31am
+/air_pressure | 375.6 | 18 01 2017 11:36:35am
+/air_pressure | 375.6 | 18 01 2017 11:36:41am
+/air_pressure | 375.6 | 18 01 2017 11:36:50am
+/air_pressure | 375.6 | 18 01 2017 11:36:51am
+/air_pressure | 375.6 | 18 01 2017 11:37:01am
+/air_pressure | 375.6 | 18 01 2017 11:37:04am
+/air_pressure | 375.6 | 18 01 2017 11:37:11am
+/air_pressure | 375.6 | 18 01 2017 11:37:20am
+/air_pressure | 375.6 | 18 01 2017 11:37:21am
+/air_pressure | 375.6 | 18 01 2017 11:37:31am
+/air_pressure | 375.6 | 18 01 2017 11:37:35am
+/air_pressure | 375.6 | 18 01 2017 11:37:41am
+/air_pressure | 375.6 | 18 01 2017 11:37:49am
+/air_pressure | 375.6 | 18 01 2017 11:37:51am
+/air_pressure | 375.6 | 18 01 2017 11:38:01am
+/air_pressure | 375.6 | 18 01 2017 11:38:04am
+/air_pressure | 375.6 | 18 01 2017 11:38:11am
+/air_pressure | 375.6 | 18 01 2017 11:38:19am
+/air_pressure | 375.6 | 18 01 2017 11:38:21am
+/air_pressure | 375.6 | 18 01 2017 11:38:31am
+/air_pressure | 375.6 | 18 01 2017 11:38:35am
+/air_pressure | 375.6 | 18 01 2017 11:38:41am
+/air_pressure | 375.6 | 18 01 2017 11:38:50am
+/air_pressure | 375.6 | 18 01 2017 11:38:51am
+/air_pressure | 375.6 | 18 01 2017 11:39:01am
+/air_pressure | 375.6 | 18 01 2017 11:39:05am
+/air_pressure | 375.6 | 18 01 2017 11:39:11am
+/air_pressure | 375.6 | 18 01 2017 11:39:20am
+/air_pressure | 375.6 | 18 01 2017 11:39:21am
+/air_pressure | 375.6 | 18 01 2017 11:39:31am
+/air_pressure | 375.6 | 18 01 2017 11:39:35am
+/air_pressure | 375.6 | 18 01 2017 11:39:41am
+/air_pressure | 375.6 | 18 01 2017 11:39:49am
+/air_pressure | 375.6 | 18 01 2017 11:39:51am
+/air_pressure | 375.6 | 18 01 2017 11:40:01am
+/air_pressure | 375.6 | 18 01 2017 11:40:04am
+/air_pressure | 375.6 | 18 01 2017 11:40:11am
+/air_pressure | 375.6 | 18 01 2017 11:40:19am
+/air_pressure | 375.6 | 18 01 2017 11:40:21am
+/air_pressure | 375.6 | 18 01 2017 11:40:31am
+/air_pressure | 375.6 | 18 01 2017 11:40:35am
+/air_pressure | 375.6 | 18 01 2017 11:40:41am
+/air_pressure | 375.6 | 18 01 2017 11:40:49am
+/air_pressure | 375.6 | 18 01 2017 11:40:51am
+/air_pressure | 375.6 | 18 01 2017 11:41:01am
+/air_pressure | 375.6 | 18 01 2017 11:41:04am
+/air_pressure | 375.6 | 18 01 2017 11:41:11am
+/air_pressure | 375.6 | 18 01 2017 11:41:19am
+/air_pressure | 375.6 | 18 01 2017 11:41:21am
+/air_pressure | 375.6 | 18 01 2017 11:41:31am
+/air_pressure | 375.6 | 18 01 2017 11:41:35am
+/air_pressure | 375.6 | 18 01 2017 11:41:42am
+/air_pressure | 375.6 | 18 01 2017 11:41:49am
+/air_pressure | 375.6 | 18 01 2017 11:41:51am
+/air_pressure | 375.6 | 18 01 2017 11:42:01am
+/air_pressure | 375.6 | 18 01 2017 11:42:04am
+/air_pressure | 375.6 | 18 01 2017 11:42:12am
+/air_pressure | 375.6 | 18 01 2017 11:42:20am
+/air_pressure | 375.6 | 18 01 2017 11:42:21am
+/air_pressure | 375.6 | 18 01 2017 11:42:32am
+/air_pressure | 375.6 | 18 01 2017 11:42:42am
+/air_pressure | 375.6 | 18 01 2017 11:42:47am
+/air_pressure | 375.6 | 18 01 2017 11:42:52am
+/air_pressure | 375.6 | 18 01 2017 11:43:01am
+/air_pressure | 375.6 | 18 01 2017 11:43:02am
+/air_pressure | 375.6 | 18 01 2017 11:43:12am
+/air_pressure | 375.6 | 18 01 2017 11:43:17am
+/air_pressure | 375.6 | 18 01 2017 11:43:22am
+/air_pressure | 375.6 | 18 01 2017 11:43:31am
+/air_pressure | 375.6 | 18 01 2017 11:43:32am
+/air_pressure | 375.6 | 18 01 2017 11:43:42am
+/air_pressure | 375.6 | 18 01 2017 11:43:47am
+/air_pressure | 375.6 | 18 01 2017 11:43:52am
+/air_pressure | 375.6 | 18 01 2017 11:44:01am
+/air_pressure | 375.6 | 18 01 2017 11:44:02am
+/air_pressure | 375.6 | 18 01 2017 11:44:12am
+/air_pressure | 375.6 | 18 01 2017 11:44:16am
+/air_pressure | 375.6 | 18 01 2017 11:44:22am
+/air_pressure | 375.6 | 18 01 2017 11:44:32am
+/air_pressure | 375.6 | 18 01 2017 11:44:32am
+/air_pressure | 375.5 | 18 01 2017 11:44:42am
+/air_pressure | 375.5 | 18 01 2017 11:44:47am
+/air_pressure | 375.6 | 18 01 2017 11:44:52am
+/air_pressure | 375.6 | 18 01 2017 11:45:02am
+/air_pressure | 375.5 | 18 01 2017 11:45:02am
+/air_pressure | 375.6 | 18 01 2017 11:45:12am
+/air_pressure | 375.6 | 18 01 2017 11:45:17am
+/air_pressure | 375.6 | 18 01 2017 11:45:22am
+/air_pressure | 375.6 | 18 01 2017 11:45:32am
+/air_pressure | 375.6 | 18 01 2017 11:45:32am
+/air_pressure | 375.5 | 18 01 2017 11:45:42am
+/air_pressure | 375.5 | 18 01 2017 11:45:46am
+/air_pressure | 375.6 | 18 01 2017 11:45:52am
+/air_pressure | 375.6 | 18 01 2017 11:46:02am
+/air_pressure | 375.6 | 18 01 2017 11:46:02am
+/air_pressure | 375.6 | 18 01 2017 11:46:12am
+/air_pressure | 375.6 | 18 01 2017 11:46:17am
+/air_pressure | 375.6 | 18 01 2017 11:46:22am
+/air_pressure | 375.6 | 18 01 2017 11:46:31am
+/air_pressure | 375.5 | 18 01 2017 11:46:32am
+/air_pressure | 375.5 | 18 01 2017 11:46:42am
+/air_pressure | 375.5 | 18 01 2017 11:46:47am
+/air_pressure | 375.5 | 18 01 2017 11:46:52am
+/air_pressure | 375.5 | 18 01 2017 11:47:02am
+/air_pressure | 375.6 | 18 01 2017 11:47:02am
+/air_pressure | 375.6 | 18 01 2017 11:47:12am
+/air_pressure | 375.6 | 18 01 2017 11:47:16am
+/air_pressure | 375.5 | 18 01 2017 11:47:22am
+/air_pressure | 375.5 | 18 01 2017 11:47:31am
+/air_pressure | 375.6 | 18 01 2017 11:47:32am
+/air_pressure | 375.6 | 18 01 2017 11:47:42am
+/air_pressure | 375.6 | 18 01 2017 11:47:47am
+/air_pressure | 375.6 | 18 01 2017 11:47:52am
+/air_pressure | 375.6 | 18 01 2017 11:48:01am
+/air_pressure | 375.5 | 18 01 2017 11:48:02am
+/air_pressure | 375.5 | 18 01 2017 11:48:13am
+/air_pressure | 375.5 | 18 01 2017 11:48:16am
+/air_pressure | 375.6 | 18 01 2017 11:48:22am
+/air_pressure | 375.6 | 18 01 2017 11:48:32am
+/air_pressure | 375.5 | 18 01 2017 11:48:32am
+/air_pressure | 375.5 | 18 01 2017 11:48:43am
+/air_pressure | 375.6 | 18 01 2017 11:48:53am
+/air_pressure | 375.6 | 18 01 2017 11:48:58am
+/air_pressure | 375.6 | 18 01 2017 11:49:03am
+/air_pressure | 375.6 | 18 01 2017 11:49:13am
+/air_pressure | 375.5 | 18 01 2017 11:49:13am
+/air_pressure | 375.5 | 18 01 2017 11:49:23am
+/air_pressure | 375.5 | 18 01 2017 11:49:28am
+/air_pressure | 375.6 | 18 01 2017 11:49:33am
+/air_pressure | 375.6 | 18 01 2017 11:49:43am
+/air_pressure | 375.6 | 18 01 2017 11:49:43am
+/air_pressure | 375.5 | 18 01 2017 11:49:53am
+/air_pressure | 375.5 | 18 01 2017 11:49:57am
+/air_pressure | 375.5 | 18 01 2017 11:50:03am
+/air_pressure | 375.5 | 18 01 2017 11:50:13am
+/air_pressure | 375.5 | 18 01 2017 11:50:13am
+/air_pressure | 375.5 | 18 01 2017 11:50:23am
+/air_pressure | 375.5 | 18 01 2017 11:50:27am
+/air_pressure | 375.5 | 18 01 2017 11:50:33am
+/air_pressure | 375.5 | 18 01 2017 11:50:43am
+/air_pressure | 375.5 | 18 01 2017 11:50:43am
+/air_pressure | 375.5 | 18 01 2017 11:50:53am
+/air_pressure | 375.5 | 18 01 2017 11:50:57am
+/air_pressure | 375.5 | 18 01 2017 11:51:03am
+/air_pressure | 375.5 | 18 01 2017 11:51:13am
+/air_pressure | 375.5 | 18 01 2017 11:51:13am
+/air_pressure | 375.5 | 18 01 2017 11:51:23am
+/air_pressure | 375.5 | 18 01 2017 11:51:28am
+/air_pressure | 375.5 | 18 01 2017 11:51:33am
+/air_pressure | 375.5 | 18 01 2017 11:51:43am
+/air_pressure | 375.5 | 18 01 2017 11:51:43am
+/air_pressure | 375.5 | 18 01 2017 11:51:53am
+/air_pressure | 375.5 | 18 01 2017 11:51:58am
+/air_pressure | 375.5 | 18 01 2017 11:52:03am
+/air_pressure | 375.5 | 18 01 2017 11:52:12am
+/air_pressure | 375.5 | 18 01 2017 11:52:13am
+/air_pressure | 375.5 | 18 01 2017 11:52:23am
+/air_pressure | 375.5 | 18 01 2017 11:52:28am
+/air_pressure | 375.5 | 18 01 2017 11:52:33am
+/air_pressure | 375.5 | 18 01 2017 11:52:42am
+/air_pressure | 375.5 | 18 01 2017 11:52:43am
+/air_pressure | 375.5 | 18 01 2017 11:52:53am
+/air_pressure | 375.5 | 18 01 2017 11:52:58am
+/air_pressure | 375.5 | 18 01 2017 11:53:03am
+/air_pressure | 375.5 | 18 01 2017 11:53:13am
+/air_pressure | 375.5 | 18 01 2017 11:53:13am
+/air_pressure | 375.5 | 18 01 2017 11:53:23am
+/air_pressure | 375.5 | 18 01 2017 11:53:27am
+/air_pressure | 375.5 | 18 01 2017 11:53:33am
+/air_pressure | 375.5 | 18 01 2017 11:53:43am
+/air_pressure | 375.5 | 18 01 2017 11:53:43am
+/air_pressure | 375.5 | 18 01 2017 11:53:53am
+/air_pressure | 375.5 | 18 01 2017 11:53:58am
+/air_pressure | 375.5 | 18 01 2017 11:54:03am
+/air_pressure | 375.5 | 18 01 2017 11:54:13am
+/air_pressure | 375.5 | 18 01 2017 11:54:13am
+/air_pressure | 375.5 | 18 01 2017 11:54:23am
+/air_pressure | 375.5 | 18 01 2017 11:54:28am
+/air_pressure | 375.5 | 18 01 2017 11:54:34am
+/air_pressure | 375.5 | 18 01 2017 11:54:43am
+/air_pressure | 375.5 | 18 01 2017 11:54:43am
+/air_pressure | 375.5 | 18 01 2017 11:54:54am
+/air_pressure | 375.5 | 18 01 2017 11:55:04am
+/air_pressure | 375.5 | 18 01 2017 11:55:09am
+/air_pressure | 375.5 | 18 01 2017 11:55:14am
+/air_pressure | 375.5 | 18 01 2017 11:55:23am
+/air_pressure | 375.5 | 18 01 2017 11:55:24am
+/air_pressure | 375.5 | 18 01 2017 11:55:34am
+/air_pressure | 375.5 | 18 01 2017 11:55:38am
