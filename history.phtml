@@ -29,80 +29,65 @@
     <div id="history_wrapper">
 
         <form action="download.php" method="POST">
-            <input type="range" min="1" max="20" step="1" value="1" id="foo" name="passengers"
-                   onchange='document.getElementById("bar").value = "Slider Value = " + document.getElementById("foo").value;'/>
-            <input type="text" name="bar" id="bar" value="Slider Value = 1" disabled/>
+            <input type="range" min="1" max="100" step="1" value="1" id="foo" name="rangeSlider"
+                   onchange='document.getElementById("bar").value = "No. of Lines = " + document.getElementById("foo").value;'/>
+            <input type="text" name="bar" id="bar" value="No. of Lines = 1" disabled/>
             <br/>
             <input type=submit name="topLines" value="Download Top Lines"/>
             <input type=submit name="lastLines" value="Download Last Lines"/>
-                </form>
-<!--            <input type=submit name="downloadData" value="Download Data"/>-->
+            <div class="history_data">
+                <h3>Temp</h3>
+                <?php
+                getData(temp);
+                ?>
+            </div>
 
-            <!--            <select name="Order" class="btn btn-default dropdown-toggle" data-toggle="dropdown">-->
-            <!--                <option value="top_Lines">Top Lines</option>-->
-            <!--                <option value="last_Lines">Last Lines</option>-->
-            <!--            </select>-->
-        </form>
+            <div class="history_data">
+                <h3>Air Pressure</h3>
+                <?php
+                getData(air_pressure);
+                ?>
+            </div>
 
-        <div class="history_data">
-            <h3>Temp</h3>
-            <?php
-            getData(temp);
-            ?>
-        </div>
+            <div class="history_data">
+                <h3>Wind Direction</h3>
+                <?php
+                getData(wind_d);
+                ?>
 
-        <div class="history_data">
-            <h3>Air Pressure</h3>
-            <?php
-            //require("history.php");
-            getData(air_pressure);
-            ?>
-        </div>
+            </div>
 
-        <div class="history_data">
-            <h3>Wind Direction</h3>
-            <?php
-            //require("history.php");
-            getData(wind_d);
-            ?>
+            <div class="history_data">
+                <h3>Wind Speed</h3>
+                <?php
+                getData(wind_s);
+                ?>
 
-        </div>
+            </div>
 
-        <div class="history_data">
-            <h3>Wind Speed</h3>
-            <?php
-            //require("history.php");
-            getData(wind_s);
-            ?>
+            <div class="history_data">
+                <h3>Solar</h3>
+                <?php
+                getData(solar);
+                ?>
 
-        </div>
+            </div>
 
-        <div class="history_data">
-            <h3>Solar</h3>
-            <?php
-            //require("history.php");
-            getData(solar);
-            ?>
+            <div class="history_data">
+                <h3>Humidity</h3>
+                <?php
+                getData(humidity);
+                ?>
 
-        </div>
+            </div>
 
-        <div class="history_data">
-            <h3>Humidity</h3>
-            <?php
-            //require("history.php");
-            getData(humidity);
-            ?>
+            <div class="history_data">
+                <h3>Rain</h3>
+                <?php
+                getData(rain);
+                ?>
 
-        </div>
-
-        <div class="history_data">
-            <h3>Rain</h3>
-            <?php
-            //require("history.php");
-            getData(rain);
-            ?>
-
-        </div>
+            </div>
 
     </div>
 
