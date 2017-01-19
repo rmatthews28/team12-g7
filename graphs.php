@@ -25,7 +25,7 @@ function getLineGraphData($filepath)
             /*while ((*/
             $line = fgets($handle);/*)) !== false) {*/
             // splits the 3 values in 3 arrays
-            $array = (explode("|", $line));
+            $array = (explode(",", $line));
             $value = $array[1]; // the value
             $time = $array[2]; // the time value
             $timeexplode = (explode(" ", $time)); // splits time/date with space as delimiter.
