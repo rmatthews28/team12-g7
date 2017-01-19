@@ -1,5 +1,21 @@
-<?php
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.src.js"></script>
+<script src="http://code.highcharts.com/highcharts-more.src.js"></script>
+<!--<div id="temp_div"></div>-->
+<!--<div id="humidity_div"></div>-->
+<!--<div id="airpressure_div"></div>-->
+<!--<div id="rain_div"></div>-->
+<!--<div id="winds_div"></div>-->
+<!--<div id="windd_div"></div>-->
+<!--<div id="solar_div"></div>-->
+<!--<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>-->
+<!--<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>-->
+<!--<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>-->
 
+
+<?php
+//main fucntion used for line graphs
 function getLineGraphData($filepath)
 {
     $handle = fopen($filepath, "r");
@@ -8,14 +24,19 @@ function getLineGraphData($filepath)
         while($i < 250) {
             /*while ((*/
             $line = fgets($handle);/*)) !== false) {*/
-            // process the line read.
+            // splits the 3 values in 3 arrays
             $array = (explode("|", $line));
+            $value = $array[1]; // the value
+            $time = $array[2]; // the time value
+            $timeexplode = (explode(" ", $time)); // splits time/date with space as delimiter.
+            $time2 = $timeexplode[3].", ".$timeexplode[2].", ".$timeexplode[1].""; // adds the date together in the correct format
+            $timeexplode2 = (explode(":", $timeexplode[4])); // splits the time with : as a delimiter
+            $time3 = ", ".$timeexplode2[0].", ".$timeexplode2[1].", ".substr($timeexplode2[2], 0, 2); // adds the time together in the correct format
 
-            $value = $array[1];
-            $time = $array[2];
-            $timeexplode = (explode(":", $time));
-            $time2 = "[".$timeexplode[0].", ".$timeexplode[1].", ".substr($timeexplode[2], 0, 2)."]";
-            $superArray[] = [$value, $time2];
+            $supertime = $time2.$time3; // adds the times and date together
+
+            $superArray[] = [$value, $supertime]; // adds it to the final array
+            //print_r($timeexplode);
             $i++;
         }
         return $superArray;
@@ -24,7 +45,7 @@ function getLineGraphData($filepath)
         //Error handling
     }
 }
-
+//gets the last line of the file, explodes into array, pulls the correct data
 function getLastLine($filename)
 {
     $line = trim(implode("", array_slice(file($filename), -1)));
@@ -32,27 +53,35 @@ function getLastLine($filename)
     $value = $array[1];
     return $value;
 }
+//echo getLastLine("wind_d.txt");
+//testing function
+function getData2()
+{
+    $handle = file_get_contents("temp.txt");
+    $array = (explode("|", $handle));
+    $value = $array[1];
+    $time = $array[2];
+    $timeexplode = (explode(":", $time));
+    echo "[".$timeexplode[0].", ".$timeexplode[1].", ".substr($timeexplode[2], 0, 2)."]";
+    //print_r($timeexplode);
+}
+//echo getData2();
+/*foreach(getData(datatest) as $data)
+{
+    echo "[".$data[1], $data[0]."]";
+}*/
+//echo "[[ 8, 30, 45 ], 4.7]";
+//echo getData(datatest)[4][0];
+//getData2();
+//echo file_get_contents("datatest.txt");
 
+//print_r(getLineGraphData("testdata.txt"));
+//print_r(getLineGraphData("testdata.txt")[1][1]);
 
 ?>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
-<script src="http://code.highcharts.com/highcharts.src.js"></script>
-<script src="http://code.highcharts.com/highcharts-more.src.js"></script>
-<div id="temp_div"></div>
-<div id="humidity_div"></div>
-<div id="airpressure_div"></div>
-<div id="rain_div"></div>
-<div id="winds_div"></div>
-<div id="windd_div"></div>
-<div id="solar_div"></div>
-<div id="windspeedgauge_div" style="width: 400px; height: 120px;"></div>
-<div id="airpressuregauge_div" style="width: 400px; height: 120px;"></div>.
-<div id="windDirection_div" style="height: 250px; min-width: 500px"></div>
 
 
 <script>
-
     google.charts.load('current', {packages: ['corechart', 'line', 'gauge']});
     google.charts.setOnLoadCallback(drawTempChart);
     google.charts.setOnLoadCallback(drawHumidityChart);
@@ -64,48 +93,56 @@ function getLastLine($filename)
     google.charts.setOnLoadCallback(drawWindspeedGauge);
     google.charts.setOnLoadCallback(drawAirpressureGauge);
 
-
     function drawTempChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Temp');
 
-        //console.log(a);
-        /*setInterval( function () {
-         window.alert(a);
-         },2000);*/
         data.addRows([
             <?php foreach(getLineGraphData("temp.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
-        ]);
+                {
+                ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+    <?php }  ?>
+    ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Temp'
-            }
+            },
+            curveType: 'function',
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('temp_div'));
         tempChart.draw(data, options);
     }
     function drawHumidityChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Humidity');
         data.addRows([
             <?php foreach(getLineGraphData("humidity.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Humidity'
             }
         };
@@ -114,19 +151,25 @@ function getLastLine($filename)
     }
     function drawAirPressureChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Air Pressure');
         data.addRows([
             <?php foreach(getLineGraphData("air_pressure.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Air Pressure'
             }
         };
@@ -135,19 +178,25 @@ function getLastLine($filename)
     }
     function drawRainChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Rain');
         data.addRows([
             <?php foreach(getLineGraphData("rain.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Rain MM'
             }
         };
@@ -156,19 +205,25 @@ function getLastLine($filename)
     }
     function drawWindsChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Wind Speed MPH');
         data.addRows([
             <?php foreach(getLineGraphData("wind_s.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Wind Speed MPH'
             }
         };
@@ -177,19 +232,25 @@ function getLastLine($filename)
     }
     function drawWinddChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Wind Direction oC');
         data.addRows([
             <?php foreach(getLineGraphData("wind_d.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Wind Direction oC'
             }
         };
@@ -198,26 +259,31 @@ function getLastLine($filename)
     }
     function drawSolarChart() {
         var data = new google.visualization.DataTable();
-        data.addColumn('timeofday', 'Time');
+        data.addColumn('datetime', 'Time');
         data.addColumn('number', 'Solar');
         data.addRows([
             <?php foreach(getLineGraphData("solar.txt") as $data)
-        {
-            echo "[".$data[1].",", $data[0]."],";
-        } ?>
+            {
+            ?> [new Date(<?php echo $data[1]; ?>), <?php echo $data[0]; ?>],
+            <?php }  ?>
         ]);
         var options = {
             hAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Time'
             },
             vAxis: {
+                gridlines: {
+                    color: 'transparent'
+                },
                 title: 'Solar'
             }
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('solar_div'));
         tempChart.draw(data, options);
     }
-
     function drawWindspeedGauge() {
         var data = google.visualization.arrayToDataTable([
             ['Label', 'Value'],
@@ -244,92 +310,4 @@ function getLastLine($filename)
         data.setValue(0, 1, <?php echo getLastLine("air_pressure.txt") ?> );
         windspeedChart.draw(data, options);
     }
-
-</script>
-
-<script>
-    $(function () {
-        var langWindDir = new Array("N", "NNE", "NE", "ENE","E", "ESE", "SE", "SSE","S", "SSW", "SW", "WSW","W", "WNW", "NW", "NNW");
-        function windDirLang ($winddir)
-        {
-            /* return langWindDir[Math.floor(((parseInt($winddir) + 11) / 22.5) % 16 )];*/
-            return langWindDir[Math.floor(((parseInt($winddir,10) + 11.25) / 22.5))];
-        }
-        var chart = new Highcharts.Chart({
-                chart: {
-                    renderTo: 'windDirection_div',
-                    type: 'gauge',
-                    plotBackgroundColor: null,
-                    plotBackgroundImage: null,
-                    plotBorderWidth: 0,
-                    plotShadow: false
-                },
-                title: {
-                    text: 'Wind Direction'
-                },
-                credits: {
-                    enabled: false
-                },
-                pane: {
-                    /* startAngle: -180, */
-                    /* endAngle: 180, */
-                    background: [{
-                        backgroundColor: {
-                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
-                            stops: [
-                                [0, '#FFF'],
-                                [1, '#333']
-                            ]
-                        },
-                        borderWidth: 0,
-                        outerRadius: '109%'
-                    }, {
-                        backgroundColor: {
-                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
-                            stops: [
-                                [0, '#333'],
-                                [1, '#FFF']
-                            ]
-                        },
-                        borderWidth: 1,
-                        outerRadius: '107%'
-                    }, {
-                        // default background
-                    }, {
-                        backgroundColor: '#DDD',
-                        borderWidth: 0,
-                        outerRadius: '105%',
-                        innerRadius: '103%'
-                    }]
-                },
-                // the value axis
-                yAxis: {
-                    min: 0,
-                    max: 360,
-                    tickInterval: 22.5,
-                    tickWidth: 2,
-                    tickPosition: 'inside',
-                    tickLength: 3,
-                    tickColor: '#666',
-                    labels: {
-                        step: 2,
-                        rotation: 'auto',
-                        formatter:
-                            function() {
-                                return windDirLang(this.value);
-                            }
-                    }
-                },
-                series: [{
-                    name: 'Dir',
-                    data: [<?php echo getLastLine("wind_d.txt") ?>],
-                    tooltip: {
-                        /* valueSuffix: ' km/h' */
-                        enabled: false
-                    }
-                }]
-            },
-            function (chart) {
-            });
-    });
 </script>

@@ -1,5 +1,5 @@
 <?php
-//require("index.php");
+require("graphs.php");
 
 ?>
 
@@ -20,6 +20,7 @@
         <header>
 
             <h1>Energy House</h1>
+            <img src="/assets/img/icons/SVG/cloud-download.svg"/>
 
         </header>
 
@@ -28,60 +29,260 @@
         <div id="weather_wrapper">
 
             <div class="weather_data">
-                <h3>Temp</h3>
-                <?php
-                //require("index.php")
-                getData(temp);
-                ?>
+                <div class="factor_graph" id="temp_div">
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="temp_value"><?php getData(temp); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">°C</h3>
+                        <h3 class="factor_name">Temperature</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Air Pressure</h3>
-                <?php
-                //require("index.php");
-                getData(air_pressure);
-                ?>
+                <div class="factor_graph" id="humidity_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="humidity_value"><?php getData(humidity); ?></p>
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure"></h3>
+                        <h3 class="factor_name">Humidity</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Humidity</h3>
-                <?php
-                //require("index.php");
-                getData(humidity);
-                ?>
+                <div class="factor_graph" id="rain_div">
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="rain_value"><?php getData(rain); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">Droplets</h3>
+                        <h3 class="factor_name">Rain</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Wind Speed</h3>
-                <?php
-                //require("index.php");
-                getData(wind_s);
-                ?>
+                <div class="factor_graph" id="airpressure_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="air_p_value"><?php getData(air_pressure); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">mbar</h3>
+                        <h3 class="factor_name">air pressure</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Wind Direction</h3>
-                <?php
-                //require("index.php");
-                getData(wind_d);
-                ?>
+                <div class="factor_graph" id="winds_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="wind_s_value"><?php getData(wind_s); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">m/s</h3>
+                        <h3 class="factor_name">wind s</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Rain</h3>
-                <?php
-                //require("index.php");
-                getData(rain);
-                ?>
+                <div class="factor_graph" id="windd_div">
+
+                    <p>Graph in here</p>
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="wind_d_value"><?php getData(wind_d); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">°</h3>
+                        <h3 class="factor_name">wind direction</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
             </div>
 
             <div class="weather_data">
-                <h3>Solar</h3>
-                <?php
-                //require("index.php");
-                getData(solar);
-                ?>
+                <div class="factor_graph" id="solar_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="solar_value"><?php getData(solar); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">kW/m2</h3>
+                        <h3 class="factor_name">solar</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
+
+
+
             </div>
+
+            <!-- sepoints 1-4 -->
+
+            <div class="weather_data">
+                <div class="factor_graph" id="s1_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="s1_value">0.1<?php// getData(setpoint1); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">point</h3>
+                        <h3 class="factor_name">setpoint 1</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+            <div class="weather_data">
+                <div class="factor_graph" id="s1_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="s2_value">0.2<?php// getData(setpoint2); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">point</h3>
+                        <h3 class="factor_name">setpoint 2</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+            <div class="weather_data">
+                <div class="factor_graph" id="s3_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="s3_value">0.3<?php// getData(setpoint3); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">point</h3>
+                        <h3 class="factor_name">setpoint 3</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+            <div class="weather_data">
+                <div class="factor_graph" id="s4_div">
+
+
+
+                </div>
+                <div class="current_factor">
+
+                    <p id="s4_value">0.4<?php// getData(setpoint4); ?></p>
+
+                    <div class="factor_meaning">
+                        <h3 class="factor_measure">point</h3>
+                        <h3 class="factor_name">setpoint 4</h3>
+                    </div>
+
+                    <div class="download">
+                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
 
         </div>
 
@@ -93,13 +294,32 @@
 
         <footer>
 
+            <p id="demo"></p>
+
+            <script>
+                var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                        document.getElementById("demo").innerHTML =
+                            this.getAllResponseHeaders();
+                    }
+                };
+                xhttp.open("POST", "../../temp.txt", true);
+                //xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                $filearr = file("../../temp.txt");
+                $lastlines = array_slice($filearr,-1);
+                xhttp.send();
+
+                //$( "#demo" ).load( "../../temp.txt");
+            </script>
+
 
         </footer>
         <script src="assets/js/functions.js">
 
 
 
-        </script>
+        </>
     </body>
 
 </html>

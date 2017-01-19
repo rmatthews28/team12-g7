@@ -2,11 +2,13 @@ body
   margin: 0
   width: 100vw
   overflow-x: hidden
-  background-color: white
+  //background-color: white
   font-size: 14px
   line-height: 1.5
   color: $dark-grey
   font-family: 'Fira Sans', sans-serif
+  background-color: white
+
 i
   font-size: 40px
   display: block
@@ -37,17 +39,22 @@ section
 
 header
   width: 100vw
-  display: block
+  position: relative
   background-color: $silver
   align-content: center
   display: flex
   align-items: center
+  padding-left: 2em
+
+  img
+    position: absolute
+    top: 20px
+    right: 20px
+    cursor: pointer
 
 
 
 
-.body-container
-  +outer-container
 
 footer
   background-color: $silver

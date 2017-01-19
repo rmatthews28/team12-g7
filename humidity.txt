@@ -1290,3 +1290,3696 @@
 /humidity | 98.6 | 11:13:14am
 /humidity | 98.6 | 11:13:17am
 /humidity | 98.5 | 11:13:27am
+/humidity | 98.6 | 11:37:13am
+/humidity | 98.5 | 11:37:21am
+/humidity | 98.5 | 11:37:28am
+/humidity | 98.6 | 11:37:31am
+/humidity | 98.6 | 11:37:41am
+/humidity | 98.6 | 11:37:42am
+/humidity | 98.6 | 11:37:51am
+/humidity | 98.6 | 11:37:57am
+/humidity | 98.6 | 11:38:01am
+/humidity | 98.6 | 11:38:11am
+/humidity | 98.6 | 11:38:13am
+/humidity | 98.6 | 11:38:21am
+/humidity | 98.6 | 11:38:27am
+/humidity | 98.5 | 11:38:31am
+/humidity | 98.5 | 11:38:41am
+/humidity | 98.5 | 11:38:42am
+/humidity | 98.6 | 11:38:51am
+/humidity | 98.6 | 11:38:58am
+/humidity | 98.5 | 11:39:01am
+/humidity | 98.6 | 11:39:11am
+/humidity | 98.6 | 11:39:13am
+/humidity | 98.6 | 11:39:21am
+/humidity | 98.6 | 11:39:27am
+/humidity | 98.5 | 11:39:31am
+/humidity | 98.5 | 11:39:41am
+/humidity | 98.5 | 11:39:42am
+/humidity | 98.5 | 11:39:51am
+/humidity | 98.5 | 11:39:57am
+/humidity | 98.5 | 11:40:01am
+/humidity | 98.6 | 11:40:11am
+/humidity | 98.6 | 11:40:13am
+/humidity | 98.6 | 11:40:21am
+/humidity | 98.6 | 11:40:28am
+/humidity | 98.6 | 11:40:31am
+/humidity | 98.5 | 11:40:41am
+/humidity | 98.5 | 11:40:43am
+/humidity | 98.5 | 11:40:51am
+/humidity | 98.5 | 11:40:57am
+/humidity | 98.5 | 11:41:01am
+/humidity | 98.6 | 11:41:11am
+/humidity | 98.6 | 11:41:12am
+/humidity | 98.6 | 11:41:21am
+/humidity | 98.6 | 11:41:27am
+/humidity | 98.6 | 11:41:31am
+/humidity | 98.6 | 11:41:41am
+/humidity | 98.6 | 11:41:42am
+/humidity | 98.5 | 11:41:51am
+/humidity | 98.5 | 11:41:57am
+/humidity | 98.6 | 11:42:01am
+/humidity | 98.5 | 11:42:11am
+/humidity | 98.5 | 11:42:13am
+/humidity | 98.6 | 11:42:21am
+/humidity | 98.6 | 11:42:27am
+/humidity | 98.5 | 11:42:31am
+/humidity | 98.5 | 11:42:42am
+/humidity | 98.5 | 11:42:52am
+/humidity | 98.5 | 11:42:57am
+/humidity | 98.5 | 11:43:02am
+/humidity | 98.5 | 11:43:12am
+/humidity | 98.5 | 11:43:12am
+/humidity | 98.6 | 11:43:22am
+/humidity | 98.6 | 11:43:26am
+/humidity | 98.6 | 11:43:32am
+/humidity | 98.6 | 11:43:41am
+/humidity | 98.6 | 11:43:42am
+/humidity | 98.5 | 11:43:52am
+/humidity | 98.5 | 11:43:57am
+/humidity | 98.5 | 11:44:02am
+/humidity | 98.5 | 11:44:11am
+/humidity | 98.6 | 11:44:12am
+/humidity | 98.6 | 11:44:22am
+/humidity | 98.6 | 11:44:26am
+/humidity | 98.5 | 11:44:32am
+/humidity | 98.5 | 11:44:41am
+/humidity | 98.5 | 11:44:42am
+/humidity | 98.5 | 11:44:52am
+/humidity | 98.5 | 11:44:56am
+/humidity | 98.6 | 11:45:02am
+/humidity | 98.6 | 11:45:11am
+/humidity | 98.5 | 11:45:12am
+/humidity | 98.6 | 11:45:22am
+/humidity | 98.6 | 11:45:26am
+/humidity | 98.6 | 11:45:32am
+/humidity | 98.6 | 11:45:42am
+/humidity | 98.6 | 11:45:42am
+/humidity | 98.6 | 11:45:52am
+/humidity | 98.6 | 11:45:56am
+/humidity | 98.5 | 11:46:02am
+/humidity | 98.5 | 11:46:12am
+/humidity | 98.6 | 11:46:12am
+/humidity | 98.6 | 11:46:22am
+/humidity | 98.6 | 11:46:26am
+/humidity | 98.6 | 11:46:32am
+/humidity | 98.6 | 11:46:41am
+/humidity | 98.5 | 11:46:42am
+/humidity | 98.6 | 11:46:52am
+/humidity | 98.6 | 11:46:57am
+/humidity | 98.5 | 11:47:02am
+/humidity | 98.5 | 11:47:11am
+/humidity | 98.5 | 11:47:12am
+/humidity | 98.5 | 11:47:22am
+/humidity | 98.5 | 11:47:26am
+/humidity | 98.6 | 11:47:32am
+/humidity | 98.6 | 11:47:42am
+/humidity | 98.5 | 11:47:42am
+/humidity | 98.6 | 11:47:52am
+/humidity | 98.6 | 11:47:56am
+/humidity | 98.5 | 11:48:02am
+/humidity | 98.5 | 11:48:11am
+/humidity | 98.6 | 11:48:12am
+/humidity | 98.5 | 11:48:22am
+/humidity | 98.5 | 11:48:26am
+/humidity | 98.5 | 11:48:32am
+/humidity | 98.5 | 11:48:42am
+/humidity | 98.6 | 11:48:42am
+/humidity | 98.5 | 11:48:53am
+/humidity | 98.5 | 11:49:03am
+/humidity | 98.5 | 11:49:08am
+/humidity | 98.5 | 11:49:13am
+/humidity | 98.5 | 11:49:23am
+/humidity | 98.5 | 11:49:23am
+/humidity | 98.5 | 11:49:33am
+/humidity | 98.5 | 11:49:38am
+/humidity | 98.5 | 11:49:43am
+/humidity | 98.5 | 11:49:52am
+/humidity | 98.5 | 11:49:53am
+/humidity | 98.5 | 11:50:03am
+/humidity | 98.5 | 11:50:07am
+/humidity | 98.5 | 11:50:13am
+/humidity | 98.5 | 11:50:23am
+/humidity | 98.5 | 11:50:23am
+/humidity | 98.6 | 11:50:33am
+/humidity | 98.6 | 11:50:37am
+/humidity | 98.5 | 11:50:43am
+/humidity | 98.5 | 11:50:53am
+/humidity | 98.5 | 11:50:53am
+/humidity | 98.5 | 11:51:03am
+/humidity | 98.5 | 11:51:08am
+/humidity | 98.6 | 11:51:13am
+/humidity | 98.6 | 11:51:22am
+/humidity | 98.5 | 11:51:23am
+/humidity | 98.5 | 11:51:33am
+/humidity | 98.5 | 11:51:38am
+/humidity | 98.5 | 11:51:43am
+/humidity | 98.5 | 11:51:52am
+/humidity | 98.5 | 11:51:53am
+/humidity | 98.5 | 11:52:03am
+/humidity | 98.5 | 11:52:07am
+/humidity | 98.5 | 11:52:13am
+/humidity | 98.5 | 11:52:22am
+/humidity | 98.6 | 11:52:23am
+/humidity | 98.6 | 11:52:33am
+/humidity | 98.6 | 11:52:37am
+/humidity | 98.6 | 11:52:43am
+/humidity | 98.6 | 11:52:52am
+/humidity | 98.5 | 11:52:53am
+/humidity | 98.6 | 11:53:03am
+/humidity | 98.6 | 11:53:08am
+/humidity | 98.5 | 11:53:13am
+/humidity | 98.5 | 11:53:22am
+/humidity | 98.5 | 11:53:23am
+/humidity | 98.5 | 11:53:33am
+/humidity | 98.5 | 11:53:37am
+/humidity | 98.6 | 11:53:43am
+/humidity | 98.6 | 11:53:52am
+/humidity | 98.5 | 11:53:53am
+/humidity | 98.6 | 11:54:03am
+/humidity | 98.6 | 11:54:07am
+/humidity | 98.5 | 11:54:13am
+/humidity | 98.5 | 11:54:22am
+/humidity | 98.5 | 11:54:23am
+/humidity | 98.5 | 11:54:33am
+/humidity | 98.5 | 11:54:38am
+/humidity | 98.5 | 11:54:43am
+/humidity | 98.5 | 11:54:52am
+/humidity | 98.6 | 11:54:53am
+/humidity | 98.5 | 11:55:03am
+/humidity | 98.5 | 11:55:07am
+/humidity | 98.5 | 11:55:14am
+/humidity | 98.5 | 11:55:23am
+/humidity | 98.6 | 11:55:24am
+/humidity | 98.5 | 11:55:33am
+/humidity | 98.5 | 11:55:38am
+/humidity | 98.6 | 11:55:44am
+/humidity | 98.6 | 11:55:53am
+/humidity | 98.5 | 11:55:54am
+/humidity | 98.5 | 11:56:04am
+/humidity | 98.5 | 11:56:08am
+/humidity | 98.6 | 11:56:14am
+/humidity | 98.6 | 11:56:22am
+/humidity | 98.5 | 11:56:24am
+/humidity | 98.6 | 11:56:34am
+/humidity | 98.6 | 11:56:37am
+/humidity | 98.6 | 11:56:44am
+/humidity | 98.6 | 11:56:52am
+/humidity | 98.5 | 11:56:54am
+/humidity | 98.6 | 11:57:04am
+/humidity | 98.6 | 11:57:07am
+/humidity | 98.6 | 11:57:14am
+/humidity | 98.6 | 11:57:23am
+/humidity | 98.6 | 11:57:24am
+/humidity | 98.5 | 11:57:34am
+/humidity | 98.5 | 11:57:38am
+/humidity | 98.5 | 11:57:44am
+/humidity | 98.5 | 11:57:53am
+/humidity | 98.6 | 11:57:54am
+/humidity | 98.5 | 11:58:04am
+/humidity | 98.5 | 11:58:07am
+/humidity | 98.5 | 11:58:14am
+/humidity | 98.5 | 11:58:22am
+/humidity | 98.5 | 11:58:24am
+/humidity | 98.6 | 11:58:34am
+/humidity | 98.6 | 11:58:37am
+/humidity | 98.5 | 11:58:44am
+/humidity | 98.5 | 11:58:53am
+/humidity | 98.5 | 11:58:54am
+/humidity | 98.5 | 11:59:04am
+/humidity | 98.5 | 11:59:07am
+/humidity | 98.6 | 11:59:14am
+/humidity | 98.6 | 11:59:23am
+/humidity | 98.5 | 11:59:24am
+/humidity | 98.5 | 11:59:34am
+/humidity | 98.5 | 11:59:37am
+/humidity | 98.6 | 11:59:44am
+/humidity | 98.6 | 11:59:52am
+/humidity | 98.5 | 11:59:54am
+/humidity | 98.5 | 12:00:04pm
+/humidity | 98.5 | 12:00:07pm
+/humidity | 98.5 | 12:00:14pm
+/humidity | 98.5 | 12:00:23pm
+/humidity | 98.5 | 12:00:24pm
+/humidity | 98.6 | 12:00:34pm
+/humidity | 98.6 | 12:00:37pm
+/humidity | 98.6 | 12:00:44pm
+/humidity | 98.6 | 12:00:52pm
+/humidity | 98.6 | 12:00:54pm
+/humidity | 98.6 | 12:01:04pm
+/humidity | 98.6 | 12:01:07pm
+/humidity | 98.5 | 12:01:14pm
+/humidity | 98.5 | 12:01:23pm
+/humidity | 98.6 | 12:01:24pm
+/humidity | 98.6 | 12:01:34pm
+/humidity | 98.6 | 12:01:38pm
+/humidity | 98.5 | 12:01:44pm
+/humidity | 98.5 | 12:01:52pm
+/humidity | 98.5 | 12:01:54pm
+/humidity | 98.5 | 12:02:04pm
+/humidity | 98.5 | 12:02:07pm
+/humidity | 98.5 | 12:02:15pm
+/humidity | 98.5 | 12:02:23pm
+/humidity | 98.5 | 12:02:25pm
+/humidity | 98.6 | 12:02:35pm
+/humidity | 98.6 | 12:02:37pm
+/humidity | 98.5 | 12:02:45pm
+/humidity | 98.5 | 12:02:52pm
+/humidity | 98.6 | 12:02:55pm
+/humidity | 98.5 | 12:03:05pm
+/humidity | 98.5 | 12:03:07pm
+/humidity | 98.6 | 12:03:15pm
+/humidity | 98.6 | 12:03:23pm
+/humidity | 98.5 | 12:03:25pm
+/humidity | 98.5 | 12:03:35pm
+/humidity | 98.5 | 12:03:37pm
+/humidity | 98.6 | 12:03:45pm
+/humidity | 98.6 | 12:03:52pm
+/humidity | 98.5 | 12:03:55pm
+/humidity | 98.5 | 12:04:05pm
+/humidity | 98.5 | 12:04:07pm
+/humidity | 98.6 | 12:04:15pm
+/humidity | 98.6 | 12:04:22pm
+/humidity | 98.5 | 12:04:25pm
+/humidity | 98.5 | 12:04:35pm
+/humidity | 98.5 | 12:04:37pm
+/humidity | 98.6 | 12:04:45pm
+/humidity | 98.6 | 12:04:52pm
+/humidity | 98.5 | 12:04:55pm
+/humidity | 98.5 | 12:05:05pm
+/humidity | 98.5 | 12:05:08pm
+/humidity | 98.5 | 12:05:15pm
+/humidity | 98.5 | 12:05:22pm
+/humidity | 98.5 | 12:05:25pm
+/humidity | 98.5 | 12:05:35pm
+/humidity | 98.5 | 12:05:37pm
+/humidity | 98.5 | 12:05:45pm
+/humidity | 98.5 | 12:05:52pm
+/humidity | 98.5 | 12:05:55pm
+/humidity | 98.5 | 12:06:05pm
+/humidity | 98.5 | 12:06:07pm
+/humidity | 98.5 | 12:06:15pm
+/humidity | 98.5 | 12:06:23pm
+/humidity | 98.5 | 12:06:25pm
+/humidity | 98.5 | 12:06:35pm
+/humidity | 98.5 | 12:06:38pm
+/humidity | 98.5 | 12:06:45pm
+/humidity | 98.5 | 12:06:52pm
+/humidity | 98.5 | 12:06:55pm
+/humidity | 98.5 | 12:07:05pm
+/humidity | 98.5 | 12:07:08pm
+/humidity | 98.5 | 12:07:15pm
+/humidity | 98.5 | 12:07:23pm
+/humidity | 98.6 | 12:07:25pm
+/humidity | 98.5 | 12:07:35pm
+/humidity | 98.5 | 12:07:38pm
+/humidity | 98.5 | 12:07:45pm
+/humidity | 98.5 | 12:07:53pm
+/humidity | 98.5 | 12:07:56pm
+/humidity | 98.5 | 12:08:06pm
+/humidity | 98.5 | 12:08:08pm
+/humidity | 98.5 | 12:08:16pm
+/humidity | 98.5 | 12:08:22pm
+/humidity | 98.6 | 12:08:26pm
+/humidity | 98.5 | 12:08:36pm
+/humidity | 98.5 | 12:08:38pm
+/humidity | 98.5 | 12:08:46pm
+/humidity | 98.5 | 12:08:52pm
+/humidity | 98.5 | 12:08:56pm
+/humidity | 98.5 | 12:09:06pm
+/humidity | 98.5 | 12:09:08pm
+/humidity | 98.5 | 12:09:16pm
+/humidity | 98.5 | 12:09:23pm
+/humidity | 98.5 | 12:09:26pm
+/humidity | 98.5 | 12:09:36pm
+/humidity | 98.5 | 12:09:37pm
+/humidity | 98.5 | 12:09:46pm
+/humidity | 98.5 | 12:09:53pm
+/humidity | 98.5 | 12:09:56pm
+/humidity | 98.5 | 12:10:06pm
+/humidity | 98.5 | 12:10:08pm
+/humidity | 98.5 | 12:10:16pm
+/humidity | 98.5 | 12:10:22pm
+/humidity | 98.5 | 12:10:26pm
+/humidity | 98.5 | 12:10:36pm
+/humidity | 98.5 | 12:10:38pm
+/humidity | 98.5 | 12:10:46pm
+/humidity | 98.5 | 12:10:52pm
+/humidity | 98.5 | 12:10:56pm
+/humidity | 98.5 | 12:11:06pm
+/humidity | 98.5 | 12:11:07pm
+/humidity | 98.5 | 12:11:16pm
+/humidity | 98.5 | 12:11:22pm
+/humidity | 98.5 | 12:11:26pm
+/humidity | 98.5 | 12:11:36pm
+/humidity | 98.5 | 12:11:38pm
+/humidity | 98.5 | 12:11:46pm
+/humidity | 98.5 | 12:11:53pm
+/humidity | 98.5 | 12:11:56pm
+/humidity | 98.5 | 12:12:06pm
+/humidity | 98.5 | 12:12:07pm
+/humidity | 98.5 | 12:12:16pm
+/humidity | 98.5 | 12:12:22pm
+/humidity | 98.5 | 12:12:26pm
+/humidity | 98.5 | 12:12:36pm
+/humidity | 98.5 | 12:12:38pm
+/humidity | 98.5 | 12:12:46pm
+/humidity | 98.5 | 12:12:53pm
+/humidity | 98.5 | 12:12:56pm
+/humidity | 98.5 | 12:13:06pm
+/humidity | 98.5 | 12:13:07pm
+/humidity | 98.5 | 12:13:16pm
+/humidity | 98.5 | 12:13:22pm
+/humidity | 98.5 | 12:13:27pm
+/humidity | 98.5 | 12:13:37pm
+/humidity | 98.5 | 12:13:37pm
+/humidity | 98.5 | 12:13:47pm
+/humidity | 98.5 | 12:13:52pm
+/humidity | 98.5 | 12:13:57pm
+/humidity | 98.5 | 12:14:07pm
+/humidity | 98.5 | 12:14:07pm
+/humidity | 98.5 | 12:14:17pm
+/humidity | 98.5 | 12:14:22pm
+/humidity | 98.5 | 12:14:27pm
+/humidity | 98.5 | 12:14:37pm
+/humidity | 98.5 | 12:14:37pm
+/humidity | 98.5 | 12:14:47pm
+/humidity | 98.5 | 12:14:52pm
+/humidity | 98.5 | 12:14:57pm
+/humidity | 98.5 | 12:15:07pm
+/humidity | 98.5 | 12:15:08pm
+/humidity | 98.5 | 12:15:17pm
+/humidity | 98.5 | 12:15:22pm
+/humidity | 98.6 | 12:15:27pm
+/humidity | 98.5 | 12:15:37pm
+/humidity | 98.5 | 12:15:38pm
+/humidity | 98.5 | 12:15:47pm
+/humidity | 98.5 | 12:15:53pm
+/humidity | 98.5 | 12:15:57pm
+/humidity | 98.5 | 12:16:07pm
+/humidity | 98.5 | 12:16:08pm
+/humidity | 98.5 | 12:16:17pm
+/humidity | 98.5 | 12:16:22pm
+/humidity | 98.5 | 12:16:27pm
+/humidity | 98.5 | 12:16:37pm
+/humidity | 98.5 | 12:16:37pm
+/humidity | 98.5 | 12:16:47pm
+/humidity | 98.5 | 12:16:52pm
+/humidity | 98.5 | 12:16:57pm
+/humidity | 98.5 | 12:17:07pm
+/humidity | 98.5 | 12:17:08pm
+/humidity | 98.5 | 12:17:17pm
+/humidity | 98.5 | 12:17:22pm
+/humidity | 98.5 | 12:17:27pm
+/humidity | 98.5 | 12:17:38pm
+/humidity | 98.5 | 12:17:47pm
+/humidity | 98.5 | 12:17:52pm
+/humidity | 98.5 | 12:17:57pm
+/humidity | 98.5 | 12:18:07pm
+/humidity | 98.5 | 12:18:17pm
+/humidity | 98.5 | 12:18:23pm
+/humidity | 98.5 | 12:18:28pm
+/humidity | 98.5 | 12:18:37pm
+/humidity | 98.5 | 12:18:37pm
+/humidity | 98.5 | 12:18:48pm
+/humidity | 98.5 | 12:18:52pm
+/humidity | 98.5 | 12:18:58pm
+/humidity | 98.5 | 12:19:08pm
+/humidity | 98.5 | 12:19:08pm
+/humidity | 98.5 | 12:19:18pm
+/humidity | 98.5 | 12:19:22pm
+/humidity | 98.5 | 12:19:28pm
+/humidity | 98.5 | 12:19:37pm
+/humidity | 98.5 | 12:19:38pm
+/humidity | 98.5 | 12:19:48pm
+/humidity | 98.5 | 12:19:52pm
+/humidity | 98.5 | 12:19:58pm
+/humidity | 98.5 | 12:20:07pm
+/humidity | 98.5 | 12:20:08pm
+/humidity | 98.5 | 12:20:18pm
+/humidity | 98.5 | 12:20:23pm
+/humidity | 98.5 | 12:20:28pm
+/humidity | 98.5 | 12:20:37pm
+/humidity | 98.5 | 12:20:38pm
+/humidity | 98.5 | 12:20:48pm
+/humidity | 98.5 | 12:20:52pm
+/humidity | 98.5 | 12:20:58pm
+/humidity | 98.5 | 12:21:08pm
+/humidity | 98.5 | 12:21:08pm
+/humidity | 98.5 | 12:21:18pm
+/humidity | 98.5 | 12:21:22pm
+/humidity | 98.5 | 12:21:28pm
+/humidity | 98.5 | 12:21:37pm
+/humidity | 98.5 | 12:21:38pm
+/humidity | 98.5 | 12:21:48pm
+/humidity | 98.5 | 12:21:52pm
+/humidity | 98.5 | 12:21:58pm
+/humidity | 98.5 | 12:22:07pm
+/humidity | 98.5 | 12:22:08pm
+/humidity | 98.5 | 12:22:18pm
+/humidity | 98.5 | 12:22:22pm
+/humidity | 98.5 | 12:22:28pm
+/humidity | 98.5 | 12:22:37pm
+/humidity | 98.5 | 12:22:38pm
+/humidity | 98.5 | 12:22:48pm
+/humidity | 98.5 | 12:22:52pm
+/humidity | 98.5 | 12:22:58pm
+/humidity | 98.5 | 12:23:07pm
+/humidity | 98.5 | 12:23:08pm
+/humidity | 98.5 | 12:23:18pm
+/humidity | 98.5 | 12:23:23pm
+/humidity | 98.5 | 12:23:29pm
+/humidity | 98.5 | 12:23:38pm
+/humidity | 98.5 | 12:23:39pm
+/humidity | 98.5 | 12:23:49pm
+/humidity | 98.5 | 12:23:52pm
+/humidity | 98.5 | 12:23:59pm
+/humidity | 98.5 | 12:24:08pm
+/humidity | 98.5 | 12:24:09pm
+/humidity | 98.5 | 12:24:19pm
+/humidity | 98.5 | 12:24:23pm
+/humidity | 98.5 | 12:24:29pm
+/humidity | 98.5 | 12:24:37pm
+/humidity | 98.5 | 12:24:39pm
+/humidity | 98.5 | 12:24:49pm
+/humidity | 98.5 | 12:24:52pm
+/humidity | 98.5 | 12:24:59pm
+/humidity | 98.5 | 12:25:08pm
+/humidity | 98.5 | 12:25:09pm
+/humidity | 98.4 | 12:25:19pm
+/humidity | 98.4 | 12:25:23pm
+/humidity | 98.5 | 12:25:29pm
+/humidity | 98.5 | 12:33:41pm
+/humidity | 98.5 | 12:33:50pm
+/humidity | 98.5 | 12:33:55pm
+/humidity | 98.5 | 12:34:00pm
+/humidity | 98.5 | 12:34:10pm
+/humidity | 98.4 | 12:34:10pm
+/humidity | 98.4 | 12:34:20pm
+/humidity | 98.4 | 12:34:25pm
+/humidity | 98.5 | 12:34:31pm
+/humidity | 98.5 | 12:34:40pm
+/humidity | 98.5 | 12:34:41pm
+/humidity | 98.4 | 12:34:51pm
+/humidity | 98.4 | 12:34:55pm
+/humidity | 98.5 | 12:35:01pm
+/humidity | 98.5 | 12:35:10pm
+/humidity | 98.5 | 12:35:11pm
+/humidity | 98.5 | 12:35:21pm
+/humidity | 98.5 | 12:35:25pm
+/humidity | 98.5 | 12:35:31pm
+/humidity | 98.5 | 12:35:40pm
+/humidity | 98.5 | 12:35:41pm
+/humidity | 98.5 | 12:35:51pm
+/humidity | 98.5 | 12:35:55pm
+/humidity | 98.5 | 12:36:01pm
+/humidity | 98.5 | 12:36:10pm
+/humidity | 98.5 | 12:36:11pm
+/humidity | 98.5 | 12:36:21pm
+/humidity | 98.5 | 12:36:25pm
+/humidity | 98.5 | 12:36:31pm
+/humidity | 98.5 | 12:36:40pm
+/humidity | 98.4 | 12:36:41pm
+/humidity | 98.5 | 12:36:51pm
+/humidity | 98.5 | 12:36:55pm
+/humidity | 98.4 | 12:37:01pm
+/humidity | 98.4 | 12:37:10pm
+/humidity | 98.4 | 12:37:11pm
+/humidity | 98.4 | 12:37:21pm
+/humidity | 98.4 | 12:37:25pm
+/humidity | 98.4 | 12:37:31pm
+/humidity | 98.4 | 12:37:40pm
+/humidity | 98.4 | 12:37:41pm
+/humidity | 98.5 | 12:37:51pm
+/humidity | 98.5 | 12:37:55pm
+/humidity | 98.4 | 12:38:01pm
+/humidity | 98.4 | 12:38:10pm
+/humidity | 98.4 | 12:38:11pm
+/humidity | 98.4 | 12:38:21pm
+/humidity | 98.4 | 12:38:25pm
+/humidity | 98.4 | 12:38:31pm
+/humidity | 98.4 | 12:38:40pm
+/humidity | 98.4 | 12:38:41pm
+/humidity | 98.4 | 12:38:51pm
+/humidity | 98.4 | 12:38:55pm
+/humidity | 98.4 | 12:39:01pm
+/humidity | 98.4 | 12:39:10pm
+/humidity | 98.4 | 12:39:11pm
+/humidity | 98.4 | 12:39:22pm
+/humidity | 98.4 | 12:39:25pm
+/humidity | 98.4 | 12:39:31pm
+/humidity | 98.4 | 12:39:40pm
+/humidity | 98.4 | 12:39:41pm
+/humidity | 98.4 | 12:39:51pm
+/humidity | 98.4 | 12:39:55pm
+/humidity | 98.4 | 12:40:02pm
+/humidity | 98.4 | 12:40:10pm
+/humidity | 98.4 | 12:40:12pm
+/humidity | 98.4 | 12:40:22pm
+/humidity | 98.4 | 12:40:25pm
+/humidity | 98.4 | 12:40:32pm
+/humidity | 98.4 | 12:40:40pm
+/humidity | 98.4 | 12:40:42pm
+/humidity | 98.4 | 12:40:52pm
+/humidity | 98.4 | 12:40:55pm
+/humidity | 98.4 | 12:41:02pm
+/humidity | 98.4 | 12:41:10pm
+/humidity | 98.4 | 12:41:12pm
+/humidity | 98.5 | 12:41:22pm
+/humidity | 98.5 | 12:41:25pm
+/humidity | 98.4 | 12:41:32pm
+/humidity | 98.4 | 12:41:40pm
+/humidity | 98.4 | 12:41:42pm
+/humidity | 98.4 | 12:41:52pm
+/humidity | 98.4 | 12:41:55pm
+/humidity | 98.4 | 12:42:02pm
+/humidity | 98.4 | 12:42:10pm
+/humidity | 98.4 | 12:42:12pm
+/humidity | 98.4 | 12:42:22pm
+/humidity | 98.4 | 12:42:25pm
+/humidity | 98.4 | 12:42:32pm
+/humidity | 98.4 | 12:42:40pm
+/humidity | 98.4 | 12:42:42pm
+/humidity | 98.4 | 12:42:52pm
+/humidity | 98.4 | 12:42:55pm
+/humidity | 98.4 | 12:43:02pm
+/humidity | 98.4 | 12:43:10pm
+/humidity | 98.4 | 12:43:12pm
+/humidity | 98.4 | 12:43:22pm
+/humidity | 98.4 | 12:43:25pm
+/humidity | 98.4 | 12:43:32pm
+/humidity | 98.4 | 12:43:40pm
+/humidity | 98.4 | 12:43:42pm
+/humidity | 98.4 | 12:43:52pm
+/humidity | 98.4 | 12:43:55pm
+/humidity | 98.4 | 12:44:02pm
+/humidity | 98.4 | 12:44:10pm
+/humidity | 98.3 | 12:44:12pm
+/humidity | 98.3 | 12:44:22pm
+/humidity | 98.3 | 12:44:25pm
+/humidity | 98.3 | 12:44:32pm
+/humidity | 98.3 | 12:44:40pm
+/humidity | 98.3 | 12:44:42pm
+/humidity | 98.3 | 12:44:52pm
+/humidity | 98.3 | 12:44:55pm
+/humidity | 98.4 | 12:45:02pm
+/humidity | 98.4 | 12:45:10pm
+/humidity | 98.4 | 12:45:12pm
+/humidity | 98.3 | 12:45:22pm
+/humidity | 98.3 | 12:45:25pm
+/humidity | 98.3 | 12:45:32pm
+/humidity | 98.3 | 12:45:40pm
+/humidity | 98.4 | 12:45:42pm
+/humidity | 98.4 | 12:45:52pm
+/humidity | 98.4 | 12:45:55pm
+/humidity | 98.4 | 12:46:02pm
+/humidity | 98.4 | 12:46:10pm
+/humidity | 98.4 | 12:46:12pm
+/humidity | 98.4 | 12:46:23pm
+/humidity | 98.4 | 12:46:25pm
+/humidity | 98.3 | 12:46:33pm
+/humidity | 98.3 | 12:46:40pm
+/humidity | 98.4 | 12:46:43pm
+/humidity | 98.3 | 12:46:53pm
+/humidity | 98.3 | 12:46:55pm
+/humidity | 98.4 | 12:47:03pm
+/humidity | 98.4 | 12:47:10pm
+/humidity | 98.3 | 12:47:13pm
+/humidity | 98.3 | 12:47:23pm
+/humidity | 98.3 | 12:47:25pm
+/humidity | 98.3 | 12:47:33pm
+/humidity | 98.3 | 12:47:40pm
+/humidity | 98.3 | 12:47:43pm
+/humidity | 98.3 | 12:47:53pm
+/humidity | 98.3 | 12:47:55pm
+/humidity | 98.3 | 12:48:03pm
+/humidity | 98.3 | 12:48:10pm
+/humidity | 98.3 | 12:48:13pm
+/humidity | 98.3 | 12:48:23pm
+/humidity | 98.3 | 12:48:25pm
+/humidity | 98.3 | 12:48:33pm
+/humidity | 98.3 | 12:48:40pm
+/humidity | 98.3 | 12:48:43pm
+/humidity | 98.3 | 12:48:53pm
+/humidity | 98.3 | 12:48:55pm
+/humidity | 98.3 | 12:49:03pm
+/humidity | 98.3 | 12:49:10pm
+/humidity | 98.3 | 12:49:13pm
+/humidity | 98.3 | 12:49:23pm
+/humidity | 98.3 | 12:49:25pm
+/humidity | 98.3 | 12:49:33pm
+/humidity | 98.3 | 12:49:40pm
+/humidity | 98.3 | 12:49:43pm
+/humidity | 98.3 | 12:49:53pm
+/humidity | 98.3 | 12:49:55pm
+/humidity | 98.2 | 12:50:03pm
+/humidity | 98.2 | 12:50:10pm
+/humidity | 98.2 | 12:50:13pm
+/humidity | 98.3 | 12:50:23pm
+/humidity | 98.3 | 12:50:25pm
+/humidity | 98.3 | 12:50:33pm
+/humidity | 98.3 | 12:50:40pm
+/humidity | 98.3 | 12:50:43pm
+/humidity | 98.2 | 12:50:53pm
+/humidity | 98.2 | 12:50:55pm
+/humidity | 98.3 | 12:51:03pm
+/humidity | 98.3 | 12:51:10pm
+/humidity | 98.3 | 12:51:13pm
+/humidity | 98.3 | 12:51:23pm
+/humidity | 98.3 | 12:51:25pm
+/humidity | 98.2 | 12:51:33pm
+/humidity | 98.2 | 12:51:40pm
+/humidity | 98.3 | 12:51:43pm
+/humidity | 98.2 | 12:51:53pm
+/humidity | 98.2 | 12:51:55pm
+/humidity | 98.2 | 12:52:03pm
+/humidity | 98.2 | 12:52:10pm
+/humidity | 98.2 | 12:52:13pm
+/humidity | 98.2 | 12:52:23pm
+/humidity | 98.2 | 12:52:25pm
+/humidity | 98.2 | 12:52:33pm
+/humidity | 98.2 | 12:52:40pm
+/humidity | 98.2 | 12:52:43pm
+/humidity | 98.2 | 12:52:53pm
+/humidity | 98.2 | 12:52:55pm
+/humidity | 98.2 | 12:53:03pm
+/humidity | 98.2 | 12:53:10pm
+/humidity | 98.2 | 12:53:14pm
+/humidity | 98.1 | 12:53:24pm
+/humidity | 98.1 | 12:53:25pm
+/humidity | 98.1 | 12:53:34pm
+/humidity | 98.1 | 12:53:40pm
+/humidity | 98.1 | 12:53:44pm
+/humidity | 98.1 | 12:53:54pm
+/humidity | 98.1 | 12:53:55pm
+/humidity | 98.1 | 12:54:04pm
+/humidity | 98.1 | 12:54:10pm
+/humidity | 98.2 | 12:54:14pm
+/humidity | 98.1 | 12:54:24pm
+/humidity | 98.1 | 12:54:25pm
+/humidity | 98.1 | 12:54:34pm
+/humidity | 98.1 | 12:54:40pm
+/humidity | 98.1 | 12:54:44pm
+/humidity | 98.2 | 12:54:54pm
+/humidity | 98.2 | 12:54:55pm
+/humidity | 98.2 | 12:55:04pm
+/humidity | 98.2 | 12:55:10pm
+/humidity | 98.1 | 12:55:14pm
+/humidity | 98.1 | 12:55:24pm
+/humidity | 98.1 | 12:55:25pm
+/humidity | 98.1 | 12:55:34pm
+/humidity | 98.1 | 12:55:41pm
+/humidity | 98.1 | 12:55:44pm
+/humidity | 98.2 | 12:55:54pm
+/humidity | 98.2 | 12:55:56pm
+/humidity | 98.1 | 12:56:04pm
+/humidity | 98.1 | 12:56:10pm
+/humidity | 98.1 | 12:56:14pm
+/humidity | 98.1 | 12:56:24pm
+/humidity | 98.1 | 12:56:25pm
+/humidity | 98.1 | 12:56:34pm
+/humidity | 98.1 | 12:56:40pm
+/humidity | 98.1 | 12:56:44pm
+/humidity | 98.1 | 12:56:54pm
+/humidity | 98.1 | 12:56:55pm
+/humidity | 98.1 | 12:57:04pm
+/humidity | 98.1 | 12:57:11pm
+/humidity | 98.1 | 12:57:14pm
+/humidity | 98.1 | 12:57:24pm
+/humidity | 98.1 | 12:57:25pm
+/humidity | 98.1 | 12:57:34pm
+/humidity | 98.1 | 12:57:41pm
+/humidity | 98.0 | 12:57:44pm
+/humidity | 98.0 | 12:57:54pm
+/humidity | 98.0 | 12:57:56pm
+/humidity | 98.1 | 12:58:05pm
+/humidity | 98.1 | 12:58:11pm
+/humidity | 98.1 | 12:58:14pm
+/humidity | 98.1 | 12:58:24pm
+/humidity | 98.1 | 12:58:25pm
+/humidity | 98.0 | 12:58:35pm
+/humidity | 98.0 | 12:58:41pm
+/humidity | 98.1 | 12:58:45pm
+/humidity | 98.0 | 12:58:55pm
+/humidity | 98.0 | 12:58:55pm
+/humidity | 98.0 | 12:59:05pm
+/humidity | 98.0 | 12:59:11pm
+/humidity | 98.0 | 12:59:15pm
+/humidity | 98.1 | 12:59:25pm
+/humidity | 98.1 | 12:59:25pm
+/humidity | 98.0 | 12:59:35pm
+/humidity | 98.0 | 12:59:40pm
+/humidity | 98.0 | 12:59:45pm
+/humidity | 98.1 | 12:59:55pm
+/humidity | 98.1 | 12:59:55pm
+/humidity | 98.1 | 01:00:05pm
+/humidity | 98.1 | 01:00:11pm
+/humidity | 98.0 | 01:00:15pm
+/humidity | 98.0 | 01:00:25pm
+/humidity | 98.0 | 01:00:26pm
+/humidity | 98.0 | 01:00:35pm
+/humidity | 98.0 | 01:00:41pm
+/humidity | 98.0 | 01:00:45pm
+/humidity | 98.0 | 01:00:55pm
+/humidity | 98.0 | 01:00:56pm
+/humidity | 98.0 | 01:01:05pm
+/humidity | 98.0 | 01:01:11pm
+/humidity | 98.0 | 01:01:15pm
+/humidity | 98.0 | 01:01:25pm
+/humidity | 98.0 | 01:01:25pm
+/humidity | 98.0 | 01:01:35pm
+/humidity | 98.0 | 01:01:40pm
+/humidity | 98.0 | 01:01:45pm
+/humidity | 97.9 | 01:01:55pm
+/humidity | 97.9 | 01:01:55pm
+/humidity | 97.9 | 01:02:05pm
+/humidity | 97.9 | 01:02:11pm
+/humidity | 97.9 | 01:02:15pm
+/humidity | 98.0 | 01:02:25pm
+/humidity | 98.0 | 01:02:26pm
+/humidity | 98.0 | 01:02:35pm
+/humidity | 98.0 | 01:02:40pm
+/humidity | 97.9 | 01:02:45pm
+/humidity | 98.0 | 01:02:55pm
+/humidity | 98.0 | 01:02:55pm
+/humidity | 98.0 | 01:03:05pm
+/humidity | 98.0 | 01:03:11pm
+/humidity | 98.0 | 01:03:15pm
+/humidity | 98.0 | 01:03:25pm
+/humidity | 98.0 | 01:03:26pm
+/humidity | 98.0 | 01:03:35pm
+/humidity | 98.0 | 01:03:40pm
+/humidity | 98.0 | 01:03:45pm
+/humidity | 98.0 | 01:03:56pm
+/humidity | 98.0 | 01:04:05pm
+/humidity | 98.0 | 01:04:11pm
+/humidity | 98.0 | 01:04:15pm
+/humidity | 98.0 | 01:04:26pm
+/humidity | 98.0 | 01:04:36pm
+/humidity | 98.0 | 01:04:40pm
+/humidity | 98.0 | 01:04:45pm
+/humidity | 98.0 | 01:04:56pm
+/humidity | 98.0 | 01:04:56pm
+/humidity | 98.0 | 01:05:06pm
+/humidity | 98.0 | 01:05:10pm
+/humidity | 98.0 | 01:05:16pm
+/humidity | 98.0 | 01:05:26pm
+/humidity | 98.0 | 01:05:26pm
+/humidity | 98.0 | 01:05:36pm
+/humidity | 98.0 | 01:05:40pm
+/humidity | 98.0 | 01:05:46pm
+/humidity | 98.0 | 01:05:56pm
+/humidity | 98.0 | 01:05:56pm
+/humidity | 98.0 | 01:06:06pm
+/humidity | 98.0 | 01:06:10pm
+/humidity | 97.9 | 01:06:16pm
+/humidity | 97.9 | 01:06:25pm
+/humidity | 98.0 | 01:06:26pm
+/humidity | 98.0 | 01:06:36pm
+/humidity | 98.0 | 01:06:40pm
+/humidity | 98.0 | 01:06:46pm
+/humidity | 98.0 | 01:06:55pm
+/humidity | 98.0 | 01:06:56pm
+/humidity | 98.0 | 01:07:06pm
+/humidity | 98.0 | 01:07:11pm
+/humidity | 98.0 | 01:07:16pm
+/humidity | 98.0 | 01:07:26pm
+/humidity | 98.0 | 01:07:26pm
+/humidity | 98.0 | 01:07:36pm
+/humidity | 98.0 | 01:07:41pm
+/humidity | 98.0 | 01:07:46pm
+/humidity | 98.0 | 01:07:56pm
+/humidity | 97.9 | 01:07:56pm
+/humidity | 98.0 | 01:08:06pm
+/humidity | 98.0 | 01:08:10pm
+/humidity | 98.0 | 01:08:16pm
+/humidity | 98.0 | 01:08:26pm
+/humidity | 97.9 | 01:08:26pm
+/humidity | 98.0 | 01:08:36pm
+/humidity | 98.0 | 01:08:40pm
+/humidity | 97.9 | 01:08:46pm
+/humidity | 97.9 | 01:08:55pm
+/humidity | 98.0 | 01:08:56pm
+/humidity | 97.9 | 01:09:06pm
+/humidity | 97.9 | 01:09:10pm
+/humidity | 97.9 | 01:09:16pm
+/humidity | 97.9 | 01:09:25pm
+/humidity | 97.9 | 01:09:26pm
+/humidity | 97.9 | 01:09:36pm
+/humidity | 97.9 | 01:09:41pm
+/humidity | 97.8 | 01:09:46pm
+/humidity | 97.8 | 01:09:56pm
+/humidity | 97.9 | 01:09:56pm
+/humidity | 97.9 | 01:10:06pm
+/humidity | 97.9 | 01:10:11pm
+/humidity | 97.8 | 01:10:16pm
+/humidity | 97.8 | 01:10:25pm
+/humidity | 97.8 | 01:10:26pm
+/humidity | 97.8 | 01:10:36pm
+/humidity | 97.8 | 01:10:41pm
+/humidity | 97.8 | 01:10:46pm
+/humidity | 97.8 | 01:10:55pm
+/humidity | 97.8 | 01:10:56pm
+/humidity | 97.8 | 01:11:07pm
+/humidity | 97.8 | 01:11:17pm
+/humidity | 97.8 | 01:11:21pm
+/humidity | 97.8 | 01:11:26pm
+/humidity | 97.8 | 01:11:37pm
+/humidity | 97.8 | 01:11:37pm
+/humidity | 97.8 | 01:11:47pm
+/humidity | 97.8 | 01:11:51pm
+/humidity | 97.7 | 01:11:57pm
+/humidity | 97.7 | 01:12:06pm
+/humidity | 97.7 | 01:12:07pm
+/humidity | 97.7 | 01:12:17pm
+/humidity | 97.7 | 01:12:22pm
+/humidity | 97.7 | 01:12:27pm
+/humidity | 97.7 | 01:12:36pm
+/humidity | 97.6 | 01:12:37pm
+/humidity | 97.7 | 01:12:47pm
+/humidity | 97.7 | 01:12:52pm
+/humidity | 97.6 | 01:12:57pm
+/humidity | 97.6 | 01:13:06pm
+/humidity | 97.6 | 01:13:07pm
+/humidity | 97.6 | 01:13:17pm
+/humidity | 97.6 | 01:13:21pm
+/humidity | 97.6 | 01:13:27pm
+/humidity | 97.6 | 01:13:36pm
+/humidity | 97.6 | 01:13:37pm
+/humidity | 97.6 | 01:13:47pm
+/humidity | 97.6 | 01:13:51pm
+/humidity | 97.6 | 01:13:57pm
+/humidity | 97.6 | 01:14:06pm
+/humidity | 97.6 | 01:14:07pm
+/humidity | 97.6 | 01:14:17pm
+/humidity | 97.6 | 01:14:21pm
+/humidity | 97.5 | 01:14:27pm
+/humidity | 97.5 | 01:14:36pm
+/humidity | 97.5 | 01:14:37pm
+/humidity | 97.5 | 01:14:47pm
+/humidity | 97.5 | 01:14:52pm
+/humidity | 97.5 | 01:14:57pm
+/humidity | 97.5 | 01:15:06pm
+/humidity | 97.5 | 01:15:07pm
+/humidity | 97.5 | 01:15:17pm
+/humidity | 97.5 | 01:15:21pm
+/humidity | 97.5 | 01:15:27pm
+/humidity | 97.5 | 01:15:36pm
+/humidity | 97.5 | 01:15:37pm
+/humidity | 97.4 | 01:15:47pm
+/humidity | 97.4 | 01:15:52pm
+/humidity | 97.5 | 01:15:57pm
+/humidity | 97.5 | 01:16:07pm
+/humidity | 97.4 | 01:16:07pm
+/humidity | 97.5 | 01:16:17pm
+/humidity | 97.5 | 01:16:22pm
+/humidity | 97.5 | 01:16:27pm
+/humidity | 97.5 | 01:16:37pm
+/humidity | 97.5 | 01:16:37pm
+/humidity | 97.4 | 01:16:47pm
+/humidity | 97.4 | 01:16:51pm
+/humidity | 97.4 | 01:16:57pm
+/humidity | 97.4 | 01:17:06pm
+/humidity | 97.3 | 01:17:07pm
+/humidity | 97.4 | 01:17:18pm
+/humidity | 97.5 | 01:17:28pm
+/humidity | 97.5 | 01:17:33pm
+/humidity | 97.4 | 01:17:38pm
+/humidity | 97.4 | 01:17:48pm
+/humidity | 97.4 | 01:17:48pm
+/humidity | 97.3 | 01:17:58pm
+/humidity | 97.3 | 01:18:03pm
+/humidity | 97.4 | 01:18:08pm
+/humidity | 97.4 | 01:18:18pm
+/humidity | 97.4 | 01:18:18pm
+/humidity | 97.4 | 01:18:28pm
+/humidity | 97.4 | 01:18:32pm
+/humidity | 97.5 | 01:18:38pm
+/humidity | 97.5 | 01:18:47pm
+/humidity | 97.4 | 01:18:48pm
+/humidity | 97.4 | 01:18:58pm
+/humidity | 97.4 | 01:19:03pm
+/humidity | 97.4 | 01:19:08pm
+/humidity | 97.4 | 01:19:17pm
+/humidity | 97.5 | 01:19:18pm
+/humidity | 97.4 | 01:19:28pm
+/humidity | 97.4 | 01:19:33pm
+/humidity | 97.4 | 01:19:38pm
+/humidity | 97.4 | 01:19:47pm
+/humidity | 97.4 | 01:19:48pm
+/humidity | 97.5 | 01:19:58pm
+/humidity | 97.5 | 01:20:02pm
+/humidity | 97.4 | 01:20:08pm
+/humidity | 97.4 | 01:20:17pm
+/humidity | 97.4 | 01:20:18pm
+/humidity | 97.4 | 01:20:28pm
+/humidity | 97.4 | 01:20:32pm
+/humidity | 97.4 | 01:20:38pm
+/humidity | 97.4 | 01:20:47pm
+/humidity | 97.4 | 01:20:48pm
+/humidity | 97.4 | 01:20:58pm
+/humidity | 97.4 | 01:21:02pm
+/humidity | 97.4 | 01:21:08pm
+/humidity | 97.4 | 01:21:17pm
+/humidity | 97.4 | 01:21:18pm
+/humidity | 97.4 | 01:21:28pm
+/humidity | 97.4 | 01:21:33pm
+/humidity | 97.4 | 01:21:38pm
+/humidity | 97.4 | 01:21:48pm
+/humidity | 97.4 | 01:21:48pm
+/humidity | 97.4 | 01:21:58pm
+/humidity | 97.4 | 01:22:02pm
+/humidity | 97.3 | 01:22:08pm
+/humidity | 97.3 | 01:22:17pm
+/humidity | 97.3 | 01:22:18pm
+/humidity | 97.3 | 01:22:28pm
+/humidity | 97.3 | 01:22:32pm
+/humidity | 97.3 | 01:22:38pm
+/humidity | 97.3 | 01:22:48pm
+/humidity | 97.3 | 01:22:48pm
+/humidity | 97.3 | 01:22:58pm
+/humidity | 97.3 | 01:23:03pm
+/humidity | 97.3 | 01:23:09pm
+/humidity | 97.3 | 01:23:18pm
+/humidity | 97.2 | 01:23:19pm
+/humidity | 97.2 | 01:23:29pm
+/humidity | 97.2 | 01:23:33pm
+/humidity | 97.1 | 01:23:39pm
+/humidity | 97.1 | 01:23:48pm
+/humidity | 97.2 | 01:23:49pm
+/humidity | 97.2 | 01:23:59pm
+/humidity | 97.2 | 01:24:02pm
+/humidity | 97.2 | 01:24:09pm
+/humidity | 97.2 | 01:24:17pm
+/humidity | 97.1 | 01:24:19pm
+/humidity | 97.1 | 01:24:29pm
+/humidity | 97.1 | 01:24:33pm
+/humidity | 97.1 | 01:24:39pm
+/humidity | 97.1 | 01:24:48pm
+/humidity | 97.2 | 01:24:49pm
+/humidity | 97.1 | 01:24:59pm
+/humidity | 97.1 | 01:25:03pm
+/humidity | 97.1 | 01:25:09pm
+/humidity | 97.1 | 01:25:17pm
+/humidity | 97.1 | 01:25:19pm
+/humidity | 97.1 | 01:25:29pm
+/humidity | 97.1 | 01:25:33pm
+/humidity | 97.1 | 01:25:39pm
+/humidity | 97.1 | 01:25:47pm
+/humidity | 97.0 | 01:25:49pm
+/humidity | 97.1 | 01:25:59pm
+/humidity | 97.1 | 01:26:03pm
+/humidity | 97.0 | 01:26:09pm
+/humidity | 97.0 | 01:26:18pm
+/humidity | 97.0 | 01:26:19pm
+/humidity | 97.1 | 01:26:29pm
+/humidity | 97.1 | 01:26:32pm
+/humidity | 97.1 | 01:26:39pm
+/humidity | 97.1 | 01:26:48pm
+/humidity | 97.1 | 01:26:49pm
+/humidity | 97.1 | 01:26:59pm
+/humidity | 97.1 | 01:27:03pm
+/humidity | 97.2 | 01:27:09pm
+/humidity | 97.2 | 01:27:18pm
+/humidity | 97.0 | 01:27:19pm
+/humidity | 97.1 | 01:27:29pm
+/humidity | 97.1 | 01:27:33pm
+/humidity | 97.0 | 01:27:39pm
+/humidity | 97.0 | 01:27:48pm
+/humidity | 97.0 | 01:27:49pm
+/humidity | 97.0 | 01:27:59pm
+/humidity | 97.0 | 01:28:03pm
+/humidity | 97.0 | 01:28:09pm
+/humidity | 97.0 | 01:28:17pm
+/humidity | 97.0 | 01:28:19pm
+/humidity | 97.0 | 01:28:29pm
+/humidity | 97.0 | 01:28:32pm
+/humidity | 97.0 | 01:28:39pm
+/humidity | 97.0 | 01:28:48pm
+/humidity | 97.0 | 01:28:49pm
+/humidity | 97.0 | 01:29:00pm
+/humidity | 97.0 | 01:29:10pm
+/humidity | 97.0 | 01:29:14pm
+/humidity | 97.0 | 01:29:20pm
+/humidity | 97.0 | 01:29:29pm
+/humidity | 97.0 | 01:29:30pm
+/humidity | 97.0 | 01:29:40pm
+/humidity | 97.0 | 01:29:45pm
+/humidity | 97.0 | 01:29:50pm
+/humidity | 97.0 | 01:30:00pm
+/humidity | 97.1 | 01:30:00pm
+/humidity | 96.9 | 01:30:10pm
+/humidity | 96.9 | 01:30:14pm
+/humidity | 96.9 | 01:30:20pm
+/humidity | 96.9 | 01:30:29pm
+/humidity | 97.0 | 01:30:30pm
+/humidity | 96.9 | 01:30:40pm
+/humidity | 96.9 | 01:30:45pm
+/humidity | 96.9 | 01:30:50pm
+/humidity | 96.9 | 01:31:00pm
+/humidity | 97.0 | 01:31:00pm
+/humidity | 97.0 | 01:31:10pm
+/humidity | 97.0 | 01:31:14pm
+/humidity | 96.9 | 01:31:20pm
+/humidity | 96.9 | 01:31:30pm
+/humidity | 96.9 | 01:31:30pm
+/humidity | 96.9 | 01:31:40pm
+/humidity | 96.9 | 01:31:44pm
+/humidity | 96.9 | 01:31:50pm
+/humidity | 96.9 | 01:32:00pm
+/humidity | 97.0 | 01:32:00pm
+/humidity | 96.9 | 01:32:10pm
+/humidity | 96.9 | 01:32:14pm
+/humidity | 96.9 | 01:32:20pm
+/humidity | 96.9 | 01:32:29pm
+/humidity | 97.0 | 01:32:30pm
+/humidity | 97.0 | 01:32:40pm
+/humidity | 97.0 | 01:32:44pm
+/humidity | 96.9 | 01:32:50pm
+/humidity | 96.9 | 01:32:59pm
+/humidity | 96.8 | 01:33:00pm
+/humidity | 96.9 | 01:33:10pm
+/humidity | 96.9 | 01:33:14pm
+/humidity | 96.9 | 01:33:20pm
+/humidity | 96.9 | 01:33:29pm
+/humidity | 96.9 | 01:33:30pm
+/humidity | 96.9 | 01:33:40pm
+/humidity | 96.9 | 01:33:44pm
+/humidity | 97.0 | 01:33:51pm
+/humidity | 97.0 | 01:33:59pm
+/humidity | 97.0 | 01:34:01pm
+/humidity | 96.9 | 01:34:10pm
+/humidity | 96.9 | 01:34:15pm
+/humidity | 97.0 | 01:34:21pm
+/humidity | 97.0 | 01:34:29pm
+/humidity | 96.9 | 01:34:31pm
+/humidity | 96.8 | 01:34:41pm
+/humidity | 96.8 | 01:34:45pm
+/humidity | 96.8 | 01:34:51pm
+/humidity | 96.8 | 01:34:59pm
+/humidity | 96.8 | 01:35:01pm
+/humidity | 96.9 | 01:35:11pm
+/humidity | 96.9 | 01:35:15pm
+/humidity | 96.8 | 01:35:21pm
+/humidity | 96.8 | 01:35:29pm
+/humidity | 96.8 | 01:35:31pm
+/humidity | 96.9 | 01:35:41pm
+/humidity | 96.9 | 01:35:45pm
+/humidity | 96.8 | 01:35:51pm
+/humidity | 96.8 | 01:35:59pm
+/humidity | 96.8 | 01:36:01pm
+/humidity | 96.8 | 01:36:11pm
+/humidity | 96.8 | 01:36:15pm
+/humidity | 96.8 | 01:36:21pm
+/humidity | 96.8 | 01:36:30pm
+/humidity | 96.8 | 01:36:31pm
+/humidity | 96.8 | 01:36:41pm
+/humidity | 96.8 | 01:36:44pm
+/humidity | 96.8 | 01:36:51pm
+/humidity | 96.8 | 01:37:00pm
+/humidity | 96.9 | 01:37:01pm
+/humidity | 96.8 | 01:37:11pm
+/humidity | 96.8 | 01:37:14pm
+/humidity | 96.7 | 01:37:21pm
+/humidity | 96.7 | 01:37:29pm
+/humidity | 96.7 | 01:37:31pm
+/humidity | 96.8 | 01:37:41pm
+/humidity | 96.8 | 01:37:44pm
+/humidity | 96.7 | 01:37:51pm
+/humidity | 96.7 | 01:38:00pm
+/humidity | 96.7 | 01:38:01pm
+/humidity | 96.7 | 01:38:11pm
+/humidity | 96.7 | 01:38:14pm
+/humidity | 96.6 | 01:38:21pm
+/humidity | 96.6 | 01:38:30pm
+/humidity | 96.7 | 01:38:31pm
+/humidity | 96.6 | 01:38:41pm
+/humidity | 96.6 | 01:38:45pm
+/humidity | 96.7 | 01:38:51pm
+/humidity | 96.7 | 01:39:00pm
+/humidity | 96.6 | 01:39:02pm
+/humidity | 96.7 | 01:39:12pm
+/humidity | 96.7 | 01:39:14pm
+/humidity | 96.6 | 01:39:22pm
+/humidity | 96.6 | 01:39:30pm
+/humidity | 96.6 | 01:39:32pm
+/humidity | 96.7 | 01:39:42pm
+/humidity | 96.7 | 01:39:44pm
+/humidity | 96.6 | 01:39:52pm
+/humidity | 96.6 | 01:40:00pm
+/humidity | 96.7 | 01:40:02pm
+/humidity | 96.5 | 01:40:12pm
+/humidity | 96.5 | 01:40:15pm
+/humidity | 96.7 | 01:40:22pm
+/humidity | 96.7 | 01:40:29pm
+/humidity | 96.5 | 01:40:32pm
+/humidity | 96.7 | 01:40:42pm
+/humidity | 96.7 | 01:40:44pm
+/humidity | 96.7 | 01:40:52pm
+/humidity | 96.7 | 01:40:59pm
+/humidity | 96.7 | 01:41:02pm
+/humidity | 96.7 | 01:41:12pm
+/humidity | 96.7 | 01:41:14pm
+/humidity | 96.7 | 01:41:22pm
+/humidity | 96.7 | 01:41:29pm
+/humidity | 96.7 | 01:41:32pm
+/humidity | 96.6 | 01:41:42pm
+/humidity | 96.6 | 01:41:44pm
+/humidity | 96.6 | 01:41:52pm
+/humidity | 96.6 | 01:41:59pm
+/humidity | 96.6 | 01:42:02pm
+/humidity | 96.7 | 01:42:12pm
+/humidity | 96.7 | 01:42:15pm
+/humidity | 96.7 | 01:42:22pm
+/humidity | 96.7 | 01:42:30pm
+/humidity | 96.7 | 01:42:32pm
+/humidity | 96.7 | 01:42:42pm
+/humidity | 96.7 | 01:42:44pm
+/humidity | 96.7 | 01:42:52pm
+/humidity | 96.7 | 01:42:59pm
+/humidity | 96.7 | 01:43:02pm
+/humidity | 96.7 | 01:43:12pm
+/humidity | 96.7 | 01:43:15pm
+/humidity | 96.7 | 01:43:22pm
+/humidity | 96.7 | 01:43:30pm
+/humidity | 96.7 | 01:43:33pm
+/humidity | 96.8 | 01:43:42pm
+/humidity | 96.8 | 01:43:44pm
+/humidity | 96.7 | 01:43:53pm
+/humidity | 96.7 | 01:43:59pm
+/humidity | 96.7 | 01:44:03pm
+/humidity | 96.8 | 01:44:13pm
+/humidity | 96.8 | 01:44:14pm
+/humidity | 96.8 | 01:44:23pm
+/humidity | 96.8 | 01:44:29pm
+/humidity | 96.8 | 01:44:33pm
+/humidity | 96.8 | 01:44:43pm
+/humidity | 96.8 | 01:44:45pm
+/humidity | 96.7 | 01:44:53pm
+/humidity | 96.7 | 01:45:00pm
+/humidity | 96.7 | 01:45:03pm
+/humidity | 96.7 | 01:45:13pm
+/humidity | 96.7 | 01:45:14pm
+/humidity | 96.7 | 01:45:23pm
+/humidity | 96.7 | 01:45:30pm
+/humidity | 96.8 | 01:45:33pm
+/humidity | 96.7 | 01:45:43pm
+/humidity | 96.7 | 01:45:44pm
+/humidity | 96.8 | 01:45:53pm
+/humidity | 96.8 | 01:45:59pm
+/humidity | 96.8 | 01:46:03pm
+/humidity | 96.7 | 01:46:13pm
+/humidity | 96.7 | 01:46:14pm
+/humidity | 96.6 | 01:46:23pm
+/humidity | 96.6 | 01:46:29pm
+/humidity | 96.7 | 01:46:33pm
+/humidity | 96.8 | 01:46:43pm
+/humidity | 96.8 | 01:46:45pm
+/humidity | 96.7 | 01:46:53pm
+/humidity | 96.7 | 01:47:00pm
+/humidity | 96.7 | 01:47:03pm
+/humidity | 96.7 | 01:47:13pm
+/humidity | 96.7 | 01:47:15pm
+/humidity | 96.7 | 01:47:23pm
+/humidity | 96.7 | 01:47:29pm
+/humidity | 96.7 | 01:47:33pm
+/humidity | 96.7 | 01:47:44pm
+/humidity | 96.7 | 01:47:53pm
+/humidity | 96.7 | 01:47:58pm
+/humidity | 96.7 | 01:48:04pm
+/humidity | 96.7 | 01:48:14pm
+/humidity | 96.7 | 01:48:14pm
+/humidity | 96.6 | 01:48:24pm
+/humidity | 96.6 | 01:48:29pm
+/humidity | 96.7 | 01:48:34pm
+/humidity | 96.7 | 01:48:43pm
+/humidity | 96.7 | 01:48:44pm
+/humidity | 96.6 | 01:48:54pm
+/humidity | 96.6 | 01:48:59pm
+/humidity | 96.6 | 01:49:04pm
+/humidity | 96.6 | 01:49:13pm
+/humidity | 96.5 | 01:49:14pm
+/humidity | 96.6 | 01:49:24pm
+/humidity | 96.6 | 01:49:28pm
+/humidity | 96.5 | 01:49:34pm
+/humidity | 96.5 | 01:49:44pm
+/humidity | 96.5 | 01:49:44pm
+/humidity | 96.5 | 01:49:54pm
+/humidity | 96.5 | 01:49:58pm
+/humidity | 96.4 | 01:50:04pm
+/humidity | 96.4 | 01:50:14pm
+/humidity | 96.5 | 01:50:14pm
+/humidity | 96.4 | 01:50:24pm
+/humidity | 96.4 | 01:50:28pm
+/humidity | 96.5 | 01:50:34pm
+/humidity | 96.5 | 01:50:43pm
+/humidity | 96.5 | 01:50:44pm
+/humidity | 96.5 | 01:50:54pm
+/humidity | 96.5 | 01:50:58pm
+/humidity | 96.5 | 01:51:04pm
+/humidity | 96.5 | 01:51:13pm
+/humidity | 96.5 | 01:51:14pm
+/humidity | 96.5 | 01:51:24pm
+/humidity | 96.5 | 01:51:28pm
+/humidity | 96.5 | 01:51:34pm
+/humidity | 96.5 | 01:51:43pm
+/humidity | 96.4 | 01:51:44pm
+/humidity | 96.5 | 01:51:54pm
+/humidity | 96.5 | 01:51:58pm
+/humidity | 96.5 | 01:52:04pm
+/humidity | 96.5 | 01:52:14pm
+/humidity | 96.4 | 01:52:14pm
+/humidity | 96.3 | 01:52:24pm
+/humidity | 96.3 | 01:52:28pm
+/humidity | 96.3 | 01:52:34pm
+/humidity | 96.3 | 01:52:43pm
+/humidity | 96.4 | 01:52:44pm
+/humidity | 96.4 | 01:52:55pm
+/humidity | 96.3 | 01:53:05pm
+/humidity | 96.3 | 01:53:10pm
+/humidity | 96.4 | 01:53:15pm
+/humidity | 96.4 | 01:53:24pm
+/humidity | 96.3 | 01:53:25pm
+/humidity | 96.4 | 01:53:35pm
+/humidity | 96.4 | 01:53:40pm
+/humidity | 96.3 | 01:53:45pm
+/humidity | 96.3 | 01:53:55pm
+/humidity | 96.3 | 01:53:55pm
+/humidity | 96.3 | 01:54:05pm
+/humidity | 96.3 | 01:54:10pm
+/humidity | 96.3 | 01:54:15pm
+/humidity | 96.3 | 01:54:24pm
+/humidity | 96.3 | 01:54:25pm
+/humidity | 96.3 | 01:54:35pm
+/humidity | 96.3 | 01:54:39pm
+/humidity | 96.3 | 01:54:45pm
+/humidity | 96.3 | 01:54:54pm
+/humidity | 96.3 | 01:54:55pm
+/humidity | 96.3 | 01:55:05pm
+/humidity | 96.3 | 01:55:09pm
+/humidity | 96.2 | 01:55:15pm
+/humidity | 96.2 | 01:55:24pm
+/humidity | 96.3 | 01:55:25pm
+/humidity | 96.3 | 01:55:35pm
+/humidity | 96.3 | 01:55:39pm
+/humidity | 96.3 | 01:55:45pm
+/humidity | 96.3 | 01:55:55pm
+/humidity | 96.3 | 01:55:55pm
+/humidity | 96.3 | 01:56:05pm
+/humidity | 96.3 | 01:56:09pm
+/humidity | 96.3 | 01:56:15pm
+/humidity | 96.3 | 01:56:24pm
+/humidity | 96.3 | 01:56:25pm
+/humidity | 96.3 | 01:56:35pm
+/humidity | 96.3 | 01:56:39pm
+/humidity | 96.3 | 01:56:45pm
+/humidity | 96.3 | 01:56:55pm
+/humidity | 96.3 | 01:56:55pm
+/humidity | 96.1 | 01:57:05pm
+/humidity | 96.1 | 01:57:09pm
+/humidity | 96.2 | 01:57:15pm
+/humidity | 96.2 | 01:57:25pm
+/humidity | 96.2 | 01:57:25pm
+/humidity | 96.3 | 01:57:35pm
+/humidity | 96.3 | 01:57:40pm
+/humidity | 96.3 | 01:57:45pm
+/humidity | 96.3 | 01:57:54pm
+/humidity | 96.3 | 01:57:55pm
+/humidity | 96.3 | 01:58:05pm
+/humidity | 96.3 | 01:58:09pm
+/humidity | 96.2 | 01:58:15pm
+/humidity | 96.2 | 01:58:25pm
+/humidity | 96.2 | 01:58:25pm
+/humidity | 96.2 | 01:58:35pm
+/humidity | 96.2 | 01:58:40pm
+/humidity | 96.1 | 01:58:45pm
+/humidity | 96.1 | 01:58:54pm
+/humidity | 96.1 | 01:58:55pm
+/humidity | 96.1 | 01:59:05pm
+/humidity | 96.1 | 01:59:09pm
+/humidity | 96.2 | 01:59:15pm
+/humidity | 96.2 | 01:59:24pm
+/humidity | 96.2 | 01:59:25pm
+/humidity | 96.1 | 01:59:35pm
+/humidity | 96.1 | 01:59:39pm
+/humidity | 96.1 | 01:59:45pm
+/humidity | 96.1 | 01:59:54pm
+/humidity | 96.2 | 01:59:55pm
+/humidity | 96.1 | 02:00:05pm
+/humidity | 96.1 | 02:00:10pm
+/humidity | 96.2 | 02:00:15pm
+/humidity | 96.2 | 02:00:25pm
+/humidity | 96.1 | 02:00:25pm
+/humidity | 96.1 | 02:00:36pm
+/humidity | 96.1 | 02:00:46pm
+/humidity | 96.1 | 02:00:50pm
+/humidity | 96.2 | 02:00:56pm
+/humidity | 96.2 | 02:01:06pm
+/humidity | 96.2 | 02:01:06pm
+/humidity | 96.1 | 02:01:16pm
+/humidity | 96.1 | 02:01:21pm
+/humidity | 96.1 | 02:01:26pm
+/humidity | 96.1 | 02:01:36pm
+/humidity | 96.0 | 02:01:36pm
+/humidity | 96.1 | 02:01:46pm
+/humidity | 96.1 | 02:01:50pm
+/humidity | 96.1 | 02:01:56pm
+/humidity | 96.1 | 02:02:05pm
+/humidity | 96.2 | 02:02:06pm
+/humidity | 96.1 | 02:02:16pm
+/humidity | 96.1 | 02:02:21pm
+/humidity | 96.1 | 02:02:26pm
+/humidity | 96.1 | 02:02:36pm
+/humidity | 96.0 | 02:02:36pm
+/humidity | 96.2 | 02:02:46pm
+/humidity | 96.2 | 02:02:50pm
+/humidity | 96.1 | 02:02:56pm
+/humidity | 96.1 | 02:03:06pm
+/humidity | 96.1 | 02:03:06pm
+/humidity | 96.1 | 02:03:16pm
+/humidity | 96.1 | 02:03:20pm
+/humidity | 96.2 | 02:03:26pm
+/humidity | 96.2 | 02:03:35pm
+/humidity | 96.1 | 02:03:36pm
+/humidity | 96.2 | 02:03:46pm
+/humidity | 96.2 | 02:03:51pm
+/humidity | 96.2 | 02:03:56pm
+/humidity | 96.2 | 02:04:05pm
+/humidity | 96.1 | 02:04:06pm
+/humidity | 96.2 | 02:04:16pm
+/humidity | 96.2 | 02:04:21pm
+/humidity | 96.3 | 02:04:26pm
+/humidity | 96.3 | 02:04:35pm
+/humidity | 96.2 | 02:04:36pm
+/humidity | 96.2 | 02:04:46pm
+/humidity | 96.2 | 02:04:50pm
+/humidity | 96.2 | 02:04:56pm
+/humidity | 96.2 | 02:05:05pm
+/humidity | 96.3 | 02:05:06pm
+/humidity | 96.1 | 02:05:16pm
+/humidity | 96.1 | 02:05:20pm
+/humidity | 96.2 | 02:05:26pm
+/humidity | 96.2 | 02:05:35pm
+/humidity | 96.2 | 02:05:36pm
+/humidity | 96.3 | 02:05:46pm
+/humidity | 96.3 | 02:05:50pm
+/humidity | 96.3 | 02:05:56pm
+/humidity | 96.3 | 02:06:05pm
+/humidity | 96.3 | 02:06:06pm
+/humidity | 96.1 | 02:06:16pm
+/humidity | 96.1 | 02:06:20pm
+/humidity | 96.2 | 02:06:26pm
+/humidity | 96.2 | 02:06:36pm
+/humidity | 96.1 | 02:06:36pm
+/humidity | 96.2 | 02:06:46pm
+/humidity | 96.2 | 02:06:51pm
+/humidity | 96.2 | 02:06:56pm
+/humidity | 96.2 | 02:07:05pm
+/humidity | 96.2 | 02:07:06pm
+/humidity | 96.2 | 02:07:16pm
+/humidity | 96.2 | 02:07:20pm
+/humidity | 96.3 | 02:07:27pm
+/humidity | 96.3 | 02:07:35pm
+/humidity | 96.2 | 02:07:37pm
+/humidity | 96.2 | 02:07:47pm
+/humidity | 96.2 | 02:07:50pm
+/humidity | 96.1 | 02:07:57pm
+/humidity | 96.1 | 02:08:06pm
+/humidity | 96.3 | 02:08:07pm
+/humidity | 96.1 | 02:08:17pm
+/humidity | 96.1 | 02:08:20pm
+/humidity | 96.3 | 02:08:27pm
+/humidity | 96.3 | 02:08:36pm
+/humidity | 96.1 | 02:08:37pm
+/humidity | 96.2 | 02:08:47pm
+/humidity | 96.2 | 02:08:50pm
+/humidity | 96.1 | 02:08:57pm
+/humidity | 96.1 | 02:09:06pm
+/humidity | 96.3 | 02:09:07pm
+/humidity | 96.3 | 02:09:17pm
+/humidity | 96.3 | 02:09:20pm
+/humidity | 96.1 | 02:09:27pm
+/humidity | 96.1 | 02:09:36pm
+/humidity | 96.3 | 02:09:37pm
+/humidity | 96.3 | 02:09:47pm
+/humidity | 96.3 | 02:09:50pm
+/humidity | 96.2 | 02:09:57pm
+/humidity | 96.2 | 02:10:05pm
+/humidity | 96.3 | 02:10:07pm
+/humidity | 96.3 | 02:10:17pm
+/humidity | 96.3 | 02:10:20pm
+/humidity | 96.3 | 02:10:27pm
+/humidity | 96.3 | 02:10:35pm
+/humidity | 96.3 | 02:10:37pm
+/humidity | 96.3 | 02:10:47pm
+/humidity | 96.3 | 02:10:50pm
+/humidity | 96.3 | 02:10:57pm
+/humidity | 96.3 | 02:11:06pm
+/humidity | 96.3 | 02:11:07pm
+/humidity | 96.3 | 02:11:17pm
+/humidity | 96.3 | 02:11:20pm
+/humidity | 96.3 | 02:11:27pm
+/humidity | 96.3 | 02:11:36pm
+/humidity | 96.3 | 02:11:37pm
+/humidity | 96.3 | 02:11:47pm
+/humidity | 96.3 | 02:11:50pm
+/humidity | 96.3 | 02:11:57pm
+/humidity | 96.3 | 02:12:06pm
+/humidity | 96.3 | 02:12:07pm
+/humidity | 96.3 | 02:12:17pm
+/humidity | 96.3 | 02:12:20pm
+/humidity | 96.4 | 02:12:27pm
+/humidity | 96.4 | 02:12:36pm
+/humidity | 96.4 | 02:12:37pm
+/humidity | 96.3 | 02:12:47pm
+/humidity | 96.3 | 02:12:50pm
+/humidity | 96.4 | 02:12:57pm
+/humidity | 96.4 | 02:13:05pm
+/humidity | 96.4 | 02:13:07pm
+/humidity | 96.3 | 02:13:17pm
+/humidity | 96.3 | 02:13:21pm
+/humidity | 96.3 | 02:13:27pm
+/humidity | 96.3 | 02:13:35pm
+/humidity | 96.4 | 02:13:37pm
+/humidity | 96.4 | 02:13:47pm
+/humidity | 96.4 | 02:13:51pm
+/humidity | 96.3 | 02:13:58pm
+/humidity | 96.3 | 02:14:05pm
+/humidity | 96.3 | 02:14:08pm
+/humidity | 96.4 | 02:14:18pm
+/humidity | 96.4 | 02:14:20pm
+/humidity | 96.4 | 02:14:28pm
+/humidity | 96.4 | 02:14:35pm
+/humidity | 96.4 | 02:14:38pm
+/humidity | 96.3 | 02:14:48pm
+/humidity | 96.3 | 02:14:51pm
+/humidity | 96.4 | 02:14:58pm
+/humidity | 96.4 | 02:15:05pm
+/humidity | 96.4 | 02:15:08pm
+/humidity | 96.4 | 02:15:18pm
+/humidity | 96.4 | 02:15:21pm
+/humidity | 96.5 | 02:15:28pm
+/humidity | 96.5 | 02:15:36pm
+/humidity | 96.4 | 02:15:38pm
+/humidity | 96.4 | 02:15:48pm
+/humidity | 96.4 | 02:15:50pm
+/humidity | 96.5 | 02:15:58pm
+/humidity | 96.5 | 02:16:06pm
+/humidity | 96.4 | 02:16:08pm
+/humidity | 96.4 | 02:16:18pm
+/humidity | 96.4 | 02:16:20pm
+/humidity | 96.4 | 02:16:28pm
+/humidity | 96.4 | 02:16:35pm
+/humidity | 96.4 | 02:16:38pm
+/humidity | 96.3 | 02:16:48pm
+/humidity | 96.3 | 02:16:50pm
+/humidity | 96.3 | 02:16:58pm
+/humidity | 96.3 | 02:17:06pm
+/humidity | 96.3 | 02:17:08pm
+/humidity | 96.4 | 02:17:18pm
+/humidity | 96.4 | 02:17:20pm
+/humidity | 96.3 | 02:17:28pm
+/humidity | 96.3 | 02:17:35pm
+/humidity | 96.3 | 02:17:38pm
+/humidity | 96.3 | 02:17:48pm
+/humidity | 96.3 | 02:17:51pm
+/humidity | 96.3 | 02:17:58pm
+/humidity | 96.3 | 02:18:06pm
+/humidity | 96.3 | 02:18:08pm
+/humidity | 96.3 | 02:18:18pm
+/humidity | 96.3 | 02:18:20pm
+/humidity | 96.3 | 02:18:28pm
+/humidity | 96.3 | 02:18:36pm
+/humidity | 96.3 | 02:18:38pm
+/humidity | 96.2 | 02:18:48pm
+/humidity | 96.2 | 02:18:50pm
+/humidity | 96.3 | 02:18:58pm
+/humidity | 96.3 | 02:19:05pm
+/humidity | 96.2 | 02:19:08pm
+/humidity | 96.3 | 02:19:18pm
+/humidity | 96.3 | 02:19:21pm
+/humidity | 96.3 | 02:19:28pm
+/humidity | 96.3 | 02:19:35pm
+/humidity | 96.3 | 02:19:38pm
+/humidity | 96.4 | 02:19:48pm
+/humidity | 96.4 | 02:19:51pm
+/humidity | 96.2 | 02:19:58pm
+/humidity | 96.2 | 02:20:05pm
+/humidity | 96.3 | 02:20:08pm
+/humidity | 96.3 | 02:20:18pm
+/humidity | 96.3 | 02:20:20pm
+/humidity | 96.2 | 02:20:28pm
+/humidity | 96.2 | 02:20:35pm
+/humidity | 96.3 | 02:20:38pm
+/humidity | 96.3 | 02:20:48pm
+/humidity | 96.3 | 02:20:50pm
+/humidity | 96.2 | 02:20:59pm
+/humidity | 96.2 | 02:21:05pm
+/humidity | 96.3 | 02:21:09pm
+/humidity | 96.1 | 02:21:19pm
+/humidity | 96.1 | 02:21:21pm
+/humidity | 96.2 | 02:21:29pm
+/humidity | 96.2 | 02:21:35pm
+/humidity | 96.1 | 02:21:39pm
+/humidity | 96.1 | 02:21:49pm
+/humidity | 96.1 | 02:21:51pm
+/humidity | 96.1 | 02:21:59pm
+/humidity | 96.1 | 02:22:05pm
+/humidity | 96.1 | 02:22:09pm
+/humidity | 96.0 | 02:22:19pm
+/humidity | 96.0 | 02:22:20pm
+/humidity | 96.0 | 02:22:29pm
+/humidity | 96.0 | 02:22:35pm
+/humidity | 96.1 | 02:22:39pm
+/humidity | 96.1 | 02:22:49pm
+/humidity | 96.1 | 02:22:51pm
+/humidity | 96.0 | 02:22:59pm
+/humidity | 96.0 | 02:23:05pm
+/humidity | 96.1 | 02:23:09pm
+/humidity | 96.1 | 02:23:19pm
+/humidity | 96.1 | 02:23:20pm
+/humidity | 96.1 | 02:23:29pm
+/humidity | 96.1 | 02:23:35pm
+/humidity | 96.1 | 02:23:39pm
+/humidity | 96.0 | 02:23:49pm
+/humidity | 96.0 | 02:23:50pm
+/humidity | 96.0 | 02:23:59pm
+/humidity | 96.0 | 02:24:05pm
+/humidity | 96.0 | 02:24:09pm
+/humidity | 95.9 | 02:24:19pm
+/humidity | 95.9 | 02:24:21pm
+/humidity | 96.0 | 02:24:29pm
+/humidity | 96.0 | 02:24:35pm
+/humidity | 96.0 | 02:24:39pm
+/humidity | 96.0 | 02:24:49pm
+/humidity | 96.0 | 02:24:51pm
+/humidity | 96.0 | 02:24:59pm
+/humidity | 96.0 | 02:25:05pm
+/humidity | 96.0 | 02:25:09pm
+/humidity | 96.0 | 02:25:19pm
+/humidity | 96.0 | 02:25:21pm
+/humidity | 96.0 | 02:25:29pm
+/humidity | 96.0 | 02:25:35pm
+/humidity | 95.9 | 02:25:39pm
+/humidity | 96.0 | 02:25:49pm
+/humidity | 96.0 | 02:25:50pm
+/humidity | 96.0 | 02:25:59pm
+/humidity | 96.0 | 02:26:06pm
+/humidity | 96.0 | 02:26:09pm
+/humidity | 96.1 | 02:26:19pm
+/humidity | 96.1 | 02:26:20pm
+/humidity | 96.0 | 02:26:29pm
+/humidity | 96.0 | 02:26:35pm
+/humidity | 96.0 | 02:26:39pm
+/humidity | 96.0 | 02:26:49pm
+/humidity | 96.0 | 02:26:51pm
+/humidity | 95.9 | 02:26:59pm
+/humidity | 95.9 | 02:27:05pm
+/humidity | 96.0 | 02:27:09pm
+/humidity | 96.0 | 02:27:19pm
+/humidity | 96.0 | 02:27:20pm
+/humidity | 96.0 | 02:27:29pm
+/humidity | 96.0 | 02:27:35pm
+/humidity | 96.1 | 02:27:39pm
+/humidity | 96.0 | 02:27:49pm
+/humidity | 96.0 | 02:27:51pm
+/humidity | 96.1 | 02:27:59pm
+/humidity | 96.1 | 02:28:05pm
+/humidity | 96.1 | 02:28:09pm
+/humidity | 96.0 | 02:28:20pm
+/humidity | 96.0 | 02:28:30pm
+/humidity | 96.0 | 02:28:35pm
+/humidity | 96.0 | 02:28:40pm
+/humidity | 96.0 | 02:28:49pm
+/humidity | 96.1 | 02:28:50pm
+/humidity | 96.1 | 02:29:00pm
+/humidity | 96.1 | 02:29:04pm
+/humidity | 96.0 | 02:29:10pm
+/humidity | 96.0 | 02:29:19pm
+/humidity | 96.1 | 02:29:20pm
+/humidity | 96.0 | 02:29:30pm
+/humidity | 96.0 | 02:29:35pm
+/humidity | 96.0 | 02:29:40pm
+/humidity | 96.0 | 02:29:50pm
+/humidity | 96.0 | 02:29:50pm
+/humidity | 96.0 | 02:30:00pm
+/humidity | 96.0 | 02:30:04pm
+/humidity | 96.0 | 02:30:10pm
+/humidity | 96.0 | 02:30:20pm
+/humidity | 96.0 | 02:30:20pm
+/humidity | 96.0 | 02:30:30pm
+/humidity | 96.0 | 02:30:35pm
+/humidity | 96.0 | 02:30:40pm
+/humidity | 96.0 | 02:30:49pm
+/humidity | 96.0 | 02:30:50pm
+/humidity | 96.0 | 02:31:00pm
+/humidity | 96.0 | 02:31:04pm
+/humidity | 96.0 | 02:31:10pm
+/humidity | 96.0 | 02:31:20pm
+/humidity | 96.0 | 02:31:20pm
+/humidity | 95.9 | 02:31:30pm
+/humidity | 95.9 | 02:31:35pm
+/humidity | 96.0 | 02:31:40pm
+/humidity | 96.0 | 02:31:50pm
+/humidity | 95.9 | 02:31:50pm
+/humidity | 95.9 | 02:32:00pm
+/humidity | 95.9 | 02:32:04pm
+/humidity | 95.9 | 02:32:10pm
+/humidity | 95.9 | 02:32:20pm
+/humidity | 95.9 | 02:32:20pm
+/humidity | 96.0 | 02:32:30pm
+/humidity | 96.0 | 02:32:35pm
+/humidity | 95.9 | 02:32:40pm
+/humidity | 95.9 | 02:32:49pm
+/humidity | 96.0 | 02:32:50pm
+/humidity | 96.0 | 02:33:00pm
+/humidity | 96.0 | 02:33:04pm
+/humidity | 95.9 | 02:33:10pm
+/humidity | 95.9 | 02:33:20pm
+/humidity | 96.0 | 02:33:20pm
+/humidity | 95.9 | 02:33:30pm
+/humidity | 95.9 | 02:33:34pm
+/humidity | 96.0 | 02:33:40pm
+/humidity | 96.0 | 02:33:49pm
+/humidity | 96.0 | 02:33:50pm
+/humidity | 95.9 | 02:34:00pm
+/humidity | 95.9 | 02:34:04pm
+/humidity | 96.0 | 02:34:10pm
+/humidity | 96.0 | 02:34:20pm
+/humidity | 96.1 | 02:34:20pm
+/humidity | 96.1 | 02:34:31pm
+/humidity | 96.0 | 02:34:41pm
+/humidity | 96.0 | 02:34:45pm
+/humidity | 96.0 | 02:34:51pm
+/humidity | 96.0 | 02:35:00pm
+/humidity | 96.0 | 02:35:01pm
+/humidity | 96.0 | 02:35:11pm
+/humidity | 96.0 | 02:35:15pm
+/humidity | 95.9 | 02:35:21pm
+/humidity | 95.9 | 02:35:31pm
+/humidity | 96.0 | 02:35:31pm
+/humidity | 96.0 | 02:35:41pm
+/humidity | 96.0 | 02:35:46pm
+/humidity | 96.0 | 02:35:51pm
+/humidity | 96.0 | 02:36:00pm
+/humidity | 96.1 | 02:36:01pm
+/humidity | 96.1 | 02:36:11pm
+/humidity | 96.1 | 02:36:16pm
+/humidity | 96.0 | 02:36:21pm
+/humidity | 96.0 | 02:36:31pm
+/humidity | 96.1 | 02:36:31pm
+/humidity | 96.1 | 02:36:41pm
+/humidity | 96.1 | 02:36:46pm
+/humidity | 96.0 | 02:36:51pm
+/humidity | 96.0 | 02:37:00pm
+/humidity | 96.0 | 02:37:01pm
+/humidity | 96.0 | 02:37:11pm
+/humidity | 96.0 | 02:37:16pm
+/humidity | 96.0 | 02:37:21pm
+/humidity | 96.0 | 02:37:30pm
+/humidity | 96.0 | 02:37:31pm
+/humidity | 96.0 | 02:37:41pm
+/humidity | 96.0 | 02:37:45pm
+/humidity | 96.0 | 02:37:51pm
+/humidity | 96.0 | 02:38:01pm
+/humidity | 96.0 | 02:38:01pm
+/humidity | 96.1 | 02:38:11pm
+/humidity | 96.1 | 02:38:15pm
+/humidity | 96.0 | 02:38:21pm
+/humidity | 96.0 | 02:38:30pm
+/humidity | 96.1 | 02:38:31pm
+/humidity | 96.0 | 02:38:41pm
+/humidity | 96.0 | 02:38:45pm
+/humidity | 96.1 | 02:38:51pm
+/humidity | 96.1 | 02:39:01pm
+/humidity | 96.1 | 02:39:01pm
+/humidity | 96.1 | 02:39:11pm
+/humidity | 96.1 | 02:39:16pm
+/humidity | 96.1 | 02:39:21pm
+/humidity | 96.1 | 02:39:30pm
+/humidity | 96.1 | 02:39:31pm
+/humidity | 96.1 | 02:39:41pm
+/humidity | 96.1 | 02:39:46pm
+/humidity | 96.0 | 02:39:51pm
+/humidity | 96.0 | 02:40:01pm
+/humidity | 96.1 | 02:40:01pm
+/humidity | 95.9 | 02:40:12pm
+/humidity | 96.1 | 02:40:21pm
+/humidity | 96.1 | 02:40:26pm
+/humidity | 96.0 | 02:40:31pm
+/humidity | 96.0 | 02:40:41pm
+/humidity | 96.0 | 02:40:42pm
+/humidity | 96.1 | 02:40:51pm
+/humidity | 96.1 | 02:40:57pm
+/humidity | 95.9 | 02:41:01pm
+/humidity | 95.9 | 02:41:11pm
+/humidity | 96.0 | 02:41:11pm
+/humidity | 96.0 | 02:41:22pm
+/humidity | 96.0 | 02:41:32pm
+/humidity | 96.0 | 02:41:37pm
+/humidity | 96.0 | 02:41:42pm
+/humidity | 96.0 | 02:41:52pm
+/humidity | 96.0 | 02:41:52pm
+/humidity | 96.0 | 02:42:02pm
+/humidity | 96.0 | 02:42:06pm
+/humidity | 96.0 | 02:42:12pm
+/humidity | 96.0 | 02:42:21pm
+/humidity | 96.0 | 02:42:22pm
+/humidity | 96.0 | 02:42:32pm
+/humidity | 96.0 | 02:42:36pm
+/humidity | 96.0 | 02:42:42pm
+/humidity | 96.0 | 02:42:51pm
+/humidity | 96.0 | 02:42:52pm
+/humidity | 96.0 | 02:43:02pm
+/humidity | 96.0 | 02:43:07pm
+/humidity | 96.0 | 02:43:12pm
+/humidity | 96.0 | 02:43:21pm
+/humidity | 96.0 | 02:43:22pm
+/humidity | 96.1 | 02:43:32pm
+/humidity | 96.1 | 02:43:37pm
+/humidity | 96.1 | 02:43:42pm
+/humidity | 96.1 | 02:43:52pm
+/humidity | 96.1 | 02:43:52pm
+/humidity | 96.0 | 02:44:02pm
+/humidity | 96.0 | 02:44:06pm
+/humidity | 96.1 | 02:44:12pm
+/humidity | 96.1 | 02:44:21pm
+/humidity | 96.1 | 02:44:22pm
+/humidity | 96.0 | 02:44:32pm
+/humidity | 96.0 | 02:44:37pm
+/humidity | 96.1 | 02:44:42pm
+/humidity | 96.1 | 02:44:51pm
+/humidity | 96.1 | 02:44:52pm
+/humidity | 96.1 | 02:45:02pm
+/humidity | 96.1 | 02:45:06pm
+/humidity | 96.0 | 02:45:12pm
+/humidity | 96.0 | 02:45:22pm
+/humidity | 96.0 | 02:45:22pm
+/humidity | 96.0 | 02:45:32pm
+/humidity | 96.0 | 02:45:36pm
+/humidity | 96.1 | 02:45:42pm
+/humidity | 96.1 | 02:45:51pm
+/humidity | 96.1 | 02:45:52pm
+/humidity | 96.0 | 02:46:02pm
+/humidity | 96.0 | 02:46:07pm
+/humidity | 96.1 | 02:46:12pm
+/humidity | 96.1 | 02:46:21pm
+/humidity | 96.0 | 02:46:22pm
+/humidity | 96.2 | 02:46:32pm
+/humidity | 96.2 | 02:46:37pm
+/humidity | 96.0 | 02:46:43pm
+/humidity | 96.0 | 02:46:51pm
+/humidity | 96.1 | 02:46:52pm
+/humidity | 96.2 | 02:47:03pm
+/humidity | 96.1 | 02:47:13pm
+/humidity | 96.1 | 02:47:17pm
+/humidity | 96.2 | 02:47:23pm
+/humidity | 96.2 | 02:47:32pm
+/humidity | 96.1 | 02:47:33pm
+/humidity | 96.2 | 02:47:43pm
+/humidity | 96.2 | 02:47:48pm
+/humidity | 96.1 | 02:47:53pm
+/humidity | 96.1 | 02:48:02pm
+/humidity | 96.1 | 02:48:03pm
+/humidity | 96.1 | 02:48:13pm
+/humidity | 96.1 | 02:48:17pm
+/humidity | 96.2 | 02:48:23pm
+/humidity | 96.2 | 02:48:32pm
+/humidity | 96.1 | 02:48:33pm
+/humidity | 96.1 | 02:48:43pm
+/humidity | 96.1 | 02:48:47pm
+/humidity | 96.2 | 02:48:53pm
+/humidity | 96.2 | 02:49:02pm
+/humidity | 96.2 | 02:49:03pm
+/humidity | 96.2 | 02:49:13pm
+/humidity | 96.2 | 02:49:18pm
+/humidity | 96.1 | 02:49:23pm
+/humidity | 96.1 | 02:49:32pm
+/humidity | 96.2 | 02:49:33pm
+/humidity | 96.2 | 02:49:43pm
+/humidity | 96.2 | 02:49:47pm
+/humidity | 96.1 | 02:49:53pm
+/humidity | 96.1 | 02:50:02pm
+/humidity | 96.1 | 02:50:03pm
+/humidity | 96.2 | 02:50:13pm
+/humidity | 96.2 | 02:50:17pm
+/humidity | 96.2 | 02:50:23pm
+/humidity | 96.2 | 02:50:32pm
+/humidity | 96.2 | 02:50:33pm
+/humidity | 96.3 | 02:50:43pm
+/humidity | 96.3 | 02:50:47pm
+/humidity | 96.2 | 02:50:53pm
+/humidity | 96.2 | 02:51:02pm
+/humidity | 96.2 | 02:51:03pm
+/humidity | 96.3 | 02:51:13pm
+/humidity | 96.3 | 02:51:17pm
+/humidity | 96.3 | 02:51:23pm
+/humidity | 96.3 | 02:51:32pm
+/humidity | 96.2 | 02:51:33pm
+/humidity | 96.3 | 02:51:43pm
+/humidity | 96.3 | 02:51:48pm
+/humidity | 96.3 | 02:51:53pm
+/humidity | 96.3 | 02:52:02pm
+/humidity | 96.2 | 02:52:03pm
+/humidity | 96.3 | 02:52:13pm
+/humidity | 96.3 | 02:52:18pm
+/humidity | 96.3 | 02:52:23pm
+/humidity | 96.3 | 02:52:33pm
+/humidity | 96.3 | 02:52:33pm
+/humidity | 96.3 | 02:52:43pm
+/humidity | 96.3 | 02:52:47pm
+/humidity | 96.3 | 02:52:54pm
+/humidity | 96.3 | 02:53:03pm
+/humidity | 96.3 | 02:53:04pm
+/humidity | 96.3 | 02:53:14pm
+/humidity | 96.3 | 02:53:18pm
+/humidity | 96.3 | 02:53:24pm
+/humidity | 96.3 | 02:53:32pm
+/humidity | 96.3 | 02:53:34pm
+/humidity | 96.4 | 02:53:44pm
+/humidity | 96.4 | 02:53:47pm
+/humidity | 96.4 | 02:53:54pm
+/humidity | 96.4 | 02:54:03pm
+/humidity | 96.3 | 02:54:04pm
+/humidity | 96.3 | 02:54:14pm
+/humidity | 96.3 | 02:54:17pm
+/humidity | 96.4 | 02:54:24pm
+/humidity | 96.4 | 02:54:32pm
+/humidity | 96.5 | 02:54:34pm
+/humidity | 96.4 | 02:54:44pm
+/humidity | 96.4 | 02:54:48pm
+/humidity | 96.5 | 02:54:54pm
+/humidity | 96.5 | 02:55:02pm
+/humidity | 96.4 | 02:55:04pm
+/humidity | 96.5 | 02:55:14pm
+/humidity | 96.5 | 02:55:17pm
+/humidity | 96.5 | 02:55:24pm
+/humidity | 96.5 | 02:55:33pm
+/humidity | 96.5 | 02:55:34pm
+/humidity | 96.5 | 02:55:44pm
+/humidity | 96.5 | 02:55:47pm
+/humidity | 96.6 | 02:55:54pm
+/humidity | 96.6 | 02:56:02pm
+/humidity | 96.5 | 02:56:04pm
+/humidity | 96.5 | 02:56:14pm
+/humidity | 96.5 | 02:56:17pm
+/humidity | 96.4 | 02:56:24pm
+/humidity | 96.4 | 02:56:33pm
+/humidity | 96.5 | 02:56:34pm
+/humidity | 96.5 | 02:56:44pm
+/humidity | 96.5 | 02:56:47pm
+/humidity | 96.5 | 02:56:54pm
+/humidity | 96.5 | 02:57:02pm
+/humidity | 96.6 | 02:57:04pm
+/humidity | 96.6 | 02:57:14pm
+/humidity | 96.6 | 02:57:17pm
+/humidity | 96.5 | 02:57:24pm
+/humidity | 96.5 | 02:57:32pm
+/humidity | 96.6 | 02:57:34pm
+/humidity | 96.6 | 02:57:44pm
+/humidity | 96.6 | 02:57:47pm
+/humidity | 96.6 | 02:57:54pm
+/humidity | 96.6 | 02:58:02pm
+/humidity | 96.7 | 02:58:04pm
+/humidity | 96.7 | 02:58:14pm
+/humidity | 96.7 | 02:58:17pm
+/humidity | 96.7 | 02:58:24pm
+/humidity | 96.7 | 02:58:32pm
+/humidity | 96.7 | 02:58:35pm
+/humidity | 96.6 | 02:58:45pm
+/humidity | 96.6 | 02:58:47pm
+/humidity | 96.7 | 02:58:55pm
+/humidity | 96.7 | 02:59:03pm
+/humidity | 96.7 | 02:59:05pm
+/humidity | 96.7 | 02:59:15pm
+/humidity | 96.7 | 02:59:17pm
+/humidity | 96.7 | 02:59:25pm
+/humidity | 96.7 | 02:59:32pm
+/humidity | 96.8 | 02:59:35pm
+/humidity | 96.8 | 02:59:45pm
+/humidity | 96.8 | 02:59:47pm
+/humidity | 96.8 | 02:59:55pm
+/humidity | 96.8 | 03:00:03pm
+/humidity | 96.8 | 03:00:05pm
+/humidity | 96.8 | 03:00:15pm
+/humidity | 96.8 | 03:00:18pm
+/humidity | 96.8 | 03:00:25pm
+/humidity | 96.8 | 03:00:32pm
+/humidity | 96.8 | 03:00:35pm
+/humidity | 96.8 | 03:00:45pm
+/humidity | 96.8 | 03:00:47pm
+/humidity | 96.8 | 03:00:55pm
+/humidity | 96.8 | 03:01:02pm
+/humidity | 96.8 | 03:01:05pm
+/humidity | 96.9 | 03:01:15pm
+/humidity | 96.9 | 03:01:18pm
+/humidity | 96.8 | 03:01:25pm
+/humidity | 96.8 | 03:01:32pm
+/humidity | 96.9 | 03:01:35pm
+/humidity | 96.9 | 03:01:45pm
+/humidity | 96.9 | 03:01:48pm
+/humidity | 96.9 | 03:01:55pm
+/humidity | 96.9 | 03:02:02pm
+/humidity | 97.0 | 03:02:05pm
+/humidity | 97.0 | 03:02:15pm
+/humidity | 97.0 | 03:02:18pm
+/humidity | 97.0 | 03:02:25pm
+/humidity | 97.0 | 03:02:32pm
+/humidity | 97.0 | 03:02:35pm
+/humidity | 97.0 | 03:02:45pm
+/humidity | 97.0 | 03:02:47pm
+/humidity | 97.0 | 03:02:55pm
+/humidity | 97.0 | 03:03:03pm
+/humidity | 97.1 | 03:03:05pm
+/humidity | 97.0 | 03:03:15pm
+/humidity | 97.0 | 03:03:17pm
+/humidity | 97.1 | 03:03:25pm
+/humidity | 97.1 | 03:03:33pm
+/humidity | 97.0 | 03:03:35pm
+/humidity | 97.1 | 03:03:46pm
+/humidity | 97.1 | 03:03:56pm
+/humidity | 97.1 | 03:04:00pm
+/humidity | 97.1 | 03:04:06pm
+/humidity | 97.1 | 03:04:15pm
+/humidity | 97.2 | 03:04:16pm
+/humidity | 97.1 | 03:04:26pm
+/humidity | 97.1 | 03:04:30pm
+/humidity | 97.2 | 03:04:36pm
+/humidity | 97.2 | 03:04:46pm
+/humidity | 97.2 | 03:04:46pm
+/humidity | 97.1 | 03:04:56pm
+/humidity | 97.1 | 03:05:00pm
+/humidity | 97.2 | 03:05:06pm
+/humidity | 97.2 | 03:05:16pm
+/humidity | 97.2 | 03:05:16pm
+/humidity | 97.2 | 03:05:26pm
+/humidity | 97.2 | 03:05:31pm
+/humidity | 97.2 | 03:05:36pm
+/humidity | 97.2 | 03:05:45pm
+/humidity | 97.2 | 03:05:46pm
+/humidity | 97.2 | 03:05:56pm
+/humidity | 97.2 | 03:06:00pm
+/humidity | 97.3 | 03:06:06pm
+/humidity | 97.3 | 03:06:16pm
+/humidity | 97.2 | 03:06:16pm
+/humidity | 97.2 | 03:06:26pm
+/humidity | 97.2 | 03:06:30pm
+/humidity | 97.4 | 03:06:36pm
+/humidity | 97.4 | 03:06:45pm
+/humidity | 97.3 | 03:06:46pm
+/humidity | 97.3 | 03:06:56pm
+/humidity | 97.3 | 03:07:00pm
+/humidity | 97.3 | 03:07:06pm
+/humidity | 97.3 | 03:07:16pm
+/humidity | 97.4 | 03:07:16pm
+/humidity | 97.3 | 03:07:26pm
+/humidity | 97.3 | 03:07:31pm
+/humidity | 97.4 | 03:07:36pm
+/humidity | 97.4 | 03:07:45pm
+/humidity | 97.4 | 03:07:46pm
+/humidity | 97.3 | 03:07:56pm
+/humidity | 97.3 | 03:08:00pm
+/humidity | 97.3 | 03:08:06pm
+/humidity | 97.3 | 03:08:16pm
+/humidity | 97.4 | 03:08:16pm
+/humidity | 97.4 | 03:08:26pm
+/humidity | 97.4 | 03:08:30pm
+/humidity | 97.3 | 03:08:36pm
+/humidity | 97.3 | 03:08:45pm
+/humidity | 97.4 | 03:08:46pm
+/humidity | 97.4 | 03:08:56pm
+/humidity | 97.4 | 03:09:01pm
+/humidity | 97.4 | 03:09:07pm
+/humidity | 97.4 | 03:09:15pm
+/humidity | 97.5 | 03:09:17pm
+/humidity | 97.4 | 03:09:26pm
+/humidity | 97.4 | 03:09:30pm
+/humidity | 97.4 | 03:09:37pm
+/humidity | 97.4 | 03:09:46pm
+/humidity | 97.4 | 03:09:47pm
+/humidity | 97.4 | 03:09:57pm
+/humidity | 97.4 | 03:10:01pm
+/humidity | 97.5 | 03:10:07pm
+/humidity | 97.5 | 03:10:16pm
+/humidity | 97.5 | 03:10:17pm
+/humidity | 97.5 | 03:10:27pm
+/humidity | 97.5 | 03:10:30pm
+/humidity | 97.5 | 03:10:37pm
+/humidity | 97.5 | 03:10:45pm
+/humidity | 97.5 | 03:10:47pm
+/humidity | 97.6 | 03:10:57pm
+/humidity | 97.6 | 03:11:00pm
+/humidity | 97.5 | 03:11:07pm
+/humidity | 97.5 | 03:11:16pm
+/humidity | 97.6 | 03:11:17pm
+/humidity | 97.6 | 03:11:27pm
+/humidity | 97.6 | 03:11:30pm
+/humidity | 97.6 | 03:11:37pm
+/humidity | 97.6 | 03:11:46pm
+/humidity | 97.5 | 03:11:47pm
+/humidity | 97.5 | 03:11:57pm
+/humidity | 97.5 | 03:12:00pm
+/humidity | 97.6 | 03:12:07pm
+/humidity | 97.6 | 03:12:15pm
+/humidity | 97.6 | 03:12:17pm
+/humidity | 97.7 | 03:12:27pm
+/humidity | 97.7 | 03:12:31pm
+/humidity | 97.7 | 03:12:37pm
+/humidity | 97.7 | 03:12:46pm
+/humidity | 97.7 | 03:12:47pm
+/humidity | 97.7 | 03:12:57pm
+/humidity | 97.7 | 03:13:00pm
+/humidity | 97.7 | 03:13:07pm
+/humidity | 97.7 | 03:13:16pm
+/humidity | 97.7 | 03:13:17pm
+/humidity | 97.7 | 03:13:27pm
+/humidity | 97.7 | 03:13:30pm
+/humidity | 97.8 | 03:13:37pm
+/humidity | 97.8 | 03:13:45pm
+/humidity | 97.8 | 03:13:47pm
+/humidity | 97.7 | 03:13:57pm
+/humidity | 97.7 | 03:14:00pm
+/humidity | 97.8 | 03:14:07pm
+/humidity | 97.8 | 03:14:15pm
+/humidity | 97.9 | 03:14:18pm
+/humidity | 97.8 | 03:14:28pm
+/humidity | 97.8 | 03:14:30pm
+/humidity | 97.9 | 03:14:38pm
+/humidity | 97.9 | 03:14:46pm
+/humidity | 97.9 | 03:14:48pm
+/humidity | 97.8 | 03:14:58pm
+/humidity | 97.8 | 03:15:01pm
+/humidity | 97.9 | 03:15:08pm
+/humidity | 97.9 | 03:15:15pm
+/humidity | 97.9 | 03:15:18pm
+/humidity | 97.9 | 03:15:28pm
+/humidity | 97.9 | 03:15:31pm
+/humidity | 97.8 | 03:15:38pm
+/humidity | 97.8 | 03:15:46pm
+/humidity | 97.9 | 03:15:48pm
+/humidity | 97.9 | 03:15:58pm
+/humidity | 97.9 | 03:16:00pm
+/humidity | 98.0 | 03:16:08pm
+/humidity | 98.0 | 03:16:15pm
+/humidity | 98.0 | 03:16:18pm
+/humidity | 97.9 | 03:16:28pm
+/humidity | 97.9 | 03:16:30pm
+/humidity | 98.0 | 03:16:38pm
+/humidity | 98.0 | 03:16:46pm
+/humidity | 98.0 | 03:16:48pm
+/humidity | 98.0 | 03:16:58pm
+/humidity | 98.0 | 03:17:00pm
+/humidity | 98.0 | 03:17:08pm
+/humidity | 98.0 | 03:17:15pm
+/humidity | 98.0 | 03:17:18pm
+/humidity | 98.1 | 03:17:28pm
+/humidity | 98.1 | 03:17:31pm
+/humidity | 98.1 | 03:17:38pm
+/humidity | 98.1 | 03:17:45pm
+/humidity | 98.1 | 03:17:48pm
+/humidity | 98.1 | 03:17:58pm
+/humidity | 98.1 | 03:18:00pm
+/humidity | 98.0 | 03:18:08pm
+/humidity | 98.0 | 03:18:15pm
+/humidity | 98.1 | 03:18:18pm
+/humidity | 98.1 | 03:18:28pm
+/humidity | 98.1 | 03:18:30pm
+/humidity | 98.1 | 03:18:38pm
+/humidity | 98.1 | 03:18:46pm
+/humidity | 98.1 | 03:18:48pm
+/humidity | 98.1 | 03:18:58pm
+/humidity | 98.1 | 03:19:00pm
+/humidity | 98.2 | 03:19:08pm
+/humidity | 98.2 | 03:19:15pm
+/humidity | 98.2 | 03:19:18pm
+/humidity | 98.1 | 03:19:29pm
+/humidity | 98.2 | 03:19:39pm
+/humidity | 98.2 | 03:19:43pm
+/humidity | 98.2 | 03:19:49pm
+/humidity | 98.2 | 03:19:59pm
+/humidity | 98.2 | 03:19:59pm
+/humidity | 98.3 | 03:20:09pm
+/humidity | 98.3 | 03:20:14pm
+/humidity | 98.2 | 03:20:19pm
+/humidity | 98.2 | 03:20:29pm
+/humidity | 98.2 | 03:20:29pm
+/humidity | 98.3 | 03:20:39pm
+/humidity | 98.3 | 03:20:44pm
+/humidity | 98.3 | 03:20:49pm
+/humidity | 98.3 | 03:20:59pm
+/humidity | 98.3 | 03:20:59pm
+/humidity | 98.3 | 03:21:09pm
+/humidity | 98.3 | 03:21:13pm
+/humidity | 98.3 | 03:21:19pm
+/humidity | 98.3 | 03:21:28pm
+/humidity | 98.3 | 03:21:29pm
+/humidity | 98.3 | 03:21:39pm
+/humidity | 98.3 | 03:21:43pm
+/humidity | 98.3 | 03:21:49pm
+/humidity | 98.3 | 03:21:59pm
+/humidity | 98.3 | 03:21:59pm
+/humidity | 98.4 | 03:22:09pm
+/humidity | 98.4 | 03:22:14pm
+/humidity | 98.4 | 03:22:19pm
+/humidity | 98.4 | 03:22:29pm
+/humidity | 98.4 | 03:22:29pm
+/humidity | 98.5 | 03:22:39pm
+/humidity | 98.5 | 03:22:44pm
+/humidity | 98.4 | 03:22:49pm
+/humidity | 98.4 | 03:22:58pm
+/humidity | 98.5 | 03:22:59pm
+/humidity | 98.5 | 03:23:09pm
+/humidity | 98.5 | 03:23:14pm
+/humidity | 98.5 | 03:23:19pm
+/humidity | 98.5 | 03:23:29pm
+/humidity | 98.4 | 03:23:30pm
+/humidity | 98.5 | 03:23:40pm
+/humidity | 98.5 | 03:23:43pm
+/humidity | 98.4 | 03:23:50pm
+/humidity | 98.4 | 03:23:59pm
+/humidity | 98.5 | 03:24:00pm
+/humidity | 98.4 | 03:24:10pm
+/humidity | 98.4 | 03:24:13pm
+/humidity | 98.5 | 03:24:20pm
+/humidity | 98.5 | 03:24:29pm
+/humidity | 98.5 | 03:24:30pm
+/humidity | 98.5 | 03:24:40pm
+/humidity | 98.5 | 03:24:44pm
+/humidity | 98.5 | 03:24:50pm
+/humidity | 98.5 | 03:24:58pm
+/humidity | 98.5 | 03:25:00pm
+/humidity | 98.5 | 03:25:10pm
+/humidity | 98.5 | 03:25:13pm
+/humidity | 98.5 | 03:25:20pm
+/humidity | 98.5 | 03:25:28pm
+/humidity | 98.5 | 03:25:30pm
+/humidity | 98.5 | 03:25:40pm
+/humidity | 98.5 | 03:25:44pm
+/humidity | 98.5 | 03:25:50pm
+/humidity | 98.5 | 03:25:59pm
+/humidity | 98.5 | 03:26:00pm
+/humidity | 98.5 | 03:26:10pm
+/humidity | 98.5 | 03:26:13pm
+/humidity | 98.5 | 03:26:20pm
+/humidity | 98.5 | 03:26:29pm
+/humidity | 98.4 | 03:26:30pm
+/humidity | 98.5 | 03:26:40pm
+/humidity | 98.5 | 03:26:43pm
+/humidity | 98.5 | 03:26:50pm
+/humidity | 98.5 | 03:26:59pm
+/humidity | 98.5 | 03:27:00pm
+/humidity | 98.5 | 03:27:10pm
+/humidity | 98.5 | 03:27:13pm
+/humidity | 98.4 | 03:27:20pm
+/humidity | 98.4 | 03:27:29pm
+/humidity | 98.5 | 03:27:30pm
+/humidity | 98.5 | 03:27:40pm
+/humidity | 98.5 | 03:27:44pm
+/humidity | 98.5 | 03:27:50pm
+/humidity | 98.5 | 03:27:58pm
+/humidity | 98.5 | 03:28:00pm
+/humidity | 98.5 | 03:28:10pm
+/humidity | 98.5 | 03:28:14pm
+/humidity | 98.5 | 03:28:20pm
+/humidity | 98.5 | 03:28:28pm
+/humidity | 98.5 | 03:28:30pm
+/humidity | 98.5 | 03:28:40pm
+/humidity | 98.5 | 03:28:44pm
+/humidity | 98.5 | 03:28:50pm
+/humidity | 98.5 | 03:28:59pm
+/humidity | 98.5 | 03:29:00pm
+/humidity | 98.5 | 03:29:10pm
+/humidity | 98.5 | 03:29:14pm
+/humidity | 98.5 | 03:29:21pm
+/humidity | 98.5 | 03:29:29pm
+/humidity | 98.5 | 03:29:31pm
+/humidity | 98.5 | 03:29:41pm
+/humidity | 98.5 | 03:29:44pm
+/humidity | 98.5 | 03:29:51pm
+/humidity | 98.5 | 03:29:59pm
+/humidity | 98.4 | 03:30:01pm
+/humidity | 98.5 | 03:30:11pm
+/humidity | 98.5 | 03:30:13pm
+/humidity | 98.5 | 03:30:21pm
+/humidity | 98.5 | 03:30:29pm
+/humidity | 98.5 | 03:30:31pm
+/humidity | 98.5 | 03:30:41pm
+/humidity | 98.5 | 03:30:44pm
+/humidity | 98.5 | 03:30:51pm
+/humidity | 98.5 | 03:30:59pm
+/humidity | 98.5 | 03:31:01pm
+/humidity | 98.5 | 03:31:11pm
+/humidity | 98.5 | 03:31:13pm
+/humidity | 98.5 | 03:31:21pm
+/humidity | 98.5 | 03:31:28pm
+/humidity | 98.5 | 03:31:31pm
+/humidity | 98.5 | 03:31:41pm
+/humidity | 98.5 | 03:31:43pm
+/humidity | 98.5 | 03:31:51pm
+/humidity | 98.5 | 03:31:58pm
+/humidity | 98.5 | 03:32:01pm
+/humidity | 98.5 | 03:32:11pm
+/humidity | 98.5 | 03:32:13pm
+/humidity | 98.4 | 03:32:21pm
+/humidity | 98.4 | 03:32:28pm
+/humidity | 98.5 | 03:32:31pm
+/humidity | 98.5 | 03:32:41pm
+/humidity | 98.5 | 03:32:43pm
+/humidity | 98.5 | 03:32:51pm
+/humidity | 98.5 | 03:32:58pm
+/humidity | 98.5 | 03:33:01pm
+/humidity | 98.5 | 03:33:11pm
+/humidity | 98.5 | 03:33:13pm
+/humidity | 98.5 | 03:33:21pm
+/humidity | 98.5 | 03:33:29pm
+/humidity | 98.5 | 03:33:31pm
+/humidity | 98.5 | 03:33:41pm
+/humidity | 98.5 | 03:33:43pm
+/humidity | 98.5 | 03:33:51pm
+/humidity | 98.5 | 03:33:58pm
+/humidity | 98.5 | 03:34:01pm
+/humidity | 98.5 | 03:34:11pm
+/humidity | 98.5 | 03:34:14pm
+/humidity | 98.5 | 03:34:21pm
+/humidity | 98.5 | 03:34:28pm
+/humidity | 98.5 | 03:34:31pm
+/humidity | 98.5 | 03:34:41pm
+/humidity | 98.5 | 03:34:44pm
+/humidity | 98.5 | 03:34:51pm
+/humidity | 98.5 | 03:34:59pm
+/humidity | 98.4 | 03:35:01pm
+/humidity | 98.5 | 03:35:11pm
+/humidity | 98.5 | 03:35:13pm
+/humidity | 98.5 | 03:35:21pm
+/humidity | 98.5 | 03:35:28pm
+/humidity | 98.5 | 03:35:31pm
+/humidity | 98.5 | 03:35:41pm
+/humidity | 98.5 | 03:35:43pm
+/humidity | 98.5 | 03:35:52pm
+/humidity | 98.5 | 03:35:58pm
+/humidity | 98.5 | 03:36:02pm
+/humidity | 98.5 | 03:36:12pm
+/humidity | 98.5 | 03:36:13pm
+/humidity | 98.5 | 03:36:22pm
+/humidity | 98.5 | 03:36:29pm
+/humidity | 98.5 | 03:36:32pm
+/humidity | 98.5 | 03:36:42pm
+/humidity | 98.5 | 03:36:43pm
+/humidity | 98.5 | 03:36:52pm
+/humidity | 98.5 | 03:36:58pm
+/humidity | 98.5 | 03:37:02pm
+/humidity | 98.5 | 03:37:12pm
+/humidity | 98.5 | 03:37:13pm
+/humidity | 98.5 | 03:37:22pm
+/humidity | 98.5 | 03:37:29pm
+/humidity | 98.5 | 03:37:32pm
+/humidity | 98.5 | 03:37:42pm
+/humidity | 98.5 | 03:37:44pm
+/humidity | 98.5 | 03:37:52pm
+/humidity | 98.5 | 03:37:59pm
+/humidity | 98.5 | 03:38:02pm
+/humidity | 98.5 | 03:38:12pm
+/humidity | 98.5 | 03:38:13pm
+/humidity | 98.5 | 03:38:22pm
+/humidity | 98.5 | 03:38:28pm
+/humidity | 98.5 | 03:38:32pm
+/humidity | 98.5 | 03:38:42pm
+/humidity | 98.5 | 03:38:44pm
+/humidity | 98.5 | 03:38:52pm
+/humidity | 98.5 | 03:38:59pm
+/humidity | 98.5 | 03:39:02pm
+/humidity | 98.5 | 03:39:12pm
+/humidity | 98.5 | 03:39:13pm
+/humidity | 98.5 | 03:39:22pm
+/humidity | 98.5 | 03:39:29pm
+/humidity | 98.6 | 03:39:32pm
+/humidity | 98.6 | 03:39:42pm
+/humidity | 98.6 | 03:39:43pm
+/humidity | 98.5 | 03:39:52pm
+/humidity | 98.5 | 03:39:58pm
+/humidity | 98.5 | 03:40:02pm
+/humidity | 98.6 | 03:40:12pm
+/humidity | 98.6 | 03:40:13pm
+/humidity | 98.5 | 03:40:22pm
+/humidity | 98.5 | 03:40:28pm
+/humidity | 98.5 | 03:40:32pm
+/humidity | 98.5 | 03:40:42pm
+/humidity | 98.5 | 03:40:43pm
+/humidity | 98.5 | 03:40:52pm
+/humidity | 98.5 | 03:40:59pm
+/humidity | 98.5 | 03:41:02pm
+/humidity | 98.5 | 03:41:12pm
+/humidity | 98.5 | 03:41:14pm
+/humidity | 98.5 | 03:41:22pm
+/humidity | 98.5 | 03:41:29pm
+/humidity | 98.5 | 03:41:32pm
+/humidity | 98.5 | 03:41:42pm
+/humidity | 98.5 | 03:41:44pm
+/humidity | 98.5 | 03:41:52pm
+/humidity | 98.5 | 03:41:59pm
+/humidity | 98.5 | 03:42:03pm
+/humidity | 98.5 | 03:42:12pm
+/humidity | 98.5 | 03:42:14pm
+/humidity | 98.5 | 03:42:22pm
+/humidity | 98.5 | 03:42:29pm
+/humidity | 98.5 | 03:42:33pm
+/humidity | 98.5 | 03:42:43pm
+/humidity | 98.5 | 03:42:43pm
+/humidity | 98.5 | 03:42:53pm
+/humidity | 98.5 | 03:42:58pm
+/humidity | 98.5 | 03:43:03pm
+/humidity | 98.5 | 03:43:13pm
+/humidity | 98.5 | 03:43:14pm
+/humidity | 98.5 | 03:43:23pm
+/humidity | 98.5 | 03:43:28pm
+/humidity | 98.5 | 03:43:33pm
+/humidity | 98.5 | 03:43:43pm
+/humidity | 98.5 | 03:43:44pm
+/humidity | 98.5 | 03:43:53pm
+/humidity | 98.5 | 03:43:59pm
+/humidity | 98.6 | 03:44:03pm
+/humidity | 98.6 | 03:44:13pm
+/humidity | 98.6 | 03:44:13pm
+/humidity | 98.5 | 03:44:23pm
+/humidity | 98.5 | 03:44:29pm
+/humidity | 98.5 | 03:44:33pm
+/humidity | 98.5 | 03:44:43pm
+/humidity | 98.5 | 03:44:43pm
+/humidity | 98.5 | 03:44:53pm
+/humidity | 98.5 | 03:44:58pm
+/humidity | 98.5 | 03:45:03pm
+/humidity | 98.5 | 03:45:13pm
+/humidity | 98.5 | 03:45:13pm
+/humidity | 98.5 | 03:45:23pm
+/humidity | 98.5 | 03:45:28pm
+/humidity | 98.5 | 03:45:33pm
+/humidity | 98.5 | 03:45:43pm
+/humidity | 98.5 | 03:45:43pm
+/humidity | 98.5 | 03:45:53pm
+/humidity | 98.5 | 03:45:58pm
+/humidity | 98.6 | 03:46:03pm
+/humidity | 98.5 | 03:46:13pm
+/humidity | 98.5 | 03:46:14pm
+/humidity | 98.5 | 03:46:23pm
+/humidity | 98.5 | 03:46:28pm
+/humidity | 98.5 | 03:46:33pm
+/humidity | 98.5 | 03:46:43pm
+/humidity | 98.5 | 03:46:43pm
+/humidity | 98.5 | 03:46:53pm
+/humidity | 98.5 | 03:46:59pm
+/humidity | 98.6 | 03:47:03pm
+/humidity | 98.5 | 03:47:13pm
+/humidity | 98.5 | 03:47:13pm
+/humidity | 98.5 | 03:47:23pm
+/humidity | 98.5 | 03:47:29pm
+/humidity | 98.5 | 03:47:33pm
+/humidity | 98.5 | 03:47:44pm
+/humidity | 98.5 | 03:47:54pm
+/humidity | 98.5 | 03:47:59pm
+/humidity | 98.5 | 03:48:03pm
+/humidity | 98.5 | 03:48:13pm
+/humidity | 98.5 | 03:48:13pm
+/humidity | 98.5 | 03:48:24pm
+/humidity | 98.5 | 03:48:29pm
+/humidity | 98.5 | 03:48:34pm
+/humidity | 98.5 | 03:48:44pm
+/humidity | 98.5 | 03:48:44pm
+/humidity | 98.5 | 03:48:54pm
+/humidity | 98.5 | 03:48:59pm
+/humidity | 98.5 | 03:51:03pm
+/humidity | 98.5 | 03:51:04pm
+/humidity | 98.5 | 03:51:14pm
+/humidity | 98.5 | 03:51:17pm
+/humidity | 98.5 | 03:51:24pm
+/humidity | 98.5 | 03:51:32pm
+/humidity | 98.6 | 03:51:34pm
+/humidity | 98.6 | 03:51:44pm
+/humidity | 98.6 | 03:51:47pm
+/humidity | 98.6 | 03:51:54pm
+/humidity | 98.6 | 03:52:02pm
+/humidity | 98.5 | 03:52:04pm
+/humidity | 98.5 | 03:52:14pm
+/humidity | 98.5 | 03:52:17pm
+/humidity | 98.5 | 03:52:24pm
+/humidity | 98.5 | 03:52:32pm
+/humidity | 98.5 | 03:52:34pm
+/humidity | 98.6 | 03:52:44pm
+/humidity | 98.6 | 03:52:47pm
+/humidity | 98.5 | 03:52:54pm
+/humidity | 98.5 | 03:53:02pm
+/humidity | 98.5 | 03:53:04pm
+/humidity | 98.6 | 03:53:14pm
+/humidity | 98.6 | 03:53:17pm
+/humidity | 98.6 | 03:53:24pm
+/humidity | 98.6 | 03:53:32pm
+/humidity | 98.6 | 03:53:34pm
+/humidity | 98.6 | 03:53:44pm
+/humidity | 98.6 | 03:53:47pm
+/humidity | 98.6 | 03:53:54pm
+/humidity | 98.6 | 03:54:02pm
+/humidity | 98.6 | 03:54:04pm
+/humidity | 98.6 | 03:54:14pm
+/humidity | 98.6 | 03:54:17pm
+/humidity | 98.6 | 03:54:24pm
+/humidity | 98.6 | 03:54:32pm
+/humidity | 98.6 | 03:54:34pm
+/humidity | 98.5 | 03:54:44pm
+/humidity | 98.5 | 03:54:47pm
+/humidity | 98.5 | 03:54:54pm
+/humidity | 98.5 | 03:55:02pm
+/humidity | 98.6 | 03:55:04pm
+/humidity | 98.5 | 03:55:14pm
+/humidity | 98.5 | 03:55:17pm
+/humidity | 98.6 | 03:55:24pm
+/humidity | 98.6 | 03:55:32pm
+/humidity | 98.6 | 03:55:34pm
+/humidity | 98.5 | 03:55:44pm
+/humidity | 98.5 | 03:55:47pm
+/humidity | 98.6 | 03:55:54pm
+/humidity | 98.6 | 03:56:02pm
+/humidity | 98.5 | 03:56:04pm
+/humidity | 98.5 | 03:56:14pm
+/humidity | 98.5 | 03:56:17pm
+/humidity | 98.5 | 03:56:24pm
+/humidity | 98.5 | 03:56:32pm
+/humidity | 98.6 | 03:56:34pm
+/humidity | 98.5 | 03:56:44pm
+/humidity | 98.5 | 03:56:47pm
+/humidity | 98.5 | 03:56:55pm
+/humidity | 98.5 | 03:57:02pm
+/humidity | 98.6 | 03:57:05pm
+/humidity | 98.5 | 03:57:15pm
+/humidity | 98.5 | 03:57:17pm
+/humidity | 98.5 | 03:57:25pm
+/humidity | 98.5 | 03:57:32pm
+/humidity | 98.6 | 03:57:35pm
+/humidity | 98.6 | 04:29:43pm
+/humidity | 98.6 | 04:29:51pm
+/humidity | 98.6 | 04:29:57pm
+/humidity | 98.6 | 04:30:01pm
+/humidity | 98.6 | 04:30:11pm
+/humidity | 98.6 | 04:30:13pm
+/humidity | 98.7 | 04:30:21pm
+/humidity | 98.7 | 04:30:28pm
+/humidity | 98.6 | 04:30:31pm
+/humidity | 98.6 | 04:30:42pm
+/humidity | 98.6 | 04:30:52pm
+/humidity | 98.6 | 04:30:56pm
+/humidity | 98.6 | 04:31:01pm
+/humidity | 98.6 | 04:31:12pm
+/humidity | 98.6 | 04:31:12pm
+/humidity | 98.6 | 04:31:22pm
+/humidity | 98.6 | 04:31:27pm
+/humidity | 98.6 | 04:31:32pm
+/humidity | 98.6 | 04:31:42pm
+/humidity | 98.6 | 04:31:42pm
+/humidity | 98.6 | 04:31:52pm
+/humidity | 98.6 | 04:31:57pm
+/humidity | 98.7 | 04:32:02pm
+/humidity | 98.7 | 04:32:12pm
+/humidity | 98.6 | 04:32:12pm
+/humidity | 98.6 | 04:32:22pm
+/humidity | 98.6 | 04:32:27pm
+/humidity | 98.6 | 04:32:32pm
+/humidity | 98.6 | 04:32:41pm
+/humidity | 98.6 | 04:32:42pm
+/humidity | 98.6 | 04:32:52pm
+/humidity | 98.6 | 04:32:57pm
+/humidity | 98.6 | 04:33:02pm
+/humidity | 98.6 | 04:33:12pm
+/humidity | 98.6 | 04:33:12pm
+/humidity | 98.6 | 04:33:22pm
+/humidity | 98.6 | 04:33:27pm
+/humidity | 98.6 | 04:33:32pm
+/humidity | 98.6 | 04:33:42pm
+/humidity | 98.6 | 04:33:42pm
+/humidity | 98.6 | 04:33:52pm
+/humidity | 98.6 | 04:33:56pm
+/humidity | 98.6 | 04:34:02pm
+/humidity | 98.6 | 04:34:12pm
+/humidity | 98.6 | 04:34:12pm
+/humidity | 98.6 | 04:34:22pm
+/humidity | 98.6 | 04:34:27pm
+/humidity | 98.6 | 04:34:32pm
+/humidity | 98.6 | 04:34:41pm
+/humidity | 98.6 | 04:34:42pm
+/humidity | 98.6 | 04:34:52pm
+/humidity | 98.6 | 04:34:56pm
+/humidity | 98.6 | 04:35:02pm
+/humidity | 98.6 | 04:35:12pm
+/humidity | 98.6 | 04:35:12pm
+/humidity | 98.6 | 04:35:22pm
+/humidity | 98.6 | 04:35:27pm
+/humidity | 98.6 | 04:35:32pm
+/humidity | 98.6 | 04:35:42pm
+/humidity | 98.6 | 04:35:42pm
+/humidity | 98.6 | 04:35:52pm
+/humidity | 98.6 | 04:35:56pm
+/humidity | 98.6 | 04:36:02pm
+/humidity | 98.6 | 04:36:12pm
+/humidity | 98.6 | 04:36:12pm
+/humidity | 98.6 | 04:36:22pm
+/humidity | 98.6 | 04:36:27pm
+/humidity | 98.6 | 04:36:33pm
+/humidity | 98.6 | 04:36:42pm
+/humidity | 98.6 | 04:36:43pm
+/humidity | 98.6 | 04:36:53pm
+/humidity | 98.6 | 04:36:57pm
+/humidity | 98.6 | 04:37:03pm
+/humidity | 98.6 | 04:37:11pm
+/humidity | 98.6 | 04:37:13pm
+/humidity | 98.6 | 04:37:23pm
+/humidity | 98.6 | 04:37:26pm
+/humidity | 98.6 | 04:37:33pm
+/humidity | 98.6 | 04:37:42pm
+/humidity | 98.6 | 04:37:43pm
+/humidity | 98.6 | 04:37:53pm
+/humidity | 98.6 | 04:37:56pm
+/humidity | 98.6 | 04:38:03pm
+/humidity | 98.6 | 04:38:12pm
+/humidity | 98.6 | 04:38:13pm
+/humidity | 98.6 | 04:38:23pm
+/humidity | 98.6 | 04:38:27pm
+/humidity | 98.6 | 04:38:33pm
+/humidity | 98.6 | 04:38:41pm
+/humidity | 98.6 | 04:38:43pm
+/humidity | 98.6 | 04:38:53pm
+/humidity | 98.6 | 04:38:56pm
+/humidity | 98.6 | 04:39:03pm
+/humidity | 98.6 | 04:39:12pm
+/humidity | 98.6 | 04:39:13pm
+/humidity | 98.6 | 04:39:23pm
+/humidity | 98.6 | 04:39:27pm
+/humidity | 98.6 | 04:39:33pm
+/humidity | 98.6 | 04:39:42pm
+/humidity | 98.6 | 04:39:43pm
+/humidity | 98.6 | 04:39:53pm
+/humidity | 98.6 | 04:39:57pm
+/humidity | 98.6 | 04:40:03pm
+/humidity | 98.6 | 04:40:11pm
+/humidity | 98.6 | 04:40:13pm
+/humidity | 98.6 | 04:40:23pm
+/humidity | 98.6 | 04:40:27pm
+/humidity | 98.6 | 04:40:33pm
+/humidity | 98.6 | 04:40:41pm
+/humidity | 98.6 | 04:40:43pm
+/humidity | 98.6 | 04:40:53pm
+/humidity | 98.6 | 04:40:57pm
+/humidity | 98.6 | 04:41:03pm
+/humidity | 98.6 | 04:41:12pm
+/humidity | 98.6 | 04:41:13pm
+/humidity | 98.6 | 04:41:23pm
+/humidity | 98.6 | 04:41:27pm
+/humidity | 98.6 | 04:41:33pm
+/humidity | 98.6 | 04:41:42pm
+/humidity | 98.6 | 04:41:43pm
+/humidity | 98.6 | 04:41:53pm
+/humidity | 98.6 | 04:41:56pm
+/humidity | 98.6 | 04:42:03pm
+/humidity | 98.6 | 04:42:12pm
+/humidity | 98.6 | 04:42:13pm
+/humidity | 98.6 | 04:42:23pm
+/humidity | 98.6 | 04:42:26pm
+/humidity | 98.6 | 04:42:33pm
+/humidity | 98.6 | 04:42:42pm
+/humidity | 98.6 | 04:42:43pm
+/humidity | 98.6 | 04:42:54pm
+/humidity | 98.6 | 04:43:04pm
+/humidity | 98.6 | 04:43:09pm
+/humidity | 98.6 | 04:43:14pm
+/humidity | 98.6 | 04:43:24pm
+/humidity | 98.6 | 04:43:24pm
+/humidity | 98.6 | 04:43:34pm
+/humidity | 98.6 | 04:43:38pm
+/humidity | 98.6 | 04:43:44pm
+/humidity | 98.6 | 04:43:53pm
+/humidity | 98.6 | 04:43:54pm
+/humidity | 98.6 | 04:44:04pm
+/humidity | 98.6 | 04:44:09pm
+/humidity | 98.6 | 04:44:14pm
+/humidity | 98.6 | 04:44:24pm
+/humidity | 98.6 | 04:44:24pm
+/humidity | 98.6 | 04:44:34pm
+/humidity | 98.6 | 04:44:39pm
+/humidity | 98.6 | 04:44:44pm
+/humidity | 98.6 | 04:44:54pm
+/humidity | 98.6 | 04:44:54pm
+/humidity | 98.6 | 04:45:04pm
+/humidity | 98.6 | 04:45:08pm
+/humidity | 98.6 | 04:45:14pm
+/humidity | 98.6 | 04:45:24pm
+/humidity | 98.6 | 04:45:24pm
+/humidity | 98.6 | 04:45:34pm
+/humidity | 98.6 | 04:45:39pm
+/humidity | 98.6 | 04:45:44pm
+/humidity | 98.6 | 04:45:53pm
+/humidity | 98.6 | 04:45:54pm
+/humidity | 98.6 | 04:46:04pm
+/humidity | 98.6 | 04:46:08pm
+/humidity | 98.6 | 04:46:14pm
+/humidity | 98.6 | 04:46:24pm
+/humidity | 98.6 | 04:46:24pm
+/humidity | 98.6 | 04:46:34pm
+/humidity | 98.6 | 04:46:38pm
+/humidity | 98.6 | 04:46:44pm
+/humidity | 98.6 | 04:46:53pm
+/humidity | 98.6 | 04:46:54pm
+/humidity | 98.6 | 04:47:04pm
+/humidity | 98.6 | 04:47:08pm
+/humidity | 98.6 | 04:47:14pm
+/humidity | 98.6 | 04:47:24pm
+/humidity | 98.6 | 04:47:24pm
+/humidity | 98.6 | 04:47:34pm
+/humidity | 98.6 | 04:47:39pm
+/humidity | 98.6 | 04:47:44pm
+/humidity | 98.6 | 04:47:54pm
+/humidity | 98.6 | 04:47:54pm
+/humidity | 98.6 | 04:48:04pm
+/humidity | 98.6 | 04:48:08pm
+/humidity | 98.6 | 04:48:14pm
+/humidity | 98.6 | 04:48:23pm
+/humidity | 98.6 | 04:48:24pm
+/humidity | 98.6 | 04:48:34pm
+/humidity | 98.6 | 04:48:39pm
+/humidity | 98.6 | 04:48:44pm
+/humidity | 98.6 | 04:48:54pm
+/humidity | 98.6 | 04:48:55pm
+/humidity | 98.6 | 04:49:05pm
+/humidity | 98.6 | 04:49:08pm
+/humidity | 98.6 | 04:49:15pm
+/humidity | 98.6 | 04:49:24pm
+/humidity | 98.6 | 04:49:25pm
+/humidity | 98.6 | 04:49:35pm
+/humidity | 98.6 | 04:49:38pm
+/humidity | 98.6 | 04:49:45pm
+/humidity | 98.6 | 04:49:53pm
+/humidity | 98.6 | 04:49:55pm
+/humidity | 98.6 | 04:50:05pm
+/humidity | 98.6 | 04:50:08pm
+/humidity | 98.6 | 04:50:15pm
+/humidity | 98.6 | 04:50:24pm
+/humidity | 98.6 | 04:50:25pm
+/humidity | 98.6 | 04:50:35pm
+/humidity | 98.6 | 04:50:39pm
+/humidity | 98.6 | 04:50:45pm
+/humidity | 98.6 | 04:50:53pm
+/humidity | 98.6 | 04:50:55pm
+/humidity | 98.6 | 04:51:05pm
+/humidity | 98.6 | 04:51:09pm
+/humidity | 98.6 | 04:51:15pm
+/humidity | 98.6 | 04:51:24pm
+/humidity | 98.6 | 04:51:25pm
+/humidity | 98.6 | 04:51:35pm
+/humidity | 98.6 | 04:51:39pm
+/humidity | 98.6 | 04:51:45pm
+/humidity | 98.6 | 04:51:54pm
+/humidity | 98.6 | 04:51:55pm
+/humidity | 98.6 | 04:52:05pm
+/humidity | 98.6 | 04:52:09pm
+/humidity | 98.6 | 04:52:15pm
+/humidity | 98.6 | 04:52:23pm
+/humidity | 98.6 | 04:52:25pm
+/humidity | 98.6 | 04:52:35pm
+/humidity | 98.6 | 04:52:39pm
+/humidity | 98.6 | 04:52:45pm
+/humidity | 98.6 | 04:52:53pm
+/humidity | 98.6 | 04:52:55pm
+/humidity | 98.6 | 04:53:05pm
+/humidity | 98.6 | 04:53:08pm
+/humidity | 98.6 | 04:53:15pm
+/humidity | 98.6 | 04:53:24pm
+/humidity | 98.6 | 04:53:25pm
+/humidity | 98.6 | 04:53:35pm
+/humidity | 98.6 | 04:53:38pm
+/humidity | 98.6 | 04:53:45pm
+/humidity | 98.6 | 04:53:54pm
+/humidity | 98.6 | 04:53:55pm
+/humidity | 98.6 | 04:54:05pm
+/humidity | 98.6 | 04:54:08pm
+/humidity | 98.6 | 04:54:15pm
+/humidity | 98.6 | 04:54:24pm
+/humidity | 98.6 | 04:54:25pm
+/humidity | 98.6 | 04:54:35pm
+/humidity | 98.6 | 04:54:39pm
+/humidity | 98.6 | 04:54:45pm
+/humidity | 98.6 | 04:54:54pm
+/humidity | 98.6 | 04:54:56pm
+/humidity | 98.6 | 04:55:06pm
+/humidity | 98.6 | 04:55:09pm
+/humidity | 98.6 | 04:55:15pm
+/humidity | 98.6 | 04:55:24pm
+/humidity | 98.6 | 04:55:25pm
+/humidity | 98.6 | 04:55:35pm
+/humidity | 98.6 | 04:55:39pm
+/humidity | 98.6 | 04:55:46pm
+/humidity | 98.6 | 04:55:54pm
+/humidity | 98.6 | 04:55:56pm
+/humidity | 98.6 | 04:56:06pm
+/humidity | 98.6 | 04:56:08pm
+/humidity | 98.6 | 04:56:16pm
+/humidity | 98.6 | 04:56:23pm
+/humidity | 98.6 | 04:56:26pm
+/humidity | 98.6 | 04:56:36pm
+/humidity | 98.6 | 04:56:38pm
+/humidity | 98.6 | 04:56:46pm
+/humidity | 98.6 | 04:56:54pm
+/humidity | 98.6 | 04:56:56pm
+/humidity | 98.6 | 04:57:06pm
+/humidity | 98.6 | 04:57:08pm
+/humidity | 98.6 | 04:57:16pm
+/humidity | 98.6 | 04:57:24pm
+/humidity | 98.6 | 04:57:26pm
+/humidity | 98.6 | 04:57:36pm
+/humidity | 98.6 | 04:57:38pm
+/humidity | 98.6 | 04:57:46pm
+/humidity | 98.6 | 04:57:53pm
+/humidity | 98.6 | 04:57:56pm
+/humidity | 98.6 | 04:58:06pm
+/humidity | 98.6 | 04:58:09pm
+/humidity | 98.6 | 04:58:16pm
+/humidity | 98.6 | 04:58:23pm
+/humidity | 98.6 | 04:58:26pm
+/humidity | 98.6 | 04:58:36pm
+/humidity | 98.6 | 04:58:39pm
+/humidity | 98.6 | 04:58:46pm
+/humidity | 98.6 | 04:58:54pm
+/humidity | 98.6 | 04:58:56pm
+/humidity | 98.6 | 04:59:06pm
+/humidity | 98.6 | 04:59:09pm
+/humidity | 98.6 | 04:59:16pm
+/humidity | 98.6 | 04:59:23pm
+/humidity | 98.6 | 04:59:26pm
+/humidity | 98.6 | 04:59:36pm
+/humidity | 98.6 | 04:59:39pm
+/humidity | 98.6 | 04:59:46pm
+/humidity | 98.6 | 04:59:54pm
+/humidity | 98.6 | 04:59:56pm
+/humidity | 98.6 | 05:00:06pm
+/humidity | 98.6 | 05:00:09pm
+/humidity | 98.7 | 05:00:16pm
+/humidity | 98.7 | 05:00:23pm
+/humidity | 98.6 | 05:00:26pm
+/humidity | 98.6 | 05:00:36pm
+/humidity | 98.6 | 05:00:38pm
+/humidity | 98.7 | 05:00:46pm
+/humidity | 98.7 | 05:00:53pm
+/humidity | 98.6 | 05:00:56pm
+/humidity | 98.6 | 05:01:06pm
+/humidity | 98.6 | 05:01:09pm
+/humidity | 98.6 | 05:01:17pm
+/humidity | 98.6 | 05:01:23pm
+/humidity | 98.6 | 05:01:27pm
+/humidity | 98.6 | 05:01:37pm
+/humidity | 98.6 | 05:01:38pm
+/humidity | 98.6 | 05:01:47pm
+/humidity | 98.6 | 05:01:53pm
+/humidity | 98.6 | 05:01:57pm
+/humidity | 98.6 | 05:02:07pm
+/humidity | 98.6 | 05:02:09pm
+/humidity | 98.6 | 05:02:17pm
+/humidity | 98.6 | 05:02:23pm
+/humidity | 98.6 | 05:02:27pm
+/humidity | 98.6 | 05:02:37pm
+/humidity | 98.6 | 05:02:39pm
+/humidity | 98.6 | 05:02:47pm
+/humidity | 98.6 | 05:02:54pm
+/humidity | 98.6 | 05:02:57pm
+/humidity | 98.6 | 05:03:07pm
+/humidity | 98.6 | 05:03:09pm
+/humidity | 98.6 | 05:03:17pm
+/humidity | 98.6 | 05:03:24pm
+/humidity | 98.6 | 05:03:27pm
+/humidity | 98.6 | 05:03:37pm
+/humidity | 98.6 | 05:03:39pm
+/humidity | 98.6 | 05:03:47pm
+/humidity | 98.6 | 05:03:53pm
+/humidity | 98.6 | 05:03:57pm
+/humidity | 98.6 | 05:04:07pm
+/humidity | 98.6 | 05:04:09pm
+/humidity | 98.6 | 05:04:17pm
+/humidity | 98.6 | 05:04:24pm
+/humidity | 98.6 | 05:04:27pm
+/humidity | 98.6 | 05:04:37pm
+/humidity | 98.6 | 05:04:39pm
+/humidity | 98.6 | 05:04:47pm
+/humidity | 98.6 | 05:04:54pm
+/humidity | 98.6 | 05:04:57pm
+/humidity | 98.6 | 05:05:07pm
+/humidity | 98.6 | 05:05:08pm
+/humidity | 98.7 | 05:05:17pm
+/humidity | 98.7 | 05:05:23pm
+/humidity | 98.7 | 05:05:27pm
+/humidity | 98.6 | 05:05:37pm
+/humidity | 98.6 | 05:05:39pm
+/humidity | 98.6 | 05:05:47pm
+/humidity | 98.6 | 05:05:53pm
+/humidity | 98.7 | 05:05:57pm
+/humidity | 98.7 | 05:06:07pm
+/humidity | 98.7 | 05:06:09pm
+/humidity | 98.7 | 05:06:17pm
+/humidity | 98.7 | 05:06:23pm
+/humidity | 98.6 | 05:06:27pm
+/humidity | 98.6 | 05:06:37pm
+/humidity | 98.6 | 05:06:38pm
+/humidity | 98.6 | 05:06:47pm
+/humidity | 98.6 | 05:06:53pm
+/humidity | 98.7 | 05:06:57pm
+/humidity | 98.7 | 05:07:08pm
+/humidity | 98.6 | 05:07:18pm
+/humidity | 98.6 | 05:07:22pm
+/humidity | 98.6 | 05:07:28pm
+/humidity | 98.6 | 05:07:38pm
+/humidity | 98.6 | 05:07:38pm
+/humidity | 98.7 | 05:07:48pm
+/humidity | 98.7 | 05:07:53pm
+/humidity | 98.7 | 05:07:58pm
+/humidity | 98.7 | 05:08:08pm
+/humidity | 98.6 | 05:08:08pm
+/humidity | 98.7 | 05:08:18pm
+/humidity | 98.7 | 05:08:23pm
+/humidity | 98.7 | 05:08:28pm
+/humidity | 98.7 | 05:08:37pm
+/humidity | 98.6 | 05:08:38pm
+/humidity | 98.6 | 05:08:48pm
+/humidity | 98.6 | 05:08:52pm
+/humidity | 98.6 | 05:08:58pm
+/humidity | 98.6 | 05:09:07pm
+/humidity | 98.6 | 05:09:08pm
+/humidity | 98.7 | 05:09:18pm
+/humidity | 98.7 | 05:09:23pm
+/humidity | 98.7 | 05:09:28pm
+/humidity | 98.7 | 05:09:37pm
+/humidity | 98.6 | 05:09:38pm
+/humidity | 98.7 | 05:09:48pm
+/humidity | 98.7 | 05:09:53pm
+/humidity | 98.7 | 05:09:58pm
+/humidity | 98.7 | 05:10:07pm
+/humidity | 98.6 | 05:10:08pm
+/humidity | 98.7 | 05:10:18pm
+/humidity | 98.7 | 05:10:22pm
+/humidity | 98.7 | 05:10:28pm
+/humidity | 98.7 | 05:10:38pm
+/humidity | 98.7 | 05:10:38pm
+/humidity | 98.7 | 05:10:48pm
+/humidity | 98.7 | 05:10:52pm
+/humidity | 98.6 | 05:10:58pm
+/humidity | 98.6 | 05:11:07pm
+/humidity | 98.7 | 05:11:08pm
+/humidity | 98.7 | 05:11:18pm
+/humidity | 98.7 | 05:11:22pm
+/humidity | 98.6 | 05:11:28pm
+/humidity | 98.6 | 05:11:38pm
+/humidity | 98.7 | 05:11:38pm
+/humidity | 98.6 | 05:11:48pm
+/humidity | 98.6 | 05:11:52pm
+/humidity | 98.6 | 05:11:58pm
+/humidity | 98.6 | 05:12:08pm
+/humidity | 98.7 | 05:12:08pm
+/humidity | 98.6 | 05:12:18pm
+/humidity | 98.6 | 05:12:22pm
+/humidity | 98.6 | 05:12:29pm
+/humidity | 98.6 | 05:12:38pm
+/humidity | 98.6 | 05:12:38pm
+/humidity | 98.6 | 05:12:49pm
+/humidity | 98.6 | 05:12:59pm
+/humidity | 98.6 | 05:13:04pm
+/humidity | 98.7 | 05:13:09pm
+/humidity | 98.7 | 05:13:18pm
+/humidity | 98.6 | 05:13:19pm
+/humidity | 98.7 | 05:13:29pm
+/humidity | 98.7 | 05:13:34pm
+/humidity | 98.7 | 05:13:39pm
+/humidity | 98.7 | 05:13:48pm
+/humidity | 98.6 | 05:13:49pm
+/humidity | 98.7 | 05:13:59pm
+/humidity | 98.7 | 05:14:03pm
+/humidity | 98.7 | 05:14:09pm
+/humidity | 98.7 | 05:14:19pm
+/humidity | 98.7 | 05:14:19pm
+/humidity | 98.7 | 05:14:29pm
+/humidity | 98.7 | 05:14:33pm
+/humidity | 98.7 | 05:14:39pm
+/humidity | 98.7 | 05:14:48pm
+/humidity | 98.7 | 05:14:49pm
+/humidity | 98.7 | 05:14:59pm
+/humidity | 98.7 | 05:15:03pm
+/humidity | 98.7 | 05:15:09pm
+/humidity | 98.7 | 05:15:18pm
+/humidity | 98.7 | 05:15:19pm
+/humidity | 98.7 | 05:15:29pm
+/humidity | 98.7 | 05:15:34pm
+/humidity | 98.7 | 05:15:39pm
+/humidity | 98.7 | 05:15:48pm
+/humidity | 98.7 | 05:15:49pm
+/humidity | 98.7 | 05:15:59pm
+/humidity | 98.7 | 05:16:04pm
+/humidity | 98.6 | 05:16:09pm
+/humidity | 98.6 | 05:16:18pm
+/humidity | 98.7 | 05:16:19pm
+/humidity | 98.7 | 05:16:29pm
+/humidity | 98.7 | 05:16:34pm
+/humidity | 98.7 | 05:16:39pm
+/humidity | 98.7 | 05:16:49pm
+/humidity | 98.7 | 05:16:49pm
+/humidity | 98.7 | 05:16:59pm
+/humidity | 98.7 | 05:17:03pm
+/humidity | 98.7 | 05:17:09pm
+/humidity | 98.7 | 05:17:18pm
+/humidity | 98.7 | 05:17:19pm
+/humidity | 98.7 | 05:17:30pm
+/humidity | 98.6 | 05:17:40pm
+/humidity | 98.6 | 05:17:44pm
+/humidity | 98.7 | 05:17:49pm
+/humidity | 98.7 | 05:18:00pm
+/humidity | 98.7 | 05:18:00pm
+/humidity | 98.6 | 05:18:10pm
+/humidity | 98.6 | 05:18:15pm
+/humidity | 98.7 | 05:18:20pm
+/humidity | 98.7 | 05:18:30pm
+/humidity | 98.6 | 05:18:30pm
+/humidity | 98.6 | 05:18:40pm
+/humidity | 98.6 | 05:18:45pm
+/humidity | 98.6 | 05:18:50pm
+/humidity | 98.6 | 05:19:00pm
+/humidity | 98.7 | 05:19:00pm
+/humidity | 98.7 | 05:19:10pm
+/humidity | 98.7 | 05:19:14pm
+/humidity | 98.7 | 05:19:20pm
+/humidity | 98.7 | 05:19:29pm
+/humidity | 98.7 | 05:19:30pm
+/humidity | 98.7 | 05:19:40pm
+/humidity | 98.7 | 05:19:44pm
+/humidity | 98.7 | 05:19:50pm
+/humidity | 98.7 | 05:19:59pm
+/humidity | 98.6 | 05:20:00pm
+/humidity | 98.6 | 05:20:10pm
+/humidity | 98.6 | 05:20:15pm
+/humidity | 98.6 | 05:20:20pm
+/humidity | 98.6 | 05:20:29pm
+/humidity | 98.6 | 05:20:30pm
+/humidity | 98.7 | 05:20:40pm
+/humidity | 98.7 | 05:20:44pm
+/humidity | 98.6 | 05:20:50pm
+/humidity | 98.6 | 05:20:59pm
+/humidity | 98.7 | 05:21:00pm
+/humidity | 98.7 | 05:21:10pm
+/humidity | 98.7 | 05:21:15pm
+/humidity | 98.6 | 05:21:20pm
+/humidity | 98.6 | 05:21:30pm
+/humidity | 98.7 | 05:21:30pm
+/humidity | 98.6 | 05:21:40pm
+/humidity | 98.6 | 05:21:45pm
+/humidity | 98.7 | 05:21:50pm
+/humidity | 98.7 | 05:22:00pm
+/humidity | 98.6 | 05:22:00pm
+/humidity | 98.7 | 05:22:10pm
+/humidity | 98.7 | 05:22:14pm
+/humidity | 98.7 | 05:22:20pm
+/humidity | 98.7 | 05:22:30pm
+/humidity | 98.6 | 05:22:30pm
+/humidity | 98.7 | 05:22:40pm
+/humidity | 98.7 | 05:22:44pm
+/humidity | 98.7 | 05:22:50pm
+/humidity | 98.7 | 05:22:59pm
+/humidity | 98.7 | 05:23:00pm
+/humidity | 98.7 | 05:23:11pm
+/humidity | 98.7 | 05:23:20pm
+/humidity | 98.7 | 05:23:25pm
+/humidity | 98.7 | 05:23:31pm
+/humidity | 98.7 | 05:23:41pm
+/humidity | 98.7 | 05:23:41pm
+/humidity | 98.7 | 05:23:51pm
+/humidity | 98.7 | 05:23:56pm
+/humidity | 98.6 | 05:24:01pm
+/humidity | 98.6 | 05:24:10pm
+/humidity | 98.7 | 05:24:11pm
+/humidity | 98.7 | 05:24:21pm
+/humidity | 98.7 | 05:24:25pm
+/humidity | 98.7 | 05:24:31pm
+/humidity | 98.7 | 05:24:41pm
+/humidity | 98.7 | 05:24:41pm
+/humidity | 98.7 | 05:24:51pm
+/humidity | 98.7 | 05:24:56pm
+/humidity | 98.7 | 05:25:01pm
+/humidity | 98.7 | 05:25:10pm
+/humidity | 98.7 | 05:25:11pm
+/humidity | 98.7 | 05:25:21pm
+/humidity | 98.7 | 05:25:25pm
+/humidity | 98.7 | 05:25:31pm
+/humidity | 98.7 | 05:25:40pm
+/humidity | 98.7 | 05:25:41pm
+/humidity | 98.7 | 05:25:51pm
+/humidity | 98.7 | 05:25:55pm
+/humidity | 98.7 | 05:26:01pm
+/humidity | 98.7 | 05:26:10pm
+/humidity | 98.6 | 05:26:11pm
+/humidity | 98.7 | 05:26:21pm
+/humidity | 98.7 | 05:26:26pm
+/humidity | 98.6 | 05:26:31pm
+/humidity | 98.6 | 05:26:40pm
+/humidity | 98.7 | 05:26:41pm
+/humidity | 98.7 | 05:26:51pm
+/humidity | 98.7 | 05:26:56pm
+/humidity | 98.7 | 05:27:01pm
+/humidity | 98.7 | 05:27:10pm
+/humidity | 98.7 | 05:27:11pm
+/humidity | 98.7 | 05:27:21pm
+/humidity | 98.7 | 05:27:25pm
+/humidity | 98.7 | 05:27:31pm
+/humidity | 98.7 | 05:27:40pm
+/humidity | 98.7 | 05:27:41pm
+/humidity | 98.7 | 05:27:51pm
+/humidity | 98.7 | 05:27:55pm
+/humidity | 98.7 | 05:28:01pm
+/humidity | 98.7 | 05:28:11pm
+/humidity | 98.7 | 05:28:11pm
+/humidity | 98.7 | 05:28:21pm
+/humidity | 98.7 | 05:28:25pm
+/humidity | 98.7 | 05:28:31pm
+/humidity | 98.7 | 05:28:40pm
+/humidity | 98.7 | 05:28:42pm
+/humidity | 98.7 | 05:28:52pm
+/humidity | 98.7 | 05:28:55pm
+/humidity | 98.6 | 05:29:02pm
+/humidity | 98.6 | 05:29:10pm
+/humidity | 98.7 | 05:29:12pm
+/humidity | 98.7 | 05:29:22pm
+/humidity | 98.7 | 05:29:25pm
+/humidity | 98.7 | 05:29:32pm
+/humidity | 98.7 | 05:29:41pm
+/humidity | 98.7 | 05:29:42pm
+/humidity | 98.6 | 05:29:52pm
+/humidity | 98.6 | 05:29:55pm
+/humidity | 98.7 | 05:30:02pm
+/humidity | 98.7 | 05:30:10pm
+/humidity | 98.7 | 05:30:12pm
+/humidity | 98.7 | 05:30:22pm
+/humidity | 98.7 | 05:30:26pm
+/humidity | 98.7 | 05:30:32pm
+/humidity | 98.7 | 05:43:40pm
+/humidity | 98.7 | 05:43:45pm
+/humidity | 98.7 | 05:43:55pm
+/humidity | 98.7 | 05:43:55pm
+/humidity | 98.7 | 05:44:05pm
+/humidity | 98.7 | 05:44:10pm
+/humidity | 98.7 | 05:44:15pm
+/humidity | 98.7 | 05:44:24pm
+/humidity | 98.7 | 05:44:25pm
+/humidity | 98.7 | 05:44:35pm
+/humidity | 98.7 | 05:44:40pm
+/humidity | 98.7 | 05:44:45pm
+/humidity | 98.7 | 05:44:55pm
+/humidity | 98.7 | 05:44:55pm
+/humidity | 99.0 | 11:01:46am
+/humidity | 99.0 | 11:01:54am
+/humidity | 99.0 | 11:02:00am
+/humidity | 99.0 | 11:02:04am
+/humidity | 99.0 | 11:02:14am
+/humidity | 99.0 | 11:02:15am
+/humidity | 99.0 | 11:02:24am
+/humidity | 99.0 | 11:02:30am
+/humidity | 99.0 | 11:02:34am
+/humidity | 99.0 | 11:02:44am
+/humidity | 99.0 | 11:02:45am
+/humidity | 99.0 | 11:02:54am
+/humidity | 99.0 | 11:03:00am
+/humidity | 99.0 | 11:03:04am
+/humidity | 99.0 | 11:03:14am
+/humidity | 99.0 | 11:03:15am
+/humidity | 99.0 | 11:03:24am
+/humidity | 99.0 | 11:03:30am
+/humidity | 99.0 | 11:03:34am
+/humidity | 99.0 | 11:03:44am
+/humidity | 99.0 | 11:03:45am
+/humidity | 99.0 | 11:03:54am
+/humidity | 99.0 | 11:04:00am
+/humidity | 99.0 | 11:04:04am
+/humidity | 99.0 | 11:04:14am
+/humidity | 99.0 | 11:04:15am
+/humidity | 99.0 | 11:04:24am
+/humidity | 99.0 | 11:04:30am
+/humidity | 99.0 | 11:04:34am
+/humidity | 99.0 | 11:04:44am
+/humidity | 99.0 | 11:04:45am
+/humidity | 99.0 | 11:04:54am
+/humidity | 99.0 | 11:05:00am
+/humidity | 99.0 | 11:05:05am
+/humidity | 99.0 | 11:05:15am
+/humidity | 99.0 | 11:05:15am
+/humidity | 99.0 | 11:05:25am
+/humidity | 99.0 | 11:05:30am
+/humidity | 99.0 | 11:05:35am
+/humidity | 99.0 | 11:05:45am
+/humidity | 99.0 | 11:05:45am
+/humidity | 99.0 | 11:05:55am
+/humidity | 99.0 | 11:06:00am
+/humidity | 99.0 | 11:06:05am
+/humidity | 99.0 | 11:06:15am
+/humidity | 99.0 | 11:06:15am
+/humidity | 99.0 | 11:06:25am
+/humidity | 99.0 | 11:06:30am
+/humidity | 99.0 | 11:06:35am
+/humidity | 99.0 | 11:06:45am
+/humidity | 99.0 | 11:06:45am
+/humidity | 99.0 | 11:06:55am
+/humidity | 99.0 | 11:07:00am
+/humidity | 99.0 | 11:07:05am
+/humidity | 99.0 | 11:07:15am
+/humidity | 99.0 | 11:07:15am
+/humidity | 99.0 | 11:07:25am
+/humidity | 99.0 | 11:07:30am
+/humidity | 99.0 | 11:07:35am
+/humidity | 99.0 | 11:07:45am
+/humidity | 99.0 | 11:07:55am
+/humidity | 99.0 | 11:08:00am
+/humidity | 99.0 | 11:08:05am
+/humidity | 99.0 | 11:08:15am
+/humidity | 99.0 | 11:08:15am
+/humidity | 99.0 | 11:08:25am
+/humidity | 99.0 | 11:08:30am
+/humidity | 99.0 | 11:08:35am
+/humidity | 99.0 | 11:09:26am
+/humidity | 99.0 | 11:09:36am
+/humidity | 99.0 | 11:09:40am
+/humidity | 99.0 | 11:09:45am
+/humidity | 99.0 | 11:09:55am
+/humidity | 99.0 | 11:09:56am
+/humidity | 99.0 | 11:10:06am
+/humidity | 99.0 | 11:10:10am
+/humidity | 99.0 | 11:10:16am
+/humidity | 99.0 | 11:10:25am
+/humidity | 99.0 | 11:10:26am
+/humidity | 99.0 | 11:10:36am
+/humidity | 99.0 | 11:10:40am
+/humidity | 99.0 | 11:10:46am
+/humidity | 99.0 | 11:10:55am
+/humidity | 99.0 | 11:10:56am
+/humidity | 99.0 | 11:11:06am
+/humidity | 99.0 | 11:11:10am
+/humidity | 99.0 | 11:11:16am
+/humidity | 99.0 | 11:11:25am
+/humidity | 99.0 | 11:11:26am
+/humidity | 99.0 | 11:11:36am
+/humidity | 99.0 | 11:11:40am
+/humidity | 99.0 | 11:11:46am
+/humidity | 99.0 | 11:11:55am
+/humidity | 99.0 | 11:11:56am
+/humidity | 99.0 | 11:12:06am
+/humidity | 99.0 | 11:12:10am
+/humidity | 99.0 | 11:12:16am
+/humidity | 99.0 | 11:12:25am
+/humidity | 99.0 | 11:12:26am
+/humidity | 99.0 | 11:12:36am
+/humidity | 99.0 | 11:12:40am
+/humidity | 99.0 | 11:12:46am
+/humidity | 99.0 | 11:12:55am
+/humidity | 99.0 | 11:12:56am
+/humidity | 99.0 | 11:13:06am
+/humidity | 99.0 | 11:13:10am
+/humidity | 99.0 | 11:13:16am
+/humidity | 99.0 | 11:13:27am
+/humidity | 99.0 | 11:13:27am
+/humidity | 99.0 | 11:13:37am
+/humidity | 99.0 | 11:13:41am
+/humidity | 99.0 | 11:13:47am
+/humidity | 99.0 | 11:13:57am
+/humidity | 99.0 | 11:13:57am
+/humidity | 99.0 | 11:14:07am
+/humidity | 99.0 | 11:14:12am
+/humidity | 99.0 | 11:14:17am
+/humidity | 99.0 | 11:14:27am
+/humidity | 99.0 | 11:14:27am
+/humidity | 99.0 | 11:14:38am
+/humidity | 99.0 | 11:14:40am
+/humidity | 99.0 | 11:14:47am
+/humidity | 99.0 | 11:14:55am
+/humidity | 99.0 | 11:14:58am
+/humidity | 99.0 | 11:15:08am
+/humidity | 99.0 | 11:15:10am
+/humidity | 99.0 | 11:15:18am
+/humidity | 99.0 | 11:15:25am
+/humidity | 99.0 | 11:15:27am
+/humidity | 99.0 | 11:15:38am
+/humidity | 99.0 | 11:15:48am
+/humidity | 99.0 | 11:15:53am
+/humidity | 99.0 | 11:15:58am
+/humidity | 99.0 | 11:16:07am
+/humidity | 99.0 | 11:16:08am
+/humidity | 99.0 | 11:16:18am
+/humidity | 99.0 | 11:16:22am
+/humidity | 99.0 | 11:16:28am
+/humidity | 99.0 | 11:16:38am
+/humidity | 99.0 | 11:16:38am
+/humidity | 99.0 | 11:16:48am
+/humidity | 99.0 | 11:16:52am
+/humidity | 99.0 | 11:16:58am
+/humidity | 99.0 | 11:17:08am
+/humidity | 99.0 | 11:17:08am
+/humidity | 99.0 | 11:17:18am
+/humidity | 99.0 | 11:17:22am
+/humidity | 99.0 | 11:17:28am
+/humidity | 99.0 | 11:17:38am
+/humidity | 99.0 | 11:17:38am
+/humidity | 99.0 | 11:17:48am
+/humidity | 99.0 | 11:17:53am
+/humidity | 99.0 | 11:17:58am
+/humidity | 99.0 | 11:18:08am
+/humidity | 99.0 | 11:18:08am
+/humidity | 99.0 | 11:18:18am
+/humidity | 99.0 | 11:18:22am
+/humidity | 99.0 | 11:18:28am
+/humidity | 99.0 | 11:18:37am
+/humidity | 99.0 | 11:18:38am
+/humidity | 99.0 | 11:18:48am
+/humidity | 99.0 | 11:18:52am
+/humidity | 99.0 | 11:18:58am
+/humidity | 99.0 | 11:19:08am
+/humidity | 99.0 | 11:19:08am
+/humidity | 99.0 | 11:19:18am
+/humidity | 99.0 | 11:19:22am
+/humidity | 99.0 | 11:19:28am
+/humidity | 99.0 | 18 01 2017 11:19:42am
+/humidity | 99.0 | 18 01 2017 11:19:48am
+/humidity | 99.0 | 18 01 2017 11:19:58am
+/humidity | 99.0 | 18 01 2017 11:19:58am
+/humidity | 99.0 | 18 01 2017 11:20:08am
+/humidity | 99.0 | 18 01 2017 11:20:13am
+/humidity | 99.0 | 18 01 2017 11:20:18am
+/humidity | 99.0 | 18 01 2017 11:20:27am
+/humidity | 99.0 | 18 01 2017 11:20:28am
+/humidity | 99.0 | 18 01 2017 11:20:38am
+/humidity | 99.0 | 18 01 2017 11:20:43am
+/humidity | 99.0 | 18 01 2017 11:20:48am
+/humidity | 99.0 | 18 01 2017 11:20:58am
+/humidity | 99.0 | 18 01 2017 11:20:58am
+/humidity | 99.0 | 18 01 2017 11:21:08am
+/humidity | 99.0 | 18 01 2017 11:21:12am
+/humidity | 99.0 | 18 01 2017 11:21:18am
+/humidity | 99.0 | 18 01 2017 11:21:27am
+/humidity | 99.0 | 18 01 2017 11:21:28am
+/humidity | 99.0 | 18 01 2017 11:21:38am
+/humidity | 99.0 | 18 01 2017 11:21:43am
+/humidity | 99.0 | 18 01 2017 11:21:48am
+/humidity | 99.0 | 18 01 2017 11:21:58am
+/humidity | 99.0 | 18 01 2017 11:21:58am
+/humidity | 99.0 | 18 01 2017 11:22:09am
+/humidity | 99.0 | 18 01 2017 11:22:19am
+/humidity | 99.0 | 18 01 2017 11:22:24am
+/humidity | 99.0 | 18 01 2017 11:22:29am
+/humidity | 99.0 | 18 01 2017 11:22:39am
+/humidity | 99.1 | 18 01 2017 11:22:39am
+/humidity | 99.0 | 18 01 2017 11:22:49am
+/humidity | 99.0 | 18 01 2017 11:22:53am
+/humidity | 99.0 | 18 01 2017 11:22:59am
+/humidity | 99.0 | 18 01 2017 11:23:09am
+/humidity | 99.0 | 18 01 2017 11:23:09am
+/humidity | 99.0 | 18 01 2017 11:23:19am
+/humidity | 99.0 | 18 01 2017 11:23:23am
+/humidity | 99.0 | 18 01 2017 11:23:29am
+/humidity | 99.0 | 18 01 2017 11:23:39am
+/humidity | 99.0 | 18 01 2017 11:23:39am
+/humidity | 99.0 | 18 01 2017 11:23:49am
+/humidity | 99.0 | 18 01 2017 11:23:54am
+/humidity | 99.0 | 18 01 2017 11:23:59am
+/humidity | 99.0 | 18 01 2017 11:24:08am
+/humidity | 99.0 | 18 01 2017 11:24:09am
+/humidity | 99.0 | 18 01 2017 11:24:19am
+/humidity | 99.0 | 18 01 2017 11:24:24am
+/humidity | 99.0 | 18 01 2017 11:24:29am
+/humidity | 99.0 | 18 01 2017 11:24:38am
+/humidity | 99.0 | 18 01 2017 11:24:39am
+/humidity | 99.0 | 18 01 2017 11:24:49am
+/humidity | 99.0 | 18 01 2017 11:24:53am
+/humidity | 99.0 | 18 01 2017 11:24:59am
+/humidity | 99.0 | 18 01 2017 11:25:09am
+/humidity | 99.0 | 18 01 2017 11:25:09am
+/humidity | 99.0 | 18 01 2017 11:25:19am
+/humidity | 99.0 | 18 01 2017 11:25:23am
+/humidity | 99.0 | 18 01 2017 11:25:29am
+/humidity | 99.0 | 18 01 2017 11:25:39am
+/humidity | 99.0 | 18 01 2017 11:25:39am
+/humidity | 99.0 | 18 01 2017 11:25:49am
+/humidity | 99.0 | 18 01 2017 11:25:54am
+/humidity | 99.0 | 18 01 2017 11:25:59am
+/humidity | 99.0 | 18 01 2017 11:26:08am
+/humidity | 99.0 | 18 01 2017 11:26:09am
+/humidity | 99.0 | 18 01 2017 11:26:19am
+/humidity | 99.0 | 18 01 2017 11:26:24am
+/humidity | 99.0 | 18 01 2017 11:26:29am
+/humidity | 99.0 | 18 01 2017 11:26:38am
+/humidity | 99.0 | 18 01 2017 11:26:39am
+/humidity | 99.0 | 18 01 2017 11:26:49am
+/humidity | 99.0 | 18 01 2017 11:26:54am
+/humidity | 99.0 | 18 01 2017 11:26:59am
+/humidity | 99.0 | 18 01 2017 11:27:09am
+/humidity | 99.0 | 18 01 2017 11:27:09am
+/humidity | 99.0 | 18 01 2017 11:27:19am
+/humidity | 99.0 | 18 01 2017 11:27:23am
+/humidity | 99.0 | 18 01 2017 11:27:29am
+/humidity | 99.0 | 18 01 2017 11:27:39am
+/humidity | 99.0 | 18 01 2017 11:27:39am
+/humidity | 99.0 | 18 01 2017 11:27:49am
+/humidity | 99.0 | 18 01 2017 11:27:53am
+/humidity | 99.0 | 18 01 2017 11:27:59am
+/humidity | 99.0 | 18 01 2017 11:28:09am
+/humidity | 99.0 | 18 01 2017 11:28:09am
+/humidity | 99.0 | 18 01 2017 11:28:19am
+/humidity | 99.0 | 18 01 2017 11:28:23am
+/humidity | 99.0 | 18 01 2017 11:28:29am
+/humidity | 99.0 | 18 01 2017 11:28:39am
+/humidity | 99.0 | 18 01 2017 11:28:39am
+/humidity | 99.0 | 18 01 2017 11:28:49am
+/humidity | 99.0 | 18 01 2017 11:28:54am
+/humidity | 99.0 | 18 01 2017 11:28:59am
+/humidity | 99.0 | 18 01 2017 11:29:08am
+/humidity | 99.0 | 18 01 2017 11:29:09am
+/humidity | 99.0 | 18 01 2017 11:29:20am
+/humidity | 99.0 | 18 01 2017 11:29:29am
+/humidity | 99.0 | 18 01 2017 11:29:34am
+/humidity | 99.0 | 18 01 2017 11:29:40am
+/humidity | 99.0 | 18 01 2017 11:29:50am
+/humidity | 99.0 | 18 01 2017 11:30:00am
+/humidity | 99.0 | 18 01 2017 11:30:05am
+/humidity | 99.0 | 18 01 2017 11:30:10am
+/humidity | 99.0 | 18 01 2017 11:30:19am
+/humidity | 99.0 | 18 01 2017 11:30:20am
+/humidity | 99.0 | 18 01 2017 11:30:30am
+/humidity | 99.0 | 18 01 2017 11:30:34am
+/humidity | 99.0 | 18 01 2017 11:30:40am
+/humidity | 99.0 | 18 01 2017 11:30:50am
+/humidity | 99.0 | 18 01 2017 11:30:50am
+/humidity | 99.1 | 18 01 2017 11:31:00am
+/humidity | 99.1 | 18 01 2017 11:31:05am
+/humidity | 99.0 | 18 01 2017 11:31:10am
+/humidity | 99.0 | 18 01 2017 11:31:20am
+/humidity | 99.0 | 18 01 2017 11:31:20am
+/humidity | 99.0 | 18 01 2017 11:31:30am
+/humidity | 99.0 | 18 01 2017 11:31:35am
+/humidity | 99.0 | 18 01 2017 11:31:40am
+/humidity | 99.0 | 18 01 2017 11:31:50am
+/humidity | 99.0 | 18 01 2017 11:31:50am
+/humidity | 99.0 | 18 01 2017 11:32:00am
+/humidity | 99.0 | 18 01 2017 11:32:05am
+/humidity | 99.0 | 18 01 2017 11:32:10am
+/humidity | 99.0 | 18 01 2017 11:32:19am
+/humidity | 99.0 | 18 01 2017 11:32:20am
+/humidity | 99.0 | 18 01 2017 11:32:30am
+/humidity | 99.0 | 18 01 2017 11:32:35am
+/humidity | 99.0 | 18 01 2017 11:32:40am
+/humidity | 99.0 | 18 01 2017 11:32:49am
+/humidity | 99.0 | 18 01 2017 11:32:50am
+/humidity | 99.0 | 18 01 2017 11:33:00am
+/humidity | 99.0 | 18 01 2017 11:33:05am
+/humidity | 99.0 | 18 01 2017 11:33:10am
+/humidity | 99.0 | 18 01 2017 11:33:20am
+/humidity | 99.0 | 18 01 2017 11:33:20am
+/humidity | 99.0 | 18 01 2017 11:33:30am
+/humidity | 99.0 | 18 01 2017 11:33:35am
+/humidity | 99.0 | 18 01 2017 11:33:40am
+/humidity | 99.0 | 18 01 2017 11:33:50am
+/humidity | 99.0 | 18 01 2017 11:33:50am
+/humidity | 99.0 | 18 01 2017 11:34:00am
+/humidity | 99.0 | 18 01 2017 11:34:04am
+/humidity | 99.0 | 18 01 2017 11:34:10am
+/humidity | 99.0 | 18 01 2017 11:34:20am
+/humidity | 99.0 | 18 01 2017 11:34:20am
+/humidity | 99.0 | 18 01 2017 11:34:30am
+/humidity | 99.0 | 18 01 2017 11:34:34am
+/humidity | 99.0 | 18 01 2017 11:34:40am
+/humidity | 99.0 | 18 01 2017 11:34:49am
+/humidity | 99.0 | 18 01 2017 11:34:50am
+/humidity | 99.0 | 18 01 2017 11:35:00am
+/humidity | 99.0 | 18 01 2017 11:35:04am
+/humidity | 99.0 | 18 01 2017 11:35:10am
+/humidity | 99.0 | 18 01 2017 11:35:20am
+/humidity | 99.0 | 18 01 2017 11:35:20am
+/humidity | 99.0 | 18 01 2017 11:35:30am
+/humidity | 99.0 | 18 01 2017 11:35:35am
+/humidity | 99.0 | 18 01 2017 11:35:40am
+/humidity | 99.0 | 18 01 2017 11:35:50am
+/humidity | 99.0 | 18 01 2017 11:35:51am
+/humidity | 99.0 | 18 01 2017 11:36:01am
+/humidity | 99.0 | 18 01 2017 11:36:05am
+/humidity | 99.0 | 18 01 2017 11:36:11am
+/humidity | 99.0 | 18 01 2017 11:36:20am
+/humidity | 99.0 | 18 01 2017 11:36:21am
+/humidity | 99.0 | 18 01 2017 11:36:31am
+/humidity | 99.0 | 18 01 2017 11:36:35am
+/humidity | 99.0 | 18 01 2017 11:36:41am
+/humidity | 99.0 | 18 01 2017 11:36:50am
+/humidity | 99.0 | 18 01 2017 11:36:51am
+/humidity | 99.0 | 18 01 2017 11:37:01am
+/humidity | 99.0 | 18 01 2017 11:37:04am
+/humidity | 99.0 | 18 01 2017 11:37:11am
+/humidity | 99.0 | 18 01 2017 11:37:20am
+/humidity | 99.0 | 18 01 2017 11:37:21am
+/humidity | 99.0 | 18 01 2017 11:37:31am
+/humidity | 99.0 | 18 01 2017 11:37:35am
+/humidity | 99.0 | 18 01 2017 11:37:41am
+/humidity | 99.0 | 18 01 2017 11:37:49am
+/humidity | 99.0 | 18 01 2017 11:37:51am
+/humidity | 99.0 | 18 01 2017 11:38:01am
+/humidity | 99.0 | 18 01 2017 11:38:04am
+/humidity | 99.0 | 18 01 2017 11:38:11am
+/humidity | 99.0 | 18 01 2017 11:38:19am
+/humidity | 99.0 | 18 01 2017 11:38:21am
+/humidity | 99.0 | 18 01 2017 11:38:31am
+/humidity | 99.0 | 18 01 2017 11:38:35am
+/humidity | 99.0 | 18 01 2017 11:38:41am
+/humidity | 99.0 | 18 01 2017 11:38:50am
+/humidity | 99.0 | 18 01 2017 11:38:51am
+/humidity | 99.0 | 18 01 2017 11:39:01am
+/humidity | 99.0 | 18 01 2017 11:39:05am
+/humidity | 99.0 | 18 01 2017 11:39:11am
+/humidity | 99.0 | 18 01 2017 11:39:20am
+/humidity | 99.0 | 18 01 2017 11:39:21am
+/humidity | 99.0 | 18 01 2017 11:39:31am
+/humidity | 99.0 | 18 01 2017 11:39:35am
+/humidity | 99.0 | 18 01 2017 11:39:41am
+/humidity | 99.0 | 18 01 2017 11:39:49am
+/humidity | 99.0 | 18 01 2017 11:39:51am
+/humidity | 99.0 | 18 01 2017 11:40:01am
+/humidity | 99.0 | 18 01 2017 11:40:04am
+/humidity | 99.0 | 18 01 2017 11:40:11am
+/humidity | 99.0 | 18 01 2017 11:40:19am
+/humidity | 99.0 | 18 01 2017 11:40:21am
+/humidity | 99.0 | 18 01 2017 11:40:31am
+/humidity | 99.0 | 18 01 2017 11:40:35am
+/humidity | 99.0 | 18 01 2017 11:40:41am
+/humidity | 99.0 | 18 01 2017 11:40:49am
+/humidity | 99.0 | 18 01 2017 11:40:51am
+/humidity | 99.0 | 18 01 2017 11:41:01am
+/humidity | 99.0 | 18 01 2017 11:41:04am
+/humidity | 99.0 | 18 01 2017 11:41:11am
+/humidity | 99.0 | 18 01 2017 11:41:19am
+/humidity | 99.0 | 18 01 2017 11:41:21am
+/humidity | 99.0 | 18 01 2017 11:41:31am
+/humidity | 99.0 | 18 01 2017 11:41:35am
+/humidity | 99.0 | 18 01 2017 11:41:42am
+/humidity | 99.0 | 18 01 2017 11:41:49am
+/humidity | 99.1 | 18 01 2017 11:41:51am
+/humidity | 99.0 | 18 01 2017 11:42:01am
+/humidity | 99.0 | 18 01 2017 11:42:04am
+/humidity | 99.0 | 18 01 2017 11:42:12am
+/humidity | 99.0 | 18 01 2017 11:42:20am
+/humidity | 99.0 | 18 01 2017 11:42:21am
+/humidity | 99.1 | 18 01 2017 11:42:32am
+/humidity | 99.0 | 18 01 2017 11:42:42am
+/humidity | 99.0 | 18 01 2017 11:42:47am
+/humidity | 99.0 | 18 01 2017 11:42:52am
+/humidity | 99.0 | 18 01 2017 11:43:01am
+/humidity | 99.0 | 18 01 2017 11:43:02am
+/humidity | 99.0 | 18 01 2017 11:43:12am
+/humidity | 99.0 | 18 01 2017 11:43:17am
+/humidity | 99.1 | 18 01 2017 11:43:22am
+/humidity | 99.1 | 18 01 2017 11:43:31am
+/humidity | 99.0 | 18 01 2017 11:43:32am
+/humidity | 99.1 | 18 01 2017 11:43:42am
+/humidity | 99.1 | 18 01 2017 11:43:47am
+/humidity | 99.0 | 18 01 2017 11:43:52am
+/humidity | 99.0 | 18 01 2017 11:44:01am
+/humidity | 99.0 | 18 01 2017 11:44:02am
+/humidity | 99.0 | 18 01 2017 11:44:12am
+/humidity | 99.0 | 18 01 2017 11:44:16am
+/humidity | 99.0 | 18 01 2017 11:44:22am
+/humidity | 99.0 | 18 01 2017 11:44:32am
+/humidity | 99.0 | 18 01 2017 11:44:32am
+/humidity | 99.0 | 18 01 2017 11:44:42am
+/humidity | 99.0 | 18 01 2017 11:44:47am
+/humidity | 99.0 | 18 01 2017 11:44:52am
+/humidity | 99.0 | 18 01 2017 11:45:02am
+/humidity | 99.0 | 18 01 2017 11:45:02am
+/humidity | 99.0 | 18 01 2017 11:45:12am
+/humidity | 99.0 | 18 01 2017 11:45:17am
+/humidity | 99.0 | 18 01 2017 11:45:22am
+/humidity | 99.0 | 18 01 2017 11:45:32am
+/humidity | 99.1 | 18 01 2017 11:45:32am
+/humidity | 99.0 | 18 01 2017 11:45:42am
+/humidity | 99.0 | 18 01 2017 11:45:46am
+/humidity | 99.0 | 18 01 2017 11:45:52am
+/humidity | 99.0 | 18 01 2017 11:46:02am
+/humidity | 99.0 | 18 01 2017 11:46:02am
+/humidity | 99.0 | 18 01 2017 11:46:12am
+/humidity | 99.0 | 18 01 2017 11:46:17am
+/humidity | 99.0 | 18 01 2017 11:46:22am
+/humidity | 99.0 | 18 01 2017 11:46:31am
+/humidity | 99.0 | 18 01 2017 11:46:32am
+/humidity | 99.0 | 18 01 2017 11:46:42am
+/humidity | 99.0 | 18 01 2017 11:46:47am
+/humidity | 99.0 | 18 01 2017 11:46:52am
+/humidity | 99.0 | 18 01 2017 11:47:02am
+/humidity | 99.0 | 18 01 2017 11:47:02am
+/humidity | 99.0 | 18 01 2017 11:47:12am
+/humidity | 99.0 | 18 01 2017 11:47:16am
+/humidity | 99.0 | 18 01 2017 11:47:22am
+/humidity | 99.0 | 18 01 2017 11:47:31am
+/humidity | 99.0 | 18 01 2017 11:47:32am
+/humidity | 99.0 | 18 01 2017 11:47:42am
+/humidity | 99.0 | 18 01 2017 11:47:47am
+/humidity | 99.0 | 18 01 2017 11:47:52am
+/humidity | 99.0 | 18 01 2017 11:48:01am
+/humidity | 99.0 | 18 01 2017 11:48:02am
+/humidity | 99.0 | 18 01 2017 11:48:13am
+/humidity | 99.0 | 18 01 2017 11:48:16am
+/humidity | 99.1 | 18 01 2017 11:48:22am
+/humidity | 99.1 | 18 01 2017 11:48:32am
+/humidity | 99.0 | 18 01 2017 11:48:32am
+/humidity | 99.1 | 18 01 2017 11:48:43am
+/humidity | 99.0 | 18 01 2017 11:48:53am
+/humidity | 99.0 | 18 01 2017 11:48:58am
+/humidity | 99.1 | 18 01 2017 11:49:03am
+/humidity | 99.1 | 18 01 2017 11:49:13am
+/humidity | 99.0 | 18 01 2017 11:49:13am
+/humidity | 99.0 | 18 01 2017 11:49:23am
+/humidity | 99.0 | 18 01 2017 11:49:28am
+/humidity | 99.0 | 18 01 2017 11:49:33am
+/humidity | 99.0 | 18 01 2017 11:49:43am
+/humidity | 99.0 | 18 01 2017 11:49:43am
+/humidity | 99.0 | 18 01 2017 11:49:53am
+/humidity | 99.0 | 18 01 2017 11:49:57am
+/humidity | 99.0 | 18 01 2017 11:50:03am
+/humidity | 99.0 | 18 01 2017 11:50:13am
+/humidity | 99.0 | 18 01 2017 11:50:13am
+/humidity | 99.0 | 18 01 2017 11:50:23am
+/humidity | 99.0 | 18 01 2017 11:50:27am
+/humidity | 99.0 | 18 01 2017 11:50:33am
+/humidity | 99.0 | 18 01 2017 11:50:43am
+/humidity | 99.0 | 18 01 2017 11:50:43am
+/humidity | 99.0 | 18 01 2017 11:50:53am
+/humidity | 99.0 | 18 01 2017 11:50:57am
+/humidity | 99.0 | 18 01 2017 11:51:03am
+/humidity | 99.0 | 18 01 2017 11:51:13am
+/humidity | 99.0 | 18 01 2017 11:51:13am
+/humidity | 99.0 | 18 01 2017 11:51:23am
+/humidity | 99.0 | 18 01 2017 11:51:28am
+/humidity | 99.0 | 18 01 2017 11:51:33am
+/humidity | 99.0 | 18 01 2017 11:51:43am
+/humidity | 99.0 | 18 01 2017 11:51:43am
+/humidity | 99.0 | 18 01 2017 11:51:53am
+/humidity | 99.0 | 18 01 2017 11:51:58am
+/humidity | 99.0 | 18 01 2017 11:52:03am
+/humidity | 99.0 | 18 01 2017 11:52:12am
+/humidity | 99.0 | 18 01 2017 11:52:13am
+/humidity | 99.0 | 18 01 2017 11:52:23am
+/humidity | 99.0 | 18 01 2017 11:52:28am
+/humidity | 99.0 | 18 01 2017 11:52:33am
+/humidity | 99.0 | 18 01 2017 11:52:42am
+/humidity | 99.0 | 18 01 2017 11:52:43am
+/humidity | 99.0 | 18 01 2017 11:52:53am
+/humidity | 99.0 | 18 01 2017 11:52:58am
+/humidity | 99.0 | 18 01 2017 11:53:03am
+/humidity | 99.0 | 18 01 2017 11:53:13am
+/humidity | 99.1 | 18 01 2017 11:53:13am
+/humidity | 99.0 | 18 01 2017 11:53:23am
+/humidity | 99.0 | 18 01 2017 11:53:27am
+/humidity | 99.0 | 18 01 2017 11:53:33am
+/humidity | 99.0 | 18 01 2017 11:53:43am
+/humidity | 99.0 | 18 01 2017 11:53:43am
+/humidity | 99.0 | 18 01 2017 11:53:53am
+/humidity | 99.0 | 18 01 2017 11:53:58am
+/humidity | 99.0 | 18 01 2017 11:54:03am
+/humidity | 99.0 | 18 01 2017 11:54:13am
+/humidity | 99.0 | 18 01 2017 11:54:13am
+/humidity | 99.0 | 18 01 2017 11:54:23am
+/humidity | 99.0 | 18 01 2017 11:54:28am
+/humidity | 99.0 | 18 01 2017 11:54:34am
+/humidity | 99.0 | 18 01 2017 11:54:43am
+/humidity | 99.0 | 18 01 2017 11:54:43am
+/humidity | 99.0 | 18 01 2017 11:54:54am
+/humidity | 99.0 | 18 01 2017 11:55:04am
+/humidity | 99.0 | 18 01 2017 11:55:09am
+/humidity | 99.0 | 18 01 2017 11:55:14am
+/humidity | 99.0 | 18 01 2017 11:55:23am
+/humidity | 99.0 | 18 01 2017 11:55:24am
+/humidity | 99.0 | 18 01 2017 11:55:34am
+/humidity | 99.0 | 18 01 2017 11:55:38am
+/humidity | 99.0 | 18 01 2017 13:12:41pm
+/humidity | 99.0 | 18 01 2017 13:12:47pm
+/humidity | 99.0 | 18 01 2017 13:12:55pm
+/humidity | 99.0 | 18 01 2017 13:12:57pm
+/humidity | 99.0 | 18 01 2017 13:13:07pm
+/humidity | 99.0 | 18 01 2017 13:13:11pm
+/humidity | 99.0 | 18 01 2017 13:13:17pm
+/humidity | 99.0 | 18 01 2017 13:13:26pm
+/humidity | 99.0 | 18 01 2017 13:13:27pm
+/humidity | 99.0 | 18 01 2017 13:13:37pm
+/humidity | 99.0 | 18 01 2017 13:13:41pm
+/humidity | 99.0 | 18 01 2017 13:13:47pm
+/humidity | 99.0 | 18 01 2017 13:13:56pm
+/humidity | 99.0 | 18 01 2017 13:13:57pm
+/humidity | 99.0 | 18 01 2017 13:14:07pm
+/humidity | 99.0 | 18 01 2017 13:14:11pm
+/humidity | 99.0 | 18 01 2017 13:14:17pm
+/humidity | 99.0 | 18 01 2017 13:14:26pm
+/humidity | 99.0 | 18 01 2017 13:14:27pm
+/humidity | 99.0 | 18 01 2017 13:14:37pm
+/humidity | 99.0 | 18 01 2017 13:14:40pm
+/humidity | 99.0 | 18 01 2017 13:14:47pm
+/humidity | 99.0 | 18 01 2017 13:14:55pm
+/humidity | 99.0 | 18 01 2017 13:14:57pm
+/humidity | 99.0 | 18 01 2017 13:15:07pm
+/humidity | 99.0 | 18 01 2017 13:15:10pm
+/humidity | 99.0 | 18 01 2017 13:15:17pm
+/humidity | 99.0 | 18 01 2017 13:15:26pm
+/humidity | 99.0 | 18 01 2017 13:15:27pm
+/humidity | 99.0 | 18 01 2017 13:15:37pm
+/humidity | 99.0 | 18 01 2017 13:15:40pm
+/humidity | 99.0 | 18 01 2017 13:15:47pm
+/humidity | 99.0 | 18 01 2017 13:15:56pm
+/humidity | 99.0 | 18 01 2017 13:15:57pm
+/humidity | 99.0 | 18 01 2017 13:16:07pm
+/humidity | 99.0 | 18 01 2017 13:16:10pm
+/humidity | 99.0 | 18 01 2017 13:16:17pm
+/humidity | 99.0 | 18 01 2017 13:16:25pm
+/humidity | 99.0 | 18 01 2017 13:16:27pm
+/humidity | 99.0 | 18 01 2017 13:16:37pm
+/humidity | 99.0 | 18 01 2017 13:16:41pm
+/humidity | 99.0 | 18 01 2017 13:16:47pm
+/humidity | 99.0 | 18 01 2017 13:16:56pm
+/humidity | 99.0 | 18 01 2017 13:16:57pm
+/humidity | 99.0 | 18 01 2017 13:17:07pm
+/humidity | 99.0 | 18 01 2017 13:17:11pm
+/humidity | 99.0 | 18 01 2017 13:17:17pm
+/humidity | 99.0 | 18 01 2017 13:17:25pm
+/humidity | 99.0 | 18 01 2017 13:17:27pm
+/humidity | 99.0 | 18 01 2017 13:17:37pm
+/humidity | 99.0 | 18 01 2017 13:17:40pm
+/humidity | 99.0 | 18 01 2017 13:17:48pm
+/humidity | 99.0 | 18 01 2017 13:17:55pm
+/humidity | 99.0 | 18 01 2017 13:17:58pm
+/humidity | 99.0 | 18 01 2017 13:18:08pm
+/humidity | 99.0 | 18 01 2017 13:18:10pm
+/humidity | 99.0 | 18 01 2017 13:18:18pm
+/humidity | 99.0 | 18 01 2017 13:18:26pm
+/humidity | 99.0 | 18 01 2017 13:18:28pm
+/humidity | 99.0 | 18 01 2017 13:18:38pm
+/humidity | 99.0 | 18 01 2017 13:18:40pm
+/humidity | 99.0 | 18 01 2017 13:18:48pm
+/humidity | 99.0 | 18 01 2017 13:18:56pm
+/humidity | 99.0 | 18 01 2017 13:18:58pm
+/humidity | 99.0 | 18 01 2017 13:19:08pm
+/humidity | 99.0 | 18 01 2017 13:19:10pm
+/humidity | 99.0 | 18 01 2017 13:19:18pm
+/humidity | 99.0 | 18 01 2017 13:19:25pm
+/humidity | 99.0 | 18 01 2017 13:19:28pm
+/humidity | 99.0 | 18 01 2017 13:19:38pm

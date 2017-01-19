@@ -2,11 +2,85 @@
   +outer-container()
   display: flex
   flex-wrap: wrap
+  margin-top: -2em
 
 .weather_data
-  min-width:
+  +span-columns(6)
+  //background-color: $grey
+  margin: 2em auto 0 auto
 
-  height: 20em
-  background-color: $grey
-  +pad()
-  margin-top: 5em
+
+
+  .factor_graph
+    background-color: #eeeeee
+    height: 20em
+
+  .current_factor
+    background-color: transparent
+    position: relative
+    display: flex
+
+
+
+    .factor_meaning
+      display: inline-block
+      //flex-direction: column
+      ////background-color: white
+      position: relative
+      flex-grow: 13
+      order: 2
+
+      h3
+        display: block
+        font-size: 25px
+        text-align: left
+        position: absolute
+
+      .factor_name
+        bottom: 0
+        margin-bottom: 10px
+        //font-size: 20px
+
+
+      .factor_measure
+        top: 0
+        margin-top: 10px
+
+
+    p
+      font-size: 80px
+      display: inline-block
+      //margin: 0
+      //padding: 0
+      //background-color: #eeeeee
+      flex-grow: 1
+      order: 1
+      margin-left: 20px
+      background-image: url("/assets/img/icons/SVG/thermometer-low.svg")
+      background-position: center, center
+      background-repeat: no-repeat, repeat-x
+      background-size: 80%
+
+    #humidity_value
+      background-image: url("/assets/img/icons/SVG/weather.svg")
+
+    #rain_value
+      background-image: url("/assets/img/icons/SVG/cloud-rain.svg")
+
+    #air_p_value
+      background-image: url("/assets/img/icons/SVG/cloud-wind.svg")
+
+    #wind_d_value
+      background-image: url("/assets/img/icons/SVG/compass-north.svg")
+
+    #solar_value
+      background-image: url("/assets/img/icons/SVG/sun.svg")
+
+    .download
+      order: 3
+      flex-grow: 1
+      display: inline-block
+      position: absolute
+      top: 10px
+      right: 20px
+      cursor: pointer

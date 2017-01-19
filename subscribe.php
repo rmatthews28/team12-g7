@@ -31,8 +31,8 @@ $mqtt->close();
  */
 function procmsg($factor, $value)
 {
-    echo "Time: " . date("h:i:sa") . "\n" . "Factor: {$factor}\n$value\n";
-    $date = date("h:i:sa");
+    echo "Time: " . date("d m Y H:i:sa") . "\n" . "Factor: {$factor}\n$value\n";
+    $date = date("d m Y H:i:sa");
 
     $myfile = fopen(__DIR__ . $factor . ".txt", "a") or die("Unable to open file!");
     $weather_data = $factor . " | " . $value . " | " . $date /*. PHP_EOL*/;
