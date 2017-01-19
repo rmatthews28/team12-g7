@@ -1,4 +1,4 @@
-<?php require("history.phtml");
+<?php require("downloads.phtml");
 
 if (isset($_POST["passengers"])) {
 //    echo "Number of selected passengers are:" . $_POST["passengers"];

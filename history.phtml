@@ -28,13 +28,14 @@
 
     <div id="history_wrapper">
 
-        <form action="" method="POST">
+        <form action="download.php" method="POST">
             <input type="range" min="1" max="20" step="1" value="1" id="foo" name="passengers"
                    onchange='document.getElementById("bar").value = "Slider Value = " + document.getElementById("foo").value;'/>
             <input type="text" name="bar" id="bar" value="Slider Value = 1" disabled/>
             <br/>
             <input type=submit name="topLines" value="Download Top Lines"/>
             <input type=submit name="lastLines" value="Download Last Lines"/>
+                </form>
 <!--            <input type=submit name="downloadData" value="Download Data"/>-->
 
             <!--            <select name="Order" class="btn btn-default dropdown-toggle" data-toggle="dropdown">-->
