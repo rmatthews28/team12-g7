@@ -21,7 +21,10 @@
 
 <header>
 
-    <h1>Energy House</h1>
+    <h1><a href="index.php">Energy House</a></h1>
+    <h1><a href="history.php">History</a></h1>
+    <h1><a href="setPoints.php">Set Points</a></h1>
+    <img src="/assets/img/icons/SVG/cloud-download.svg"/><
 
 </header>
 
@@ -68,7 +71,9 @@
 
                 <h3>Temp</h3>
 
-                <?php  getData(temp);?>
+                <tr>
+                    <td><?php getData(temp); ?></td>
+                </tr>
 
             </div>
 
@@ -83,7 +88,9 @@
 
                 <h3>Humidity</h3>
 
-                <?php  getData(humidity);?>
+                <tr>
+                    <td><?php getData(humidity); ?></td>
+                </tr>
 
             </div>
 
@@ -98,7 +105,9 @@
 
                 <h3>A P</h3>
 
-                <?php  getData(air_pressure);?>
+                <tr>
+                    <td><?php getData(air_pressure); ?></td>
+                </tr>
 
             </div>
 
@@ -113,7 +122,9 @@
 
                 <h3>rain</h3>
 
-                <?php  getData(rain);?>
+                <tr>
+                    <td><?php getData(rain); ?></td>
+                </tr>
 
             </div>
 
@@ -128,7 +139,9 @@
 
                 <h3>Wind D</h3>
 
-                <?php  getData(wind_d);?>
+                <tr>
+                    <td><?php getData(wind_d); ?></td>
+                </tr>
 
             </div>
 
@@ -143,7 +156,9 @@
 
                 <h3>wind S</h3>
 
-                <?php  getData(wind_s);?>
+                <tr>
+                    <td><?php getData(wind_s); ?></td>
+                </tr>
 
             </div>
 
@@ -158,7 +173,9 @@
 
 
                 <h3>Solar</h3>
-                <?php  getData(solar);?>
+                <tr>
+                    <td><?php getData(solar); ?></td>
+                </tr>
 
             </div>
 
@@ -181,12 +198,6 @@
                 </tr>
             </thread>
 
-            <style type="text/css">
-                td
-                {
-                    padding:0 15px 0 15px;
-                }
-            </style>
 
             <tr>
                 <td><?php getData(temp); ?></td>
@@ -214,12 +225,11 @@
 
 
 </footer>
-<script src="assets/js/jquery-3.1.1.min.js">
-<script src="assets/js/functions.js">
 
 
 
-</script>
+<script src="assets/js/jquery-3.1.1.min.js"></script>
+<script src="assets/js/functions.js"></script>
 </body>
 
 </html>
