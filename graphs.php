@@ -25,7 +25,7 @@ function getLineGraphData($filepath)
             /*while ((*/
             $line = fgets($handle);/*)) !== false) {*/
             // process the line read.
-            $array = (explode("|", $line));
+            $array = (explode(",", $line));
             $value = $array[1];
             $time = $array[2];
             $timeexplode = (explode(":", $time));
@@ -43,7 +43,7 @@ function getLineGraphData($filepath)
 function getLastLine($filename)
 {
     $line = trim(implode("", array_slice(file($filename), -1)));
-    $array = (explode("|", $line));
+    $array = (explode(",", $line));
     $value = $array[1];
     return $value;
 }
@@ -52,7 +52,7 @@ function getLastLine($filename)
 function getData2()
 {
     $handle = file_get_contents("datatest.txt");
-    $array = (explode("|", $handle));
+    $array = (explode(",", $handle));
     $value = $array[1];
     $time = $array[2];
     $timeexplode = (explode(":", $time));
@@ -86,6 +86,47 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
     google.charts.setOnLoadCallback(drawSolarChart);
     google.charts.setOnLoadCallback(drawWindspeedGauge);
     google.charts.setOnLoadCallback(drawAirpressureGauge);
+
+//    function drawChart($factor) {
+//        var data = new google.visualization.DataTable();
+//        data.addColumn('timeofday', 'Time');
+//        data.addColumn('number', $factor);
+//        var a = $.ajax({
+//            url: $factor.".txt",
+//            dataType:"html",
+//            async: false
+//        }).responseText;
+//        //console.log(a);
+//        /*setInterval( function () {
+//         window.alert(a);
+//         },2000);*/
+//        data.addRows([
+//            <?php //foreach(getLineGraphData($factor.".txt") as $data)
+//        {
+//            echo "[".$data[1].",", $data[0]."],";
+//        } ?>
+//        ]);
+//        var options = {
+//
+//            hAxis: {
+//                gridlines: {
+//                    color: 'transparent'
+//                },
+//                title: 'Time'
+//            },
+//            vAxis: {
+//                gridlines: {
+//                    color: 'transparent'
+//                },
+//                title: $factor
+//            },
+//            curveType: 'function'
+//        };
+//        var tempChart = new google.visualization.LineChart(document.getElementById($factor.'_div'));
+//        tempChart.draw(data, options);
+//        //document.getElementById('temp_graph').innerHTML = '<div id="temp_div"></div>';
+//    }
+
     function drawTempChart() {
         var data = new google.visualization.DataTable();
         data.addColumn('timeofday', 'Time');
@@ -119,7 +160,7 @@ $dataArray = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d
                 },
                 title: 'Temp'
             },
-            curveType: 'function',
+            curveType: 'function'
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('temp_div'));
         tempChart.draw(data, options);

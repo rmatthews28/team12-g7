@@ -1,29 +1,25 @@
-/**
- * Created by CameronCampbell on 13/01/2017.
- */
-$(document).ready(function(){
-
+$( document ).ready(function(){
 
     $(function() {
-        activeProduct();
+        activeHistory();
     });
 
-
-
-    function activeProduct() {
-
-        $('.collection_title').first().addClass('active');
-        $('.collection_wrapper').first().attr('id', 'active');
+    function activeHistory() {
+        $('.collection_title').first().addClass('active_btn');
+        $('.collection_wrapper').first().addClass('active');
 
         $('.collection_title').click(function(){
             var $this = $(this),
                 $siblings = $this.parent().children(),
                 position = $siblings.index($this);
 
-            $('.collection_wrapper').removeAttr('id', 'active').eq(position).attr('id', 'active');
-            $('.collection_title').removeClass('active').eq(position).addClass('active');
+            console.log("1");
+
+            $('.collection_wrapper').removeClass('active').eq(position).addClass('active');
+            $('.collection_title').removeClass('active_btn').eq(position).addClass('active');
         });
 
     }
 
 });
+

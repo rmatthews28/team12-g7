@@ -18,13 +18,10 @@ nav
       font-size: 25px
       a
         color: white
-
-
-.collection_wrapper
-  display: none
-
-  &#active
-    display: block
+    .collection_title
+      &.active_btn
+        a
+          color: lighten($link-blue, 20%)
 
 .filter
   margin: 0
@@ -32,3 +29,41 @@ nav
   background-color: #eeeeee
   display: flex
   justify-content: center
+
+.container
+  +outer-container()
+
+  .collection_wrapper
+    height: 10em
+    +span-columns(12)
+    background-color: blue
+    margin-bottom: 10px
+    display: none
+    &.active
+      display: block
+
+  //.temp_wrapper
+  //  background-color: blue
+  //
+  //.rain_wrapper
+  //  background-color: red
+  //
+  //.humidity_wrapper
+  //  background-color: pink
+  //
+  //.wind_d_wrapper
+  //  background-color: $silver
+  //
+  //.wind_s_wrapper
+  //  background-color: black
+  //
+  //.solar_wrapper
+  //  background-color: cyan
+  //
+  //.a_p_wrapper
+  //  background-color: white
+
+
+
+
+
