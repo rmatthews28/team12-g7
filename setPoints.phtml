@@ -1,137 +1,14 @@
 <?php
-require("graphs.php");
-
 ?>
+<form action="setpoint.php" method="post">
 
-<html lang="eng">
+    <select name="setPoints" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        <option name="set_Point_1">Set Point 1</option>
+        <option value="set_Point_2">Set Point 2</option>
+        <option value="set_Point_3">Set Point 3</option>
+        <option value="set_Point_4">Set Point 4</option>
+    </select>
 
-<head>
-    <title>Energy House</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
-
-</head>
-
-<body>
-
-<header>
-    <meta http-equiv="refresh" content="15">
-    <h1>Set Points</h1>
-    <img src="/assets/img/icons/SVG/cloud-download.svg"/>
-
-</header>
-
-<section>
-
-
-
-        <!-- sepoints 1-4 -->
-
-        <div class="weather_data">
-            <div class="factor_graph" id="s1_div">
-
-            </div>
-            <div class="current_factor">
-
-                <p id="s1_value"><?php echo $setPoint1 ; ?></p>
-
-                <div class="factor_meaning">
-                    <h3 class="factor_measure">point</h3>
-                    <h3 class="factor_name">setpoint 1</h3>
-                </div>
-
-
-            </div>
-
-
-
-        </div>
-
-        <div class="weather_data">
-            <div class="factor_graph" id="s1_div">
-
-            </div>
-            <div class="current_factor">
-
-                <p id="s2_value"><?php echo $setpoint2; ?></p>
-
-                <div class="factor_meaning">
-                    <h3 class="factor_measure">point</h3>
-                    <h3 class="factor_name">setpoint 2</h3>
-                </div>
-
-            </div>
-
-
-
-        </div>
-
-        <div class="weather_data">
-            <div class="factor_graph" id="s3_div">
-
-
-
-            </div>
-            <div class="current_factor">
-
-                <p id="s3_value"><?php echo $setpoint3; ?></p>
-
-                <div class="factor_meaning">
-                    <h3 class="factor_measure">point</h3>
-                    <h3 class="factor_name">setpoint 3</h3>
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="weather_data">
-            <div class="factor_graph" id="s4_div">
-
-            </div>
-            <div class="current_factor">
-
-                <p id="s4_value"><?php echo $setpoint4; ?></p>
-
-                <div class="factor_meaning">
-                    <h3 class="factor_measure">point</h3>
-                    <h3 class="factor_name">setpoint 4</h3>
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-</section>
-
-<footer>
-
-    <p id="demo"></p>
-
-    <script>
-        var xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-                document.getElementById("demo").innerHTML =
-                    this.getAllResponseHeaders();
-            }
-        };
-        xhttp.open("POST", "../../temp.txt", true);
-        //xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-        $filearr = file("../../temp.txt");
-        $lastlines = array_slice($filearr,-1);
-        xhttp.send();
-    </script>
-
-</footer>
-<script src="assets/js/functions.js">
-
-    </>
-    </body>
-
-    </html>
-
+    <input type="number" name="desiredValue" value="1" min="1" max="100">
+    <input type="submit" name="submit" value="Set Point">
+</form>
