@@ -49,7 +49,7 @@ function getLineGraphData($filepath)
 function getLastLine($filename)
 {
     $line = trim(implode("", array_slice(file($filename), -1)));
-    $array = (explode("|", $line));
+    $array = (explode(",", $line));
     $value = $array[1];
     return $value;
 }
@@ -57,8 +57,9 @@ function getLastLine($filename)
 //testing function
 function getData2()
 {
-    $handle = file_get_contents("temp.txt");
-    $array = (explode("|", $handle));
+
+    $handle = file_get_contents("datatest.txt");
+    $array = (explode(",", $handle));
     $value = $array[1];
     $time = $array[2];
     $timeexplode = (explode(":", $time));
@@ -117,7 +118,7 @@ function getData2()
                 },
                 title: 'Temp'
             },
-            curveType: 'function',
+            curveType: 'function'
         };
         var tempChart = new google.visualization.LineChart(document.getElementById('temp_div'));
         tempChart.draw(data, options);

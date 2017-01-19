@@ -1,0 +1,69 @@
+nav
+  background-color: #d7d7d8
+  width: 100vw
+  display: block
+  height: 75px
+  ul
+    display: flex
+    +outer-container()
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: space-around
+    align-content: center
+    align-items: center
+    height: 75px
+
+    li
+      display: block
+      font-size: 25px
+      a
+        color: white
+    .collection_title
+      &.active_btn
+        a
+          color: lighten($link-blue, 20%)
+
+.filter
+  margin: 0
+  padding: 15px 0
+  background-color: #eeeeee
+  display: flex
+  justify-content: center
+
+.container
+  +outer-container()
+
+  .collection_wrapper
+    height: 10em
+    +span-columns(12)
+    background-color: blue
+    margin-bottom: 10px
+    display: none
+    &.active
+      display: block
+
+  //.temp_wrapper
+  //  background-color: blue
+  //
+  //.rain_wrapper
+  //  background-color: red
+  //
+  //.humidity_wrapper
+  //  background-color: pink
+  //
+  //.wind_d_wrapper
+  //  background-color: $silver
+  //
+  //.wind_s_wrapper
+  //  background-color: black
+  //
+  //.solar_wrapper
+  //  background-color: cyan
+  //
+  //.a_p_wrapper
+  //  background-color: white
+
+
+
+
+

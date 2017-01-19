@@ -1,5 +1,7 @@
 <?php
 require("graphs.php");
+require("download.php")
+
 
 ?>
 
@@ -12,13 +14,15 @@ require("graphs.php");
         <link rel="shortcut icon" href="">
         <link rel="stylesheet" href="assets/css/style.css">
         <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
+        <!--<script src="assets/js/jquery-3.1.1.min.js"></script>
+        <script src="assets/js/functions.js"></script>-->
 
     </head>
 
     <body>
 
         <header>
-
+            <meta http-equiv="refresh" content="10">
             <h1>Energy House</h1>
             <img src="/assets/img/icons/SVG/cloud-download.svg"/>
 
@@ -42,7 +46,9 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
+
                     </div>
 
                 </div>
@@ -63,7 +69,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -83,7 +90,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -105,7 +113,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -127,7 +136,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -149,7 +159,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -171,7 +182,8 @@ require("graphs.php");
                     </div>
 
                     <div class="download">
-                        <img src="assets/img/icons/SVG/cloud-download.svg"/>
+                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
+                        <input class="download_btn" type=submit name="download" value=""/>
                     </div>
 
                 </div>
@@ -193,7 +205,7 @@ require("graphs.php");
                     <p id="s1_value">0.1<?php// getData(setpoint1); ?></p>
 
                     <div class="factor_meaning">
-                        <h3 class="factor_measure">point</h3>
+                        <h3 class="factor_measure">points</h3>
                         <h3 class="factor_name">setpoint 1</h3>
                     </div>
 
@@ -224,6 +236,7 @@ require("graphs.php");
 
                     <div class="download">
                         <img src="assets/img/icons/SVG/cloud-download.svg"/>
+
                     </div>
 
                 </div>
@@ -294,27 +307,10 @@ require("graphs.php");
 
         <footer>
 
-            <p id="demo"></p>
-
-            <script>
-                var xhttp = new XMLHttpRequest();
-                xhttp.onreadystatechange = function() {
-                    if (this.readyState == 4 && this.status == 200) {
-                        document.getElementById("demo").innerHTML =
-                            this.getAllResponseHeaders();
-                    }
-                };
-                xhttp.open("POST", "../../temp.txt", true);
-                //xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-                $filearr = file("../../temp.txt");
-                $lastlines = array_slice($filearr,-1);
-                xhttp.send();
-
-                //$( "#demo" ).load( "../../temp.txt");
-            </script>
 
 
         </footer>
+        <script src="assets/js/jquery-3.1.1.min.js">
         <script src="assets/js/functions.js">
 
 
