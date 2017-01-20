@@ -1,9 +1,7 @@
 <?php
 require("models/phpMQTT.php");
-
 $host = "146.87.2.99";
 $port = "1883";
-
 function getData($topic)
 {
     $handle = fopen($topic . ".txt", "r");
@@ -18,13 +16,10 @@ function getData($topic)
     } else
         echo 'No data found';
 }
-
 $desiredValue = $_POST['desiredValue'];
-
 if (isset($_POST['submit'])) {
 //MQTT client id to use for the device. "" will generate a client id automatically
     $mqtt = new phpMQTT($host, $port, "ClientID" . rand());
-
     if ($mqtt->connect(true, NULL, $username, $password)) {
         switch ($_POST['setPoints']) {
             case 'set_Point_1':
@@ -47,6 +42,5 @@ if (isset($_POST['submit'])) {
         echo "Fail or time out<br />";
     }
 }
-
 require("setPoints.phtml");
 ?>

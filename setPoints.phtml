@@ -1,40 +1,53 @@
-<html lang="eng">
+<?php
+?>
 
+<html lang="en">
 <head>
+
+
     <title>Energy House - Setpoints</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="">
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
-    <!--<script src="assets/js/jquery-3.1.1.min.js"></script>
-    <script src="assets/js/functions.js"></script>-->
-
 </head>
+
+
 <body>
+
 <header>
-    <meta http-equiv="refresh" content="30">
+
     <h1><a href="index.php">Energy House</a></h1>
     <h1><a href="history.php">History</a></h1>
     <h1><a href="setPoints.php">Set Points</a></h1>
 
 </header>
 
-<section class="setpoint_controller">
 
-    <form action="setpoint.php" method="post">
+<form action="setpoint.php" method="post">
 
-        <select name="setPoints" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-            <option name="set_Point_1">Set Point 1</option>
-            <option value="set_Point_2">Set Point 2</option>
-            <option value="set_Point_3">Set Point 3</option>
-            <option value="set_Point_4">Set Point 4</option>
-        </select>
+    <select name="setPoints" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        <option name="set_Point_1">Set Point 1</option>
+        <option value="set_Point_2">Set Point 2</option>
+        <option value="set_Point_3">Set Point 3</option>
+        <option value="set_Point_4">Set Point 4</option>
+    </select>
 
-        <input type="number" name="desiredValue" value="1" min="1" max="100">
-        <input type="submit" name="submit" value="Set Point">
-    </form>
+    <input type="number" name="desiredValue" value="1" min="1" max="100">
+    <input type="submit" name="submit" value="Set Point">
+</form>
+
+<section>
+
+
+
 </section>
+
+<footer>
+
+
+</footer>
 
 </body>
 
