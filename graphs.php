@@ -2,7 +2,7 @@
 <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
 <script src="http://code.highcharts.com/highcharts.src.js"></script>
 <script src="http://code.highcharts.com/highcharts-more.src.js"></script>
-<!--<div id="temp_div"></div>-->
+<!--<div id="temp_div"></div>
 <!--<div id="humidity_div"></div>-->
 <!--<div id="airpressure_div"></div>-->
 <!--<div id="rain_div"></div>-->
@@ -15,17 +15,56 @@
 
 
 <?php
-//main fucntion used for line graphs
+//OLD FUNCTION used for line graphs
+//function getLineGraphData($filepath)
+//{
+//    $handle = fopen($filepath, "r");
+//    if ($handle) {
+//        $i = 0;
+//        while($i < 250) {
+//            /*while ((*/
+//            $line = fgets($handle);/*)) !== false) {*/
+//
+//            // splits the 3 values in 3 arrays
+//            $array = (explode(",", $line));
+//            $value = $array[1]; // the value
+//            $time = $array[2]; // the time value
+//            $timeexplode = (explode(" ", $time)); // splits time/date with space as delimiter.
+//            $time2 = $timeexplode[3].", ".$timeexplode[2].", ".$timeexplode[1].""; // adds the date together in the correct format
+//            $timeexplode2 = (explode(":", $timeexplode[4])); // splits the time with : as a delimiter
+//            $time3 = ", ".$timeexplode2[0].", ".$timeexplode2[1].", ".substr($timeexplode2[2], 0, 2); // adds the time together in the correct format
+//
+//            $supertime = $time2.$time3; // adds the times and date together
+//
+//            $superArray[] = [$value, $supertime]; // adds it to the final array
+//
+//
+//            $i++;
+//        }
+//        return $superArray;
+//        fclose($handle);
+//    } else {
+//        //Error handling
+//    }
+//}
+
+
+// new function for line graph data, pulls from end and most recent instead of from begining of file
 function getLineGraphData($filepath)
 {
-    $handle = fopen($filepath, "r");
-    if ($handle) {
-        $i = 0;
-        while($i < 250) {
-            /*while ((*/
-            $line = fgets($handle);/*)) !== false) {*/
-            // splits the 3 values in 3 arrays
-            $array = (explode(",", $line));
+    $fp = fopen($filepath, 'r');
+
+    $linesToShow = 250;
+    $counter = 0;
+
+    $pos = -2; // Skip final new line character (Set to -1 if not present)
+
+    $currentLine = '';
+
+    while ($counter <= $linesToShow && -1 !== fseek($fp, $pos, SEEK_END)) {
+        $char = fgetc($fp);
+        if (PHP_EOL == $char) {
+            $array = (explode(",", $currentLine));
             $value = $array[1]; // the value
             $time = $array[2]; // the time value
             $timeexplode = (explode(" ", $time)); // splits time/date with space as delimiter.
@@ -36,15 +75,19 @@ function getLineGraphData($filepath)
             $supertime = $time2.$time3; // adds the times and date together
 
             $superArray[] = [$value, $supertime]; // adds it to the final array
-            //print_r($timeexplode);
-            $i++;
+            $currentLine = '';
+            $counter++;
+        } else {
+            $currentLine = $char . $currentLine;
         }
-        return $superArray;
-        fclose($handle);
-    } else {
-        //Error handling
+        $pos--;
     }
+
+    return $superArray;
+
 }
+
+
 //gets the last line of the file, explodes into array, pulls the correct data
 function getLastLine($filename)
 {
@@ -53,31 +96,6 @@ function getLastLine($filename)
     $value = $array[1];
     return $value;
 }
-//echo getLastLine("wind_d.txt");
-//testing function
-function getData2()
-{
-
-    $handle = file_get_contents("datatest.txt");
-    $array = (explode(",", $handle));
-    $value = $array[1];
-    $time = $array[2];
-    $timeexplode = (explode(":", $time));
-    echo "[".$timeexplode[0].", ".$timeexplode[1].", ".substr($timeexplode[2], 0, 2)."]";
-    //print_r($timeexplode);
-}
-//echo getData2();
-/*foreach(getData(datatest) as $data)
-{
-    echo "[".$data[1], $data[0]."]";
-}*/
-//echo "[[ 8, 30, 45 ], 4.7]";
-//echo getData(datatest)[4][0];
-//getData2();
-//echo file_get_contents("datatest.txt");
-
-//print_r(getLineGraphData("testdata.txt"));
-//print_r(getLineGraphData("testdata.txt")[1][1]);
 
 ?>
 
