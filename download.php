@@ -12,7 +12,7 @@ function downloadData($topic)
         $last_line = '';
         $range = $_POST['rangeSlider'];
 
-        $array = (explode("", array_slice(file($topic . ".txt"), 1)));
+        $array = (implode("", array_slice(file($topic . ".txt"),1)));
 
         $file = escapeshellarg($topic . ".txt");
 

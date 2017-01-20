@@ -1,37 +1,38 @@
 <?php
 require("graphs.php");
-require("download.php")
-
-
+//require("download.php")
 ?>
 
 <html lang="eng">
 
-    <head>
-        <title>Energy House</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
-        <!--<script src="assets/js/jquery-3.1.1.min.js"></script>
-        <script src="assets/js/functions.js"></script>-->
+<head>
+    <title>Energy House</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
+    <!--<script src="assets/js/jquery-3.1.1.min.js"></script>
+    <script src="assets/js/functions.js"></script>-->
 
-    </head>
+</head>
 
-    <body>
+<body>
 
-        <header>
-            <meta http-equiv="refresh" content="30">
-            <h1><a href="index.php">Energy House</a></h1>
-            <h1><a href="history.php">History</a></h1>
-            <h1><a href="setPoints.php">Set Points</a></h1>
-            <img src="/assets/img/icons/SVG/cloud-download.svg"/>
+<header>
+    <meta http-equiv="refresh" content="30">
+    <h1><a href="index.php">Energy House</a></h1>
+    <h1><a href="history.php">History</a></h1>
+    <h1><a href="setPoints.php">Set Points</a></h1>
+    <div class="download">
+        <input class="download_btn" type=submit name="download_all" value=""/>
+    </div>
 
-        </header>
+</header>
 
-        <section>
+<section>
 
+    <form action="index.php" method="post">
         <div id="weather_wrapper">
 
             <div class="weather_data">
@@ -41,6 +42,7 @@ require("download.php")
                 <div class="current_factor">
 
                     <p id="temp_value"><?php getData(temp); ?></p>
+                    <input type="hidden" name="tempData" max="<?php echo getData(temp); ?>">
 
                     <div class="factor_meaning">
                         <h3 class="factor_measure">°C</h3>
@@ -48,8 +50,8 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_temp" value=""/>
+
 
                     </div>
 
@@ -58,7 +60,6 @@ require("download.php")
 
             <div class="weather_data">
                 <div class="factor_graph" id="humidity_div">
-
 
 
                 </div>
@@ -71,8 +72,8 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_humidity" value=""/>
+
                     </div>
 
                 </div>
@@ -92,8 +93,7 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_rain" value=""/>
                     </div>
 
                 </div>
@@ -101,7 +101,6 @@ require("download.php")
 
             <div class="weather_data">
                 <div class="factor_graph" id="airpressure_div">
-
 
 
                 </div>
@@ -115,8 +114,7 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_air_pressure" value=""/>
                     </div>
 
                 </div>
@@ -124,7 +122,6 @@ require("download.php")
 
             <div class="weather_data">
                 <div class="factor_graph" id="winds_div">
-
 
 
                 </div>
@@ -138,8 +135,7 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_wind_s" value=""/>
                     </div>
 
                 </div>
@@ -161,8 +157,7 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_wind_d" value=""/>
                     </div>
 
                 </div>
@@ -170,7 +165,6 @@ require("download.php")
 
             <div class="weather_data">
                 <div class="factor_graph" id="solar_div">
-
 
 
                 </div>
@@ -184,38 +178,31 @@ require("download.php")
                     </div>
 
                     <div class="download">
-                        <!--<img src="assets/img/icons/SVG/cloud-download.svg"/>-->
-                        <input class="download_btn" type=submit name="download" value=""/>
+                        <input class="download_btn" type=submit name="download_solar" value=""/>
                     </div>
 
                 </div>
 
 
-
             </div>
 
 
-
         </div>
-
-        <button><a href="history.php">History</a></button>
-
-
-        </section>
+    </form>
 
 
-        <footer>
+</section>
 
 
-
-        </footer>
-        <script src="assets/js/jquery-3.1.1.min.js">
-        <script src="assets/js/functions.js">
+<footer>
 
 
+</footer>
+<script src="assets/js/jquery-3.1.1.min.js">
+    //<script src = "assets/js/functions.js" >
 
-        </>
-    </body>
 
-</html>
+        < / body >
+
+        < / html >
 

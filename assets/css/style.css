@@ -15,8 +15,7 @@ html {
   -ms-text-size-adjust: 100%;
   /* 3 */
   -webkit-text-size-adjust: 100%;
-  /* 3 */
-}
+  /* 3 */ }
 
 /* Sections
    ========================================================================== */
@@ -24,8 +23,7 @@ html {
  * Remove the margin in all browsers (opinionated).
  */
 body {
-  margin: 0;
-}
+  margin: 0; }
 
 /**
  * Add the correct display in IE 9-.
@@ -36,8 +34,7 @@ footer,
 header,
 nav,
 section {
-  display: block;
-}
+  display: block; }
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -45,8 +42,7 @@ section {
  */
 h1 {
   font-size: 2em;
-  margin: 0.70em 0;
-}
+  margin: 0.70em 0; }
 
 /* Grouping content
    ========================================================================== */
@@ -58,15 +54,13 @@ figcaption,
 figure,
 main {
   /* 1 */
-  display: block;
-}
+  display: block; }
 
 /**
  * Add the correct margin in IE 8.
  */
 figure {
-  margin: 1em 40px;
-}
+  margin: 1em 40px; }
 
 /**
  * 1. Add the correct box sizing in Firefox.
@@ -78,8 +72,7 @@ hr {
   height: 0;
   /* 1 */
   overflow: visible;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
@@ -89,8 +82,7 @@ pre {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
-  /* 2 */
-}
+  /* 2 */ }
 
 /* Text-level semantics
    ========================================================================== */
@@ -102,8 +94,7 @@ a {
   background-color: transparent;
   /* 1 */
   -webkit-text-decoration-skip: objects;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Remove the outline on focused links when they are also active or hovered
@@ -111,8 +102,7 @@ a {
  */
 a:active,
 a:hover {
-  outline-width: 0;
-}
+  outline-width: 0; }
 
 /**
  * 1. Remove the bottom border in Firefox 39-.
@@ -124,24 +114,21 @@ abbr[title] {
   text-decoration: underline;
   /* 2 */
   text-decoration: underline dotted;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
 b,
 strong {
-  font-weight: inherit;
-}
+  font-weight: inherit; }
 
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
 b,
 strong {
-  font-weight: bolder;
-}
+  font-weight: bolder; }
 
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
@@ -153,30 +140,26 @@ samp {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Add the correct font style in Android 4.3-.
  */
 dfn {
-  font-style: italic;
-}
+  font-style: italic; }
 
 /**
  * Add the correct background and color in IE 9-.
  */
 mark {
   background-color: #ff0;
-  color: #000;
-}
+  color: #000; }
 
 /**
  * Add the correct font size in all browsers.
  */
 small {
-  font-size: 80%;
-}
+  font-size: 80%; }
 
 /**
  * Prevent `sub` and `sup` elements from affecting the line height in
@@ -187,16 +170,13 @@ sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
-  vertical-align: baseline;
-}
+  vertical-align: baseline; }
 
 sub {
-  bottom: -0.25em;
-}
+  bottom: -0.25em; }
 
 sup {
-  top: -0.5em;
-}
+  top: -0.5em; }
 
 /* Embedded content
    ========================================================================== */
@@ -205,30 +185,26 @@ sup {
  */
 audio,
 video {
-  display: inline-block;
-}
+  display: inline-block; }
 
 /**
  * Add the correct display in iOS 4-7.
  */
 audio:not([controls]) {
   display: none;
-  height: 0;
-}
+  height: 0; }
 
 /**
  * Remove the border on images inside links in IE 10-.
  */
 img {
-  border-style: none;
-}
+  border-style: none; }
 
 /**
  * Hide the overflow in IE.
  */
 svg:not(:root) {
-  overflow: hidden;
-}
+  overflow: hidden; }
 
 /* Forms
    ========================================================================== */
@@ -248,8 +224,7 @@ textarea {
   line-height: 1.15;
   /* 1 */
   margin: 0;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Show the overflow in IE.
@@ -258,8 +233,7 @@ textarea {
 button,
 input {
   /* 1 */
-  overflow: visible;
-}
+  overflow: visible; }
 
 /**
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
@@ -268,8 +242,7 @@ input {
 button,
 select {
   /* 1 */
-  text-transform: none;
-}
+  text-transform: none; }
 
 /**
  * 1. Prevent a WebKit bug where (2) destroys native `audio` and `video`
@@ -281,8 +254,7 @@ html [type="button"],
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Remove the inner border and padding in Firefox.
@@ -292,8 +264,7 @@ button::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner {
   border-style: none;
-  padding: 0;
-}
+  padding: 0; }
 
 /**
  * Restore the focus styles unset by the previous rule.
@@ -302,8 +273,7 @@ button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
-}
+  outline: 1px dotted ButtonText; }
 
 /**
  * Change the border, margin, and padding in all browsers (opinionated).
@@ -311,8 +281,7 @@ button:-moz-focusring,
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
-}
+  padding: 0.35em 0.625em 0.75em; }
 
 /**
  * 1. Correct the text wrapping in Edge and IE.
@@ -332,8 +301,7 @@ legend {
   padding: 0;
   /* 3 */
   white-space: normal;
-  /* 1 */
-}
+  /* 1 */ }
 
 /**
  * 1. Add the correct display in IE 9-.
@@ -343,15 +311,13 @@ progress {
   display: inline-block;
   /* 1 */
   vertical-align: baseline;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Remove the default vertical scrollbar in IE.
  */
 textarea {
-  overflow: auto;
-}
+  overflow: auto; }
 
 /**
  * 1. Add the correct box sizing in IE 10-.
@@ -362,16 +328,14 @@ textarea {
   box-sizing: border-box;
   /* 1 */
   padding: 0;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
+  height: auto; }
 
 /**
  * 1. Correct the odd appearance in Chrome and Safari.
@@ -381,16 +345,14 @@ textarea {
   -webkit-appearance: textfield;
   /* 1 */
   outline-offset: -2px;
-  /* 2 */
-}
+  /* 2 */ }
 
 /**
  * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
  */
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
+  -webkit-appearance: none; }
 
 /**
  * 1. Correct the inability to style clickable types in iOS and Safari.
@@ -400,8 +362,7 @@ textarea {
   -webkit-appearance: button;
   /* 1 */
   font: inherit;
-  /* 2 */
-}
+  /* 2 */ }
 
 /* Interactive
    ========================================================================== */
@@ -411,15 +372,13 @@ textarea {
  */
 details,
 menu {
-  display: block;
-}
+  display: block; }
 
 /*
  * Add the correct display in all browsers.
  */
 summary {
-  display: list-item;
-}
+  display: list-item; }
 
 /* Scripting
    ========================================================================== */
@@ -427,15 +386,13 @@ summary {
  * Add the correct display in IE 9-.
  */
 canvas {
-  display: inline-block;
-}
+  display: inline-block; }
 
 /**
  * Add the correct display in IE.
  */
 template {
-  display: none;
-}
+  display: none; }
 
 /* Hidden
    ========================================================================== */
@@ -443,16 +400,13 @@ template {
  * Add the correct display in IE 10-.
  */
 [hidden] {
-  display: none;
-}
+  display: none; }
 
 html {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 *, *::after, *::before {
-  box-sizing: inherit;
-}
+  box-sizing: inherit; }
 
 body {
   margin: 0;
@@ -461,55 +415,43 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #666;
-  font-family: 'Fira Sans', sans-serif;
-  background-color: white;
-}
+  font-family: "Fira Sans", sans-serif;
+  background-color: white; }
 
 i {
   font-size: 40px;
   display: block;
   height: 100px;
   width: 100px;
-  text-align: center;
-}
+  text-align: center; }
 
 * {
   padding: 0;
-  margin: 0;
-}
+  margin: 0; }
 
 section {
   margin: 5% 0;
-  padding-top: 1em;
-}
+  padding-top: 1em; }
 
 .half-space {
   display: flex;
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
-}
-
-.half-space:last-child {
-  margin-right: 0;
-}
+  width: 48.82117%; }
+  .half-space:last-child {
+    margin-right: 0; }
 
 .three-col-wrapper {
-  display: flex;
-}
-
-.three-col-wrapper .three-col-item {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 23.23176%;
-  margin-left: 6.39735%;
-}
-
-.three-col-wrapper .three-col-item:last-child {
-  margin-right: 0;
-}
+  display: flex; }
+  .three-col-wrapper .three-col-item {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 23.23176%;
+    margin-left: 6.39735%; }
+    .three-col-wrapper .three-col-item:last-child {
+      margin-right: 0; }
 
 header {
   width: 100vw;
@@ -518,19 +460,31 @@ header {
   align-content: center;
   display: flex;
   align-items: center;
-  padding-left: 2em;
-}
-
-header h1 {
-  margin-right: 2em;
-}
-
-header img {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  cursor: pointer;
-}
+  padding-left: 2em; }
+  header h1 {
+    margin-right: 2em; }
+  header .download {
+    order: 3;
+    flex-grow: 1;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 30px; }
+    header .download .download_btn {
+      text-decoration: none;
+      padding: 0;
+      margin: 0;
+      border: none;
+      background-color: transparent;
+      background-image: url("/assets/img/icons/SVG/cloud-download.svg");
+      background-position: center, center;
+      background-repeat: no-repeat, repeat-x;
+      background-size: 100%;
+      height: 32px;
+      width: 32px; }
+      header .download .download_btn:hover {
+        content: "Download Data";
+        cursor: pointer; }
 
 footer {
   background-color: #ddd;
@@ -539,97 +493,70 @@ footer {
   flex-direction: row;
   padding-bottom: 6em;
   width: 100vw;
-  clear: both;
-}
-
-footer #footer_title {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 100%;
-  margin-top: 1em;
-}
-
-footer #footer_title:last-child {
-  margin-right: 0;
-}
-
-footer #footer_links {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 40.29137%;
-  margin: 3em 0 3em 0;
-  margin-left: 8.5298%;
-}
-
-footer #footer_links:last-child {
-  margin-right: 0;
-}
-
-footer #footer_links li {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 6.17215%;
-  margin-left: 8.5298%;
-}
-
-footer #footer_links li:last-child {
-  margin-right: 0;
-}
-
-footer .t_and_c {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 100%;
-  text-align: center;
-  margin-top: 3em;
-}
-
-footer .t_and_c:last-child {
-  margin-right: 0;
-}
+  clear: both; }
+  footer #footer_title {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+    margin-top: 1em; }
+    footer #footer_title:last-child {
+      margin-right: 0; }
+  footer #footer_links {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 40.29137%;
+    margin: 3em 0 3em 0;
+    margin-left: 8.5298%; }
+    footer #footer_links:last-child {
+      margin-right: 0; }
+    footer #footer_links li {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 6.17215%;
+      margin-left: 8.5298%; }
+      footer #footer_links li:last-child {
+        margin-right: 0; }
+  footer .t_and_c {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+    text-align: center;
+    margin-top: 3em; }
+    footer .t_and_c:last-child {
+      margin-right: 0; }
 
 ::selection {
-  background: #FFF498;
-}
+  background: #FFF498; }
 
 ::-moz-selection {
-  background: #FFF498;
-}
+  background: #FFF498; }
 
 img::selection {
-  background: transparent;
-}
+  background: transparent; }
 
 img::-moz-selection {
-  background: transparent;
-}
+  background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #FFF498;
-}
+  -webkit-tap-highlight-color: #FFF498; }
 
 a {
   color: #0074D9;
   text-decoration: none;
-  outline: 0;
-}
-
-a:hover, a:focus, a:active {
-  color: #40a6ff;
-}
+  outline: 0; }
+  a:hover, a:focus, a:active {
+    color: #40a6ff; }
 
 a {
   color: black;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 li {
-  list-style: none;
-}
+  list-style: none; }
 
 .section-header {
   font-size: 35px;
@@ -639,14 +566,12 @@ li {
   clear: both;
   display: block;
   width: 100vw;
-  margin-bottom: 2em;
-}
+  margin-bottom: 2em; }
 
 h1, h2, h3, h4, h5 {
   text-transform: uppercase;
   font-weight: lighter;
-  text-align: center;
-}
+  text-align: center; }
 
 button {
   display: block;
@@ -657,7 +582,7 @@ button {
   font-size: 11px;
   font-weight: 600;
   line-height: 38px;
-  letter-spacing: .1rem;
+  letter-spacing: 0.1rem;
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
@@ -666,13 +591,33 @@ button {
   border: 1px solid #bbb;
   cursor: pointer;
   box-sizing: border-box;
-  box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4);
-}
+  box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4); }
+  button:hover {
+    box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);
+    transform: translate(0, -10px); }
 
-button:hover {
-  box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);
-  transform: translate(0, -10px);
-}
+.weather_data .download {
+  order: 3;
+  flex-grow: 1;
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  right: 20px; }
+  .weather_data .download .download_btn {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+    background-image: url("/assets/img/icons/SVG/cloud-download.svg");
+    background-position: center, center;
+    background-repeat: no-repeat, repeat-x;
+    background-size: 100%;
+    height: 32px;
+    width: 32px; }
+    .weather_data .download .download_btn:hover {
+      content: "Download Data";
+      cursor: pointer; }
 
 @media screen and (max-width: 768px) {
   #weather_wrapper {
@@ -681,229 +626,144 @@ button:hover {
     margin-right: auto;
     display: flex;
     flex-wrap: wrap;
-    margin-top: -2em;
-  }
-  #weather_wrapper::after {
-    clear: both;
-    content: "";
-    display: block;
-  }
-  #weather_wrapper .weather_data {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 100%;
-    margin-left: 3.23683%;
-  }
-  #weather_wrapper .weather_data:last-child {
-    margin-right: 0;
-  }
-  #weather_wrapper .weather_data .current_factor .factor_meaning .factor_name {
-    bottom: 0;
-    margin-bottom: 10px;
-  }
-  #weather_wrapper .weather_data .current_factor .factor_meaning .factor_measure {
-    background-color: none;
-  }
-}
-
+    margin-top: -2em; }
+    #weather_wrapper::after {
+      clear: both;
+      content: "";
+      display: block; }
+    #weather_wrapper .weather_data {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 100%;
+      margin-left: 3.23683%; }
+      #weather_wrapper .weather_data:last-child {
+        margin-right: 0; }
+      #weather_wrapper .weather_data .current_factor .factor_meaning .factor_name {
+        bottom: 0;
+        margin-bottom: 10px; }
+      #weather_wrapper .weather_data .current_factor .factor_meaning .factor_measure {
+        background-color: none; } }
 #weather_wrapper {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
   flex-wrap: wrap;
-  margin-top: -2em;
-}
-
-#weather_wrapper::after {
-  clear: both;
-  content: "";
-  display: block;
-}
+  margin-top: -2em; }
+  #weather_wrapper::after {
+    clear: both;
+    content: "";
+    display: block; }
 
 .weather_data {
   float: left;
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
-  margin: 2em auto 0 auto;
-}
-
-.weather_data:last-child {
-  margin-right: 0;
-}
-
-.weather_data .factor_graph {
-  background-color: #eeeeee;
-  height: 20em;
-}
-
-.weather_data .current_factor {
-  background-color: transparent;
-  position: relative;
-  display: flex;
-}
-
-.weather_data .current_factor .factor_meaning {
-  display: inline-block;
-  position: relative;
-  flex-grow: 13;
-  order: 2;
-}
-
-.weather_data .current_factor .factor_meaning h3 {
-  display: block;
-  font-size: 25px;
-  text-align: left;
-  position: absolute;
-}
-
-.weather_data .current_factor .factor_meaning .factor_name {
-  bottom: 0;
-  margin-bottom: 10px;
-}
-
-.weather_data .current_factor .factor_meaning .factor_measure {
-  top: 0;
-  margin-top: 10px;
-}
-
-.weather_data .current_factor p {
-  font-size: 80px;
-  display: inline-block;
-  flex-grow: 1;
-  order: 1;
-  margin-left: 20px;
-  background-image: url("/assets/img/icons/SVG/thermometer-low.svg");
-  background-position: center, center;
-  background-repeat: no-repeat, repeat-x;
-  background-size: 80%;
-}
-
-.weather_data .current_factor #humidity_value {
-  background-image: url("/assets/img/icons/SVG/weather.svg");
-}
-
-.weather_data .current_factor #rain_value {
-  background-image: url("/assets/img/icons/SVG/cloud-rain.svg");
-}
-
-.weather_data .current_factor #air_p_value {
-  background-image: url("/assets/img/icons/SVG/cloud-wind.svg");
-}
-
-.weather_data .current_factor #wind_d_value {
-  background-image: url("/assets/img/icons/SVG/compass-north.svg");
-}
-
-.weather_data .current_factor #solar_value {
-  background-image: url("/assets/img/icons/SVG/sun.svg");
-}
-
-.weather_data .current_factor .download {
-  order: 3;
-  flex-grow: 1;
-  display: inline-block;
-  position: absolute;
-  top: 10px;
-  right: 20px;
-}
-
-.weather_data .current_factor .download .download_btn {
-  text-decoration: none;
-  padding: 0;
-  margin: 0;
-  border: none;
-  background-color: white;
-  background-image: url("/assets/img/icons/SVG/cloud-download.svg");
-  background-position: center, center;
-  background-repeat: no-repeat, repeat-x;
-  background-size: 100%;
-  height: 32px;
-  width: 32px;
-}
-
-.weather_data .current_factor .download .download_btn:hover {
-  content: "Download Data";
-  cursor: pointer;
-}
+  margin: 2em auto 0 auto; }
+  .weather_data:last-child {
+    margin-right: 0; }
+  .weather_data .factor_graph {
+    background-color: #eeeeee;
+    height: 20em; }
+  .weather_data .current_factor {
+    background-color: transparent;
+    position: relative;
+    display: flex; }
+    .weather_data .current_factor .factor_meaning {
+      display: inline-block;
+      position: relative;
+      flex-grow: 13;
+      order: 2; }
+      .weather_data .current_factor .factor_meaning h3 {
+        display: block;
+        font-size: 25px;
+        text-align: left;
+        position: absolute; }
+      .weather_data .current_factor .factor_meaning .factor_name {
+        bottom: 0;
+        margin-bottom: 10px; }
+      .weather_data .current_factor .factor_meaning .factor_measure {
+        top: 0;
+        margin-top: 10px; }
+    .weather_data .current_factor p {
+      font-size: 80px;
+      display: inline-block;
+      flex-grow: 1;
+      order: 1;
+      margin-left: 20px;
+      background-image: url("/assets/img/icons/SVG/thermometer-low.svg");
+      background-position: center, center;
+      background-repeat: no-repeat, repeat-x;
+      background-size: 80%; }
+    .weather_data .current_factor #humidity_value {
+      background-image: url("/assets/img/icons/SVG/weather.svg"); }
+    .weather_data .current_factor #rain_value {
+      background-image: url("/assets/img/icons/SVG/cloud-rain.svg"); }
+    .weather_data .current_factor #air_p_value {
+      background-image: url("/assets/img/icons/SVG/cloud-wind.svg"); }
+    .weather_data .current_factor #wind_d_value {
+      background-image: url("/assets/img/icons/SVG/compass-north.svg"); }
+    .weather_data .current_factor #solar_value {
+      background-image: url("/assets/img/icons/SVG/sun.svg"); }
 
 nav {
   background-color: #d7d7d8;
   width: 100vw;
   display: block;
-  height: 75px;
-}
-
-nav ul {
-  display: flex;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-content: center;
-  align-items: center;
-  height: 75px;
-}
-
-nav ul::after {
-  clear: both;
-  content: "";
-  display: block;
-}
-
-nav ul li {
-  display: block;
-  font-size: 25px;
-}
-
-nav ul li a {
-  color: white;
-}
-
-nav ul .collection_title.active_btn a {
-  color: #40a6ff;
-}
+  height: 75px; }
+  nav ul {
+    display: flex;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    height: 75px; }
+    nav ul::after {
+      clear: both;
+      content: "";
+      display: block; }
+    nav ul li {
+      display: block;
+      font-size: 25px; }
+      nav ul li a {
+        color: white; }
+    nav ul .collection_title.active_btn a {
+      color: #40a6ff; }
 
 .filter {
   margin: 0;
   padding: 15px 0;
   background-color: #eeeeee;
   display: flex;
-  justify-content: center;
-}
+  justify-content: center; }
 
 .container {
   max-width: 1200px;
   margin-left: auto;
-  margin-right: auto;
-}
+  margin-right: auto; }
+  .container::after {
+    clear: both;
+    content: "";
+    display: block; }
+  .container .collection_wrapper {
+    height: 12em;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+    margin-bottom: 10px;
+    display: none;
+    background-color: #ddd; }
+    .container .collection_wrapper:last-child {
+      margin-right: 0; }
+    .container .collection_wrapper.active {
+      display: block;
+      background-color: pink; }
 
-.container::after {
-  clear: both;
-  content: "";
-  display: block;
-}
-
-.container .collection_wrapper {
-  height: 12em;
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 100%;
-  margin-bottom: 10px;
-  display: none;
-  background-color: #ddd;
-}
-
-.container .collection_wrapper:last-child {
-  margin-right: 0;
-}
-
-.container .collection_wrapper.active {
-  display: block;
-  background-color: pink;
-}
+/*# sourceMappingURL=style.css.map */

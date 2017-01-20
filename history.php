@@ -27,7 +27,7 @@ function getData($topic)
             $last_line = `tail -n $range $file`;
         }
 
-        $array = (explode("|", $last_line));
+        $array = (explode(",", $last_line));
         $i=0;
         foreach($array as $value) {
             if($i==0){

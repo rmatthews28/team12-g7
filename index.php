@@ -35,6 +35,51 @@ function getData($topic)
 
 }
 
+if (isset($_POST['download_temp']))
+    downloadData('temp');
+if (isset($_POST['download_humidity']))
+    downloadData(humidity);
+if (isset($_POST['download_rain']))
+    downloadData(rain);
+if (isset($_POST['download_air_pressure']))
+    downloadData(air_pressure);
+if (isset($_POST['download_wind_s']))
+    downloadData(wind_s);
+if (isset($_POST['download_wind_d']))
+    downloadData(wind_d);
+if (isset($_POST['download_solar']))
+    downloadData(solar);
+
+function downloadData($topic) {
+
+
+    //download_btn
+    $file = $topic.'.txt';
+    $newfile = '../team12-g7/downloads/'.$topic.'.csv';
+    if (!copy($file, $newfile)) {
+        echo "failed to copy $file...\n";
+    }
+    else
+        copy($file,$newfile);
+
+
+
+
+    //file_put_contents('../', $file);
+
+}
+
+
+
+
+function downloadAllData() {
+    $weather_factors = array("temp", "humidity", "air_pressure", "rain", "wind_s", "wind_d", "solar");
+    foreach($weather_factors as $factor) {
+        downloadData($factor);
+    }
+
+}
+
 
 
 

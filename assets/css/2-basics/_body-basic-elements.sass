@@ -49,11 +49,27 @@ header
   h1
     margin-right: 2em
 
-  img
+  .download
+    order: 3
+    flex-grow: 1
+    display: inline-block
     position: absolute
     top: 20px
-    right: 20px
-    cursor: pointer
+    right: 30px
+    .download_btn
+      text-decoration: none
+      padding: 0
+      margin: 0
+      border: none
+      background-color: transparent
+      background-image: url("/assets/img/icons/SVG/cloud-download.svg")
+      background-position: center, center
+      background-repeat: no-repeat, repeat-x
+      background-size: 100%
+      +size(32px)
+      &:hover
+        content: "Download Data"
+        cursor: pointer
 
 footer
   background-color: $silver
