@@ -1,5 +1,9 @@
 <?php
+
+
+
 ?>
+
 
 <html lang="en">
 <head>
@@ -28,7 +32,7 @@
 <form action="setpoint.php" method="post">
 
     <select name="setPoints" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-        <option name="set_Point_1">Set Point 1</option>
+        <option value="set_Point_1">Set Point 1</option>
         <option value="set_Point_2">Set Point 2</option>
         <option value="set_Point_3">Set Point 3</option>
         <option value="set_Point_4">Set Point 4</option>
@@ -40,7 +44,133 @@
 
 <section>
 
+    <div id="weather_wrapper">
 
+        <div class="weather_data">
+            <div class="factor_graph" id="temp_div">
+            <!--get graph ($thermometer and $setpoint->getValue()                -->
+
+            </div>
+            <div class="current_factor">
+
+                <p id="sp1_value">
+                    <?php
+
+                    if(isset($_SESSION['setpoint1Value']))
+                    {
+                        echo $_SESSION['setpoint1Value'];
+                    }
+
+                    ?>
+
+                </p>
+                <input type="hidden" name="tempData" max="<?php echo getData(temp); ?>">
+
+                <div class="factor_meaning">
+                    <h3 class="factor_measure">setpoint</h3>
+                    <h3 class="factor_name">Setpoint 1</h3>
+                </div>
+
+                <div class="download">
+                    <input class="download_btn" type=submit name="download_temp" value=""/>
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="weather_data">
+            <div class="factor_graph" id="temp_div">
+
+            </div>
+            <div class="current_factor">
+
+                <p id="temp_value"><?php
+
+                    if(isset($_SESSION['setpoint2Value']))
+                    {
+                        echo $_SESSION['setpoint2Value'];
+                    }
+
+                    ?></p>
+                <input type="hidden" name="tempData" max="<?php echo getData(temp); ?>">
+
+                <div class="factor_meaning">
+                    <h3 class="factor_measure">setpoint</h3>
+                    <h3 class="factor_name">Setpoint 2</h3>
+                </div>
+
+                <div class="download">
+                    <input class="download_btn" type=submit name="download_temp" value=""/>
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="weather_data">
+            <div class="factor_graph" id="temp_div">
+
+            </div>
+            <div class="current_factor">
+
+                <p id="temp_value"><?php
+
+                    if(isset($_SESSION['setpoint3Value']))
+                    {
+                        echo $_SESSION['setpoint3Value'];
+                    }
+
+                    ?></p>
+                <input type="hidden" name="tempData" max="<?php echo getData(temp); ?>">
+
+                <div class="factor_meaning">
+                    <h3 class="factor_measure">setpoint</h3>
+                    <h3 class="factor_name">Setpoint 3</h3>
+                </div>
+
+                <div class="download">
+                    <input class="download_btn" type=submit name="download_temp" value=""/>
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="weather_data">
+            <div class="factor_graph" id="temp_div">
+
+            </div>
+            <div class="current_factor">
+
+                <p id="temp_value"><?php
+
+                    if(isset($_SESSION['setpoint4Value']))
+                    {
+                        echo $_SESSION['setpoint4Value'];
+                    }
+
+                    ?></p>
+                <input type="hidden" name="tempData" max="<?php echo getData(temp); ?>">
+
+                <div class="factor_meaning">
+                    <h3 class="factor_measure">setpoint</h3>
+                    <h3 class="factor_name">Setpoint 4</h3>
+                </div>
+
+                <div class="download">
+                    <input class="download_btn" type=submit name="download_temp" value=""/>
+
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
 
 </section>
 

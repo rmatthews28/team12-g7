@@ -1,5 +1,6 @@
 <?php
 require("setPoints.phtml");
+require("setpoint.php");
 /**
  * Created by PhpStorm.
  * User: CameronCampbell

@@ -1,4 +1,5 @@
-<?php
+<?php session_start();
+
 require("models/phpMQTT.php");
 $host = "146.87.2.99";
 $port = "1883";
@@ -24,15 +25,19 @@ if (isset($_POST['submit'])) {
         switch ($_POST['setPoints']) {
             case 'set_Point_1':
                 $mqtt->publish("/g7/setpoint1", $desiredValue, 0);
+                $_SESSION['setpoint1Value'] = $desiredValue;
                 break;
             case 'set_Point_2':
                 $mqtt->publish("/g7/setpoint2", $desiredValue, 0);
+                $_SESSION['setpoint2Value'] = $desiredValue;
                 break;
             case 'set_Point_3':
                 $mqtt->publish("/g7/setpoint3", $desiredValue, 0);
+                $_SESSION['setpoint3Value'] = $desiredValue;
                 break;
             case 'set_Point_4':
                 $mqtt->publish("/g7/setpoint4", $desiredValue, 0);
+                $_SESSION['setpoint4Value'] = $desiredValue;
                 break;
             default:
                 $mqtt->publish("/g7/setpoint1", $desiredValue, 0);
@@ -42,5 +47,7 @@ if (isset($_POST['submit'])) {
         echo "Fail or time out<br />";
     }
 }
+
+
 require("setPoints.phtml");
 ?>
