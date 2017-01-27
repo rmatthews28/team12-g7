@@ -1,4 +1,4 @@
-$( document ).ready(function(){
+/*$( document ).ready(function(){
 
     $(function() {
         activeHistory();
@@ -22,5 +22,5 @@ $( document ).ready(function(){
 
 
 
-});
+});*/
 

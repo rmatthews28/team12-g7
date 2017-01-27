@@ -620,6 +620,9 @@ button {
       cursor: pointer; }
 
 @media screen and (max-width: 768px) {
+  header {
+    font-size: 10px; }
+
   #weather_wrapper {
     max-width: 1200px;
     margin-left: auto;
